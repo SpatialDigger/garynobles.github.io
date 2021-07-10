@@ -90,4 +90,17 @@ function dragended(d) {
   d.fy = null;
 }
 
+function zoom() {
+    if (x.domain()[0] >= extentX[0] -5 && x.domain()[1] <= extentX[1] +5 && y.domain()[0] >= extentY[0] -5 && y.domain()[1] <= extentY[1] +5) {
+        svg.select(".x.axis").call(xAxis).selectAll("text")
+        .style("font-size", "10px")
+        .attr("dy", "1.5em");
+
+        svg.select(".y.axis").call(yAxis).selectAll("text")
+        .style("font-size", "10px")
+        .attr("dx", "-1em");
+
+        svg.selectAll("circle").attr("transform", "translate(" + d3.event.translate + ")" + " scale(" + d3.event.scale + ")");
+    }
+
 </script>

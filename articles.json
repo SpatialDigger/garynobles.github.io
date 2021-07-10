@@ -118,7 +118,8 @@
       "url": "https://doi.org/10.1016/j.culher.2015.09.006",
       "group": 0
     },
-    {"id": "Caraher 2016",
+    {
+      "id": "Caraher 2016",
       "title": "Slow archaeology: Technology, efficiency, and archaeological work",
       "authors": "Caraher, W.",
       "year": "2016",
@@ -127,9 +128,8 @@
       "pages": "421–441",
       "publisher": "The Digital Press @ The Univeristy of North Dakota",
       "url": "https://doi.org/",
-
-      "group": 0},
-
+      "group": 0
+    },
     {
       "id": "Contributors, P. D. A. L. 2018",
       "title": "PDAL point data abstraction library",
@@ -151,8 +151,8 @@
       "url": "",
       "group": 0
     },
-
-    {"id": "Croix 2019",
+    {
+      "id": "Croix 2019",
       "title": "Single context, metacontext, and high definition archaeology: Integrating new standards of stratigraphic excavation and recording",
       "authors": "Croix, S., Deckers, P., Feveile, C., Knudsen, M., Qvistgaard, S. S., Sindbæk, S. M., & Wouters, B.",
       "year": "2019",
@@ -162,10 +162,8 @@
       "pages": "1591–1631",
       "publisher": "",
       "url": "https://doi.org/10.1007/s10816-019-09417-x",
-
-      "group": 0},
-
-
+      "group": 0
+    },
     {
       "id": "Dawson-Haggerty 2019",
       "title": "Trimesh. Version 3.2.0",
@@ -369,7 +367,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Forte 2014",
+    {
+      "id": "Forte 2014",
       "title": "3D archaeology: New perspectives and challenges – The example of Çatalhöyük",
       "authors": "Forte, M.",
       "year": "2014",
@@ -379,23 +378,21 @@
       "pages": "1–29",
       "publisher": "",
       "url": "https://doi.org/10.5325/jeasmedarcherstu.2.1.0001",
-
-      "group": 0},
-
-      {"id": "Forte et al. 2012",
-        "title": "3D archaeology at Çatalhöyük",
-        "authors": "Forte, M., Dell’Unto, N., Issavi, J., Onsurez, L., & Lercari, N.",
-        "year": "2012",
-        "journal": "International Journal of Heritage in the Digital Era",
-        "volume": "3",
-        "number": "1",
-        "pages": "351–378",
-        "publisher": "",
-        "url": "https://doi.org/10.1260/2047-4970.1.3.351",
-
-        "group": 0},
-
-
+      "group": 0
+    },
+    {
+      "id": "Forte et al. 2012",
+      "title": "3D archaeology at Çatalhöyük",
+      "authors": "Forte, M., Dell’Unto, N., Issavi, J., Onsurez, L., & Lercari, N.",
+      "year": "2012",
+      "journal": "International Journal of Heritage in the Digital Era",
+      "volume": "3",
+      "number": "1",
+      "pages": "351–378",
+      "publisher": "",
+      "url": "https://doi.org/10.1260/2047-4970.1.3.351",
+      "group": 0
+    },
     {
       "id": "Gavryushkina 2018",
       "title": "Layer by (3D) Layer 3D GIS stratigraphic analysis of chlorakas-palloures, cyprus [MA thesis]",
@@ -573,17 +570,15 @@
       "url": "https://doi.org/",
       "group": 0
     },
-
-    {"id": "Latour & Woolgar 1979",
+    {
+      "id": "Latour & Woolgar 1979",
       "title": "Laboratory life. The social construction of scientific facts",
       "authors": "Latour, B., & Woolgar, S.",
       "year": "1979",
       "publisher": "Beverly Hills, CA: Sage Publications",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-
+      "group": 0
+    },
     {
       "id": "Landeschi et al. 2015",
       "title": "Enhanced 3D-GIS: Documenting Insula V 1 in Pompeii",
@@ -635,8 +630,8 @@
       "url": "https://doi.org/10.1080/13658811003623277",
       "group": 0
     },
-
-    {"id": "Leighton 2015",
+    {
+      "id": "Leighton 2015",
       "title": "Excavation methodologies and labour as epistemic concerns in the practice of archaeology. Comparing examples from British and Andean archaeology",
       "authors": "Leighton, M.",
       "year": "2015",
@@ -646,9 +641,8 @@
       "pages": "65–88",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
-
+      "group": 0
+    },
     {
       "id": "Lieberwirth 2008",
       "title": "3D GIS voxel-based model building in archaeology",
@@ -763,8 +757,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-
-    {"id": "Mickel 2021",
+    {
+      "id": "Mickel 2021",
       "title": "Why those who shovel are silent: A history of local archaeological knowledge and labor",
       "authors": "Mickel, A.",
       "year": "2021",
@@ -774,9 +768,8 @@
       "pages": "",
       "publisher": "Boulder, CO: University Press of Colorado",
       "url": "https://doi.org/",
-
-      "group": 0},
-
+      "group": 0
+    },
     {
       "id": "Molero 2020",
       "title": "Poisson surface reconstruction python binding",
@@ -790,8 +783,8 @@
       "url": "https://github.com/mmolero/pypoisson",
       "group": 0
     },
-
-    {"id": "Morgan & Wright 2018",
+    {
+      "id": "Morgan & Wright 2018",
       "title": "Pencils and pixels: Drawing and digital media in archaeological field recording",
       "authors": "Morgan, C., & Wright, H.",
       "year": "2018",
@@ -801,9 +794,8 @@
       "pages": "136–151",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
-
+      "group": 0
+    },
     {
       "id": "National Research Council 2006",
       "title": "Learning to think spatially",
@@ -830,8 +822,8 @@
       "url": "https://doi.org/10.1007/s12520-019-00898-1",
       "group": 0
     },
-
-    {"id": "Olson 2016",
+    {
+      "id": "Olson 2016",
       "title": "The things we can do with pictures: Image-based modeling and archaeology",
       "authors": "Olson, B. R.",
       "year": "2016",
@@ -840,22 +832,21 @@
       "pages": "237–249",
       "publisher": "Grand Forks, The Digital Press @ The Univeristy of North Dakota",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-      {"id": "Olson et al. 2013",
-        "title": "The Tel Akko total archaeology project (Akko, Israel): Assessing the suitability of multi-scale 3D field recording in archaeology",
-        "authors": "Olson, B. R., Placchetti, R. A., Quartermaine, J., & Killebrew, A. E.",
-        "year": "2013",
-        "journal": "Journal of Field Archaeology",
-        "volume": "38",
-        "number": "3",
-        "pages": "244–262",
-        "publisher": "",
-        "url": "https://doi.org/",
-
-        "group": 0},
-
+      "group": 0
+    },
+    {
+      "id": "Olson et al. 2013",
+      "title": "The Tel Akko total archaeology project (Akko, Israel): Assessing the suitability of multi-scale 3D field recording in archaeology",
+      "authors": "Olson, B. R., Placchetti, R. A., Quartermaine, J., & Killebrew, A. E.",
+      "year": "2013",
+      "journal": "Journal of Field Archaeology",
+      "volume": "38",
+      "number": "3",
+      "pages": "244–262",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Open Data Charter 2019",
       "title": "Who we are",
@@ -869,8 +860,8 @@
       "url": "https://opendatacharter.net/",
       "group": 0
     },
-
-    {"id": "Opitz 2015",
+    {
+      "id": "Opitz 2015",
       "title": "Three dimensional field recording in archaeology: An example from Gabii",
       "authors": "Opitz, R. ",
       "year": "2015",
@@ -879,9 +870,8 @@
       "pages": "73–86",
       "publisher": "Grand Forks, ND: The Digital Press @ The University of North Dakota",
       "url": "https://doi.org/",
-
-      "group": 0},
-
+      "group": 0
+    },
     {
       "id": "Orengo 2013",
       "title": "Combining terrestrial stereophotogrammetry, DGPS and GIS-based 3D voxel modelling in the volumetric recording of archaeological features",
@@ -1283,11 +1273,6 @@
       "group": 1
     }
   ],
-
-
-
-
-
   "links": [
     {
       "source": "Nobles & Roosevelt 2021",
@@ -1804,7 +1789,6 @@
       "target": "Olson 2016",
       "value": 1
     },
-
     {
       "source": "Scott et al. 2021",
       "target": "Olson et al. 2013",

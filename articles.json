@@ -1,16 +1,31 @@
 {
   "nodes": [
-    {
-      "id": "Nobles & Roosevelt 2021",
-      "title": "Filling the Void in Archaeological Excavations: 2D Point Clouds to 3D Volumes",
-      "year": "2021",
-      "journal": "Open Archaeology",
-      "volume": "7",
-      "number": "1",
-      "pages": "589-614",
-      "url": "https://doi.org/10.1515/opar-2020-0149",
-      "group": 1
-    },
+
+    {"id": "Aguilera & Lahoz 2006",
+      "title": "Laser Scanning or Image-Based Modeling? A Comparative through the Modelization of San Nicolas Church.",
+      "authors": "Aguilera, D. G., and J. G. Lahoz.",
+      "year": "2006",
+      "journal": "International Archives of Photogrammetry and Remote Sensing",
+      "volume": "36",
+      "number": "B5",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+      {"id": "Allen 2011",
+        "title": "Getting to Know ArcGIS ModelBuilder",
+        "authors": "Allen, D. W.",
+        "year": "2011",
+        "journal": "",
+        "volume": "",
+        "number": "",
+        "pages": "",
+        "publisher": "Redlands, CA: Esri Press",
+        "url": "https://doi.org/",
+
+        "group": 0},
     {
       "id": "Appadurai 1996",
       "title": "Modernity at large cultural dimensions of globalization",
@@ -66,6 +81,18 @@
       "url": "https://doi.org/10.15184/aqy.2014.43",
       "group": 0
     },
+    {"id": "Bernardini et al. 2013",
+      "title": "Quantifying Visual Prominence in Social Landscapes.",
+      "authors": "Bernardini, W., A. Barnash, M. Kumler, and M. Wong",
+      "year": "2013",
+      "journal": "Journal of Archaeological Science",
+      "volume": "40",
+      "number": "11",
+      "pages": "3946–3954",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jas.2013.05.019",
+
+      "group": 0},
     {
       "id": "Bell et al. 2020",
       "title": "PDAL: Point cloud data abstraction library. Release 2.2.0",
@@ -742,7 +769,7 @@
       "group": 0
     },
     {
-      "id": "Landeschi 2019",
+      "id": "Landeschi 2019a",
       "title": "Re-enacting the sequence: Combined digital methods to study a prehistoric cave",
       "authors": "Landeschi, G., Apel, J., Lundström, V., Storå, J., Lindgren, S., & Dell’Unto, N.",
       "year": "",
@@ -754,6 +781,20 @@
       "url": "https://doi.org/10.1007/s12520-018-0724-5",
       "group": 0
     },
+
+    {"id": "Landeschi 2019b",
+      "title": "Rethinking GIS, three-dimensionality and space perception in archaeology",
+      "authors": "Landeschi, G",
+      "year": "2019",
+      "journal": "World Archaeology",
+      "volume": "51",
+      "number": "1",
+      "pages": "17-32",
+      "publisher": "",
+      "url": "https://doi.org/10.1080/00438243.2018.1463171",
+
+      "group": 0},
+
     {
       "id": "Ledoux & Meijers 2011",
       "title": "Topologically consistent 3D city models obtained by extrusion",
@@ -996,6 +1037,17 @@
       "publisher": "",
       "url": "https://doi.org/10.1007/s12520-019-00898-1",
       "group": 0
+    },
+    {
+      "id": "Nobles & Roosevelt 2021",
+      "title": "Filling the Void in Archaeological Excavations: 2D Point Clouds to 3D Volumes",
+      "year": "2021",
+      "journal": "Open Archaeology",
+      "volume": "7",
+      "number": "1",
+      "pages": "589-614",
+      "url": "https://doi.org/10.1515/opar-2020-0149",
+      "group": 1
     },
     {
       "id": "Olson 2016",
@@ -1788,7 +1840,7 @@
     },
     {
       "source": "Nobles & Roosevelt 2021",
-      "target": "Landeschi 2019",
+      "target": "Landeschi 2019a",
       "value": 1
     },
     {
@@ -2244,6 +2296,126 @@
     {
       "source": "van Leusen & Nobles 2018",
       "target": "Wheatley 1995",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "Aguilera & Lahoz 2006",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "Allen 2011",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "Barceló et al. 2003",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "Bernardini et al. 2013",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019a",
+      "target": "",
       "value": 1
     }
   ]

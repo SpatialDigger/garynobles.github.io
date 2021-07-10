@@ -155,6 +155,20 @@
       "url": "https://doi.org/",
       "group": 0
     },
+
+
+    {"id": "Callieri et al. 2011",
+      "title": "Documentation and Interpretation of an Archeological Excavation: An Experience with Dense Stereo Reconstruction Tools.",
+      "authors": "Callieri, M., N. Dell’Unto, M. Dellepiane, R. Scopigno, B. Soderberg, and L. Larsson.",
+      "year": "2011",
+      "editors": "F. Niccolucci, M. Dellepiane, S. P. Serna, H. Rushmeier, and L. Van Gool.",
+      "book section": "VAST",
+      "pages": "33–40",
+      "publisher": "The Eurographics Association Publisher",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
     {
       "id": "Campana 2017",
       "title": "Drones in archaeology. State-of-the-art and future perspectives",
@@ -817,7 +831,7 @@
       "publisher": "",
       "url": "https://doi.org/10.1080/00438243.2018.1463171",
 
-      "group": 0},
+      "group": 1},
 
     {
       "id": "Ledoux & Meijers 2011",
@@ -2350,6 +2364,11 @@
     {
       "source": "Landeschi 2019b",
       "target": "Bezzi et al. 2006",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Callieri et al. 2011",
       "value": 1
     }
   ]

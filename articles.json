@@ -2100,22 +2100,12 @@
       "source": "Scott et al. 2021",
       "target": "Roosevelt et al. 2018",
       "value": 1
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ,
+    }    ,
+        {
+          "source": "van Leusen & Nobles 2018",
+          "target": "Breunig et al. 1995",
+          "value": 1
+        },
     {
       "source": "van Leusen & Nobles 2018",
       "target": "Campanaro et al. 2016",
@@ -2214,6 +2204,36 @@
     {
       "source": "van Leusen & Nobles 2018",
       "target": "Remondino & Campana 2014",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Remondino & Campana 2014",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Schmidt 2015",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Sides & Hack 1995",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "van Leusen & van Gessel 2016",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "van Oosterom 1994",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Wheatley and Gillings 2000",
       "value": 1
     }
   ]

@@ -660,6 +660,98 @@
       "url": "https://doi.org/10.1016/j.jas.2008.06.028",
       "group": 0
     },
+
+    {
+      "id": "Merlo & Shell 2005",
+      "title": "Developing a multidimensional GIS framework for archaeological excavations",
+      "authors": "Merlo, S., & Shell, C. A.",
+      "year": "2005",
+      "editors": "S. Dequal",
+      "book section": "Proceedings CIPA 2005 XX International Symposium: International cooperation to save the world’s cultural heritage: Torino, Italy, 26 September–1 October 2005",
+      "pages": "1–5",
+      "publisher": "Italy: CIPA Organising Committee",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Merlo 2016",
+      "title": "Making visible: Three-dimensional GIS in archaeological excavation",
+      "authors": "Merlo, S.",
+      "year": "2016",
+      "editors": "",
+      "book section": "",
+      "pages": "",
+      "publisher": "Oxford: British Archaeological Reports",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Molero 2020",
+      "title": "Poisson surface reconstruction python binding",
+      "authors": "Molero, M.",
+      "year": "2020",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://github.com/mmolero/pypoisson",
+      "group": 0
+    },
+    {
+      "id": "National Research Council 2006",
+      "title": "Learning to think spatially",
+      "authors": "National Research Council",
+      "year": "2006",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "Washington, DC: The National Academies Press",
+      "url": "https://doi.org/10.17226/11019",
+      "group": 0
+    },
+    {
+      "id": "Nobles et al. 2019",
+      "title": "Bonify 1.0: Evaluating virtual reference collections in teaching and research",
+      "authors": "Nobles, G., Çakırlar, C., & Svetachov, P.",
+      "year": "2019",
+      "journal": "Archaeological and Anthropological Sciences",
+      "volume": "11",
+      "number": "8",
+      "pages": "5705–5716",
+      "publisher": "",
+      "url": "https://doi.org/10.1007/s12520-019-00898-1",
+      "group": 0
+    },
+    {
+      "id": "Open Data Charter 2019",
+      "title": "Who we are",
+      "authors": "Open Data Charter",
+      "year": "2019",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://opendatacharter.net/",
+      "group": 0
+    },
+    {
+      "id": "",
+      "title": "",
+      "authors": "",
+      "year": "",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+
+
     {
       "id": "",
       "title": "",
@@ -777,106 +869,20 @@
       "url": "https://doi.org/",
       "group": 0
     },
+
+
+
+
+
     {
-      "id": "",
-      "title": "",
-      "authors": "",
+      "id": "Roosevelt et al 2019",
+      "title": "Kaymakçı Arkeoloji Projesi: 2016–2017 yılı kazı ve araştırma sonuçları. Kazı Sonuçları Toplantısı",
+      "authors": "Roosevelt, C.H., Ünlüsoy, S., & Luke, C.",
       "year": "",
       "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
+      "volume": "40",
+      "number": "1",
+      "pages": "487–504",
       "publisher": "",
       "url": "https://doi.org/",
       "group": 0
@@ -1111,6 +1117,74 @@
       "source": "Nobles & Roosevelt 2021",
       "target": "Ledoux & Meijers 2011",
       "value": 1
-    }
+    },
+
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Lieberwirth 2008",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Lock & Pouncett 2017",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Lock 2009",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Losier 2007",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Luke et al. 2015",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Luke & Roosevelt 2017",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "McPherron 2009",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Merlo & Shell 2005",
+      "value": 1
+    },
+
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Merlo 2016",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Molero 2020",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "National Research Council 2006",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Nobles et al. 2019",
+      "value": 1
+    },
+
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Open Data Charter 2019",
+      "value": 1
+    }                                                                                                                                                            
   ]
 }

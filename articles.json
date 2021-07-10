@@ -1,6 +1,16 @@
 {
   "nodes": [
-    {"id": "Nobles & Roosevelt 2021","group": 1},
+    {"id": "Nobles & Roosevelt 2021",
+      "title": "Filling the Void in Archaeological Excavations: 2D Point Clouds to 3D Volumes",
+      "year": "2021",
+      "journal": "Open Archaeology",
+      "volume": "7",
+      "number": "1",
+      "pages": "589-614",
+      "url": "https://doi.org/10.1515/opar-2020-0149",
+
+      "group": 1},
+
     {"id": "Emmitt 2019","title": "Digitizing Roonka: The creation of a 3D representation from archival records. Digital Applications in Archaeology and Cultural Heritage", "group": 1},
 
 
@@ -11,13 +21,32 @@
     },
 
 
+    {"id": "Avern & Franssens 2012",
+      "title": "A digital drawing tool for recording excavations: The Nikon iSpace System.",
+      "year": "2012",
+      "journal": "Revive the past. Computer applications and quantitative methods in archaeology (CAA). Proceedings of the 39th international conference, Beijing, April 12–16",
+      "volume": "",
+      "number": "",
+      "pages": "21–29",
+      "publisher": "Amsterdam: Pallas Publications.",
+      "url": "",
+
+      "group": 0},
+
+
+
+
+
+
+
+
 
     {"id": "Nobles & Cakilar 2009", "group": 1}
 
   ],
   "links": [
     {"source": "Nobles & Roosevelt 2021",
-      "target": "Appadurai 1996", 
+      "target": "Appadurai 1996",
       "value": 1},
 
     { "source": "Nobles & Roosevelt 2021",

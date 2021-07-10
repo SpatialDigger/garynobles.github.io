@@ -1,11 +1,32 @@
-Articles
+Groups:
+0: Bibliography not added
+1:
+2:
+3:
+4:
+5:
+6:
 
+Articles
 {"id": "",
   "title": "",
   "year": "",
   "journal": "",
   "volume": "",
   "number": "",
+  "pages": "",
+  "publisher": "",
+  "url": "",
+
+  "group": 0},
+
+book section
+{"id": "",
+  "title": "",
+  "authors": "",
+  "year": "",
+  "editors": "",
+  "book section": "",
   "pages": "",
   "publisher": "",
   "url": "",

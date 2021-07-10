@@ -34,10 +34,114 @@
       "group": 0},
 
 
+      {"id": "Bagi 2018",
+        "title": "The process of 3D documentation in archaeological fieldwork: A case study from the archaeological site of Metsamor. Polish Archaeology in the Mediterranean",
+        "year": "2018",
+        "journal": "",
+        "volume": "26",
+        "number": "1",
+        "pages": "795–808",
+        "publisher": "",
+        "url": "https://doi.org/10.5604/01.3001.0012.1807",
+
+        "group": 0},
+
+
+        {"id": "Barceló et al 2003",
+          "title": "A 3d model of an archaeological excavation",
+          "authors": "Barceló, J. A., De Castro, O., Travet, D., & Vicente, O.",
+          "year": "2003",
+          "editors": "M. Doerr, A. Sarris",
+          "book section": "The digital heritage of archaeology. Computer applications and quantitative methods in archaeology",
+          "pages": "",
+          "publisher": "Athens:
+          Hellenic Ministry of Culture. Archive of Monuments and Publications",
+          "url": "",
+
+          "group": 0},
 
 
 
+          {"id": "Berggren et al 2015",
+            "title": "Revisiting reflexive archaeology at Çatalhöyük: Integrating digital and 3D technologies at the trowel’s edge",
+            "authors": "Berggren, Å., Dell’Unto, N., Forte, M., Haddow, S., Hodder, I., Issavi, J., … Taylor, J. S",
+            "year": "2015",
+            "journal": "Antiquity",
+            "volume": "89",
+            "number": "344",
+            "pages": "433–448",
+            "publisher": "",
+            "url": "https://doi.org/10.15184/aqy.2014.43",
 
+            "group": 0},
+
+            {"id": "Bell et al 2020",
+              "title": "PDAL: Point cloud data abstraction library. Release 2.2.0",
+              "authors": "Bell, A., Chambers, B., Butler, H., & Gerlek, M.",
+              "year": "2020",
+              "journal": "",
+              "volume": "",
+              "number": "",
+              "pages": "",
+              "publisher": "",
+              "url": "https://pdal.io/PDAL.pdf",
+
+              "group": 0},
+
+              {"id": "Bevan et al 2014",
+                "title": "Computer vision, archaeological classification and China’s terracotta warriors",
+                "authors": "Bevan, A., Li, X., Martinón-Torres, M., Green, S., Xia, Y., Zhao, K., … Rehren, T",
+                "year": "2014",
+                "journal": "Journal of Archaeological Science",
+                "volume": "49",
+                "number": "1",
+                "pages": "249–254",
+                "publisher": "",
+                "url": "https://doi.org/10.1016/j.jas.2014.05.014",
+
+                "group": 0},
+
+                {"id": "Campana 2017",
+                  "title": "Drones in archaeology. State-of-the-art and future perspectives",
+                  "authors": "",
+                  "year": "",
+                  "journal": "Archaeological Prospection",
+                  "volume": "24",
+                  "number": "4",
+                  "pages": "275–296",
+                  "publisher": "",
+                  "url": "https://doi.org/10.1002/arp.1569",
+
+                  "group": 0},
+
+                  {"id": "Campanaro et al. 2016",
+                    "title": "3D GIS for cultural heritage restoration: A “white box” workflow",
+                    "authors": "Campanaro, D. M., Landeschi, G., Dell’Unto, N., & Leander Touati, A. M.",
+                    "year": "2016",
+                    "journal": "Journal of Cultural Heritage",
+                    "volume": "18",
+                    "number": "",
+                    "pages": "321–332",
+                    "publisher": "",
+                    "url": "https://doi.org/10.1016/j.culher.2015.09.006",
+
+                    "group": 0},
+
+
+                  {"id": "",
+                    "title": "",
+                    "authors": "",
+                    "year": "",
+                    "editors": "",
+                    "book section": "",
+                    "pages": "",
+                    "publisher": "",
+                    "url": "",
+
+                    "group": 0},
+
+
+      
 
 
 
@@ -48,6 +152,22 @@
     {"source": "Nobles & Roosevelt 2021",
       "target": "Appadurai 1996",
       "value": 1},
+
+    {"source": "Nobles & Roosevelt 2021",
+      "target": "Avern & Franssens 2012",
+      "value": 1},
+
+    {"source": "Nobles & Roosevelt 2021",
+      "target": "Bagi 2018",
+      "value": 1},
+
+    {"source": "Nobles & Roosevelt 2021",
+      "target": "",
+      "value": 1},
+
+
+
+
 
     { "source": "Nobles & Roosevelt 2021",
       "target": "Nobles & Cakilar 2009",

@@ -738,6 +738,41 @@
       "group": 0
     },
     {
+      "id": "Orengo 2013",
+      "title": "Combining terrestrial stereophotogrammetry, DGPS and GIS-based 3D voxel modelling in the volumetric recording of archaeological features",
+      "authors": "Orengo, H. A.",
+      "year": "",
+      "journal": "ISPRS J. Photogrammetry Remote Sens",
+      "volume": "76",
+      "number": "",
+      "pages": "49–55",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2012.07.005",
+      "group": 0
+    },
+    {
+      "id": "Penninga",
+      "title": "3D Topography: A Simplicial Complex-Based Solution in a Spatial DBMS [PhD thesis]",
+      "authors": "Penninga, F.",
+      "year": "2008",
+      "publisher": "Delft University of Technology, Delft.",
+      "url": "https://doi.org/",
+
+      "group": 0},
+    {
+      "id": "Perry & Taylor 2018",
+      "title": "Theorising the digital: A call to action for the archaeological community",
+      "authors": "Perry, S., & Taylor, J. S.",
+      "year": "2018",
+      "editors": "M. Matsumoto & E. Uleberg",
+      "book section": "CAA2016: Oceans of data: Proceedings of the 44th conference on computer applications and quantitative methods in archaeology",
+      "pages": "11–22",
+      "publisher": "Oxford: Archaeopress",
+      "url": "https://doi.org/",
+
+      "group": 0
+    },
+    {
       "id": "",
       "title": "",
       "authors": "",
@@ -750,8 +785,123 @@
       "url": "https://doi.org/",
       "group": 0
     },
-
-
+    {
+      "id": "",
+      "title": "",
+      "authors": "",
+      "year": "",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "",
+      "title": "",
+      "authors": "",
+      "year": "",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "",
+      "title": "",
+      "authors": "",
+      "year": "",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "",
+      "title": "",
+      "authors": "",
+      "year": "",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "",
+      "title": "",
+      "authors": "",
+      "year": "",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "",
+      "title": "",
+      "authors": "",
+      "year": "",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "",
+      "title": "",
+      "authors": "",
+      "year": "",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "",
+      "title": "",
+      "authors": "",
+      "year": "",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "",
+      "title": "",
+      "authors": "",
+      "year": "",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "",
       "title": "",
@@ -1185,6 +1335,6 @@
       "source": "Nobles & Roosevelt 2021",
       "target": "Open Data Charter 2019",
       "value": 1
-    }                                                                                                                                                            
+    }
   ]
 }

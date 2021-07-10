@@ -93,6 +93,18 @@
       "group": 0
     },
     {
+      "id": "Breunig et al. 1995",
+      "title": "‘Implementation of elementary geometric database operations for a 3D-GIS’",
+      "authors": "Breunig, M., Bode, T., and Cremers, A.B.",
+      "year": "1995",
+      "editors": "Waugh, T.C. and Healey,R.G.",
+      "book section": "Advances in GIS research. Proceedings of the 6th International Symposium on Spatial Data Handling, 1994.",
+      "pages": "604–617",
+      "publisher": "London and Bristol, PA: Taylor and Francis",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
       "id": "Campana 2017",
       "title": "Drones in archaeology. State-of-the-art and future perspectives",
       "authors": "",
@@ -252,6 +264,19 @@
       "group": 0
     },
     {
+      "id": "De Kleijn et al. 2015",
+      "title": "A 3D geographic information system for ‘mapping the Via Appia’",
+      "authors": "de Kleijn, M., de Hond, R., Martinez-Rubi, O., and Svetachov, P.",
+      "year": "2015",
+      "journal": "FEWEB Research Memorandum 2015–1",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "Amsterdam: Vrije Universiteit.",
+      "url": "http://dare.ubvu.vu.nl/handle/1871/52425",
+      "group": 0
+    },
+    {
       "id": "Dell’Unto et al. 2016",
       "title": "Experiencing ancient buildings from a 3D GIS perspective: A case drawn from the Swedish Pompeii project",
       "authors": "Dell’Unto, N., Landeschi, G., Leander Touati, A.-M., Ferdani, D., Dellepiane, M., Callieri, M., & Lindgren, S.",
@@ -343,6 +368,32 @@
       "group": 0
     },
     {
+      "id": "ESRI City Engine 2013",
+      "title": "Esri CityEngine 2013 brings powerful modeling to your favorite 3D applications",
+      "authors": "ESRI City Engine",
+      "year": "2013",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "http://www.esri.com/esri-news/releases/13-4qtr/esri-cityengine-2013-brings-powerful-modeling-to-your-favorite-3d-applications",
+      "group": 0
+    },
+    {
+      "id": "Eve 2012",
+      "title": "Augmenting phenomenology: using augmented reality to aid archaeological phenomenology in the landscape",
+      "authors": "Eve, S.",
+      "year": "2012",
+      "journal": "Journal of Archaeological Method and Theory",
+      "volume": "19",
+      "number": "4",
+      "pages": "582–600",
+      "publisher": "",
+      "url": "https://doi.org/10.1007/s10816-012-9142-7",
+      "group": 0
+    },
+    {
       "id": "FAIRPort Mobile Data Open Movement 2020",
       "title": "Data FAIRport. Find, access, interoperate & re-use data",
       "authors": "FAIRPort Mobile Data Open Movement",
@@ -394,6 +445,19 @@
       "group": 0
     },
     {
+      "id": "Frieman & Gillings 2007",
+      "title": "Seeing is perceiving?",
+      "authors": "Frieman, C. and Gillings, M.",
+      "year": "2007",
+      "journal": "World Archaeology",
+      "volume": "39",
+      "number": "1",
+      "pages": "4–16",
+      "publisher": "",
+      "url": "http://www.jstor.org/stable/40026479",
+      "group": 0
+    },
+    {
       "id": "Gavryushkina 2018",
       "title": "Layer by (3D) Layer 3D GIS stratigraphic analysis of chlorakas-palloures, cyprus [MA thesis]",
       "authors": "Gavryushkina, M.",
@@ -426,6 +490,41 @@
       "pages": "3–13",
       "publisher": "",
       "url": "https://doi.org/10.1007/s10708-010-9340-3",
+      "group": 0
+    },
+    {
+      "id": "GRASS Development Team 2008–2012",
+      "title": "3D Raster data(voxel) in GRASS GIS. [version 6.4]",
+      "authors": "GRASS Development Team",
+      "year": "2008–2012",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "grass.osgeo.org/grass64/manuals/raster3dintro.html",
+      "group": 0
+    },
+    {
+      "id": "GRASS Development Team 2014",
+      "title": "GRASS GIS. Visualization and volumetric 3D examples.",
+      "authors": "GRASS Development Team",
+      "year": "2014",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://grass.osgeo.org/screenshots/3D/",
+      "group": 0
+    },
+    {
+      "id": "Harris 1979",
+      "title": "Principles of Archaeological Stratigraphy",
+      "authors": "Harris, E.",
+      "year": "1979",
+      "publisher": "London: Academic Press.",
+      "url": "https://doi.org/",
       "group": 0
     },
     {
@@ -592,11 +691,49 @@
       "group": 0
     },
     {
-      "id": "Landeschi et al. 2016",
+      "id": "Landeschi et al. 2015b",
+      "title": "Enhanced 3D-GIS: documenting InsulaV 1 in Pompeii",
+      "authors": "Landeschi, G., Dell’Unto, N., Ferdani, D., and Lindgren,S.",
+      "year": "2015",
+      "editors": "Gilligny, F., Djindjian, F., Costa,L., Monscati, P., and Robert, S.",
+      "book section": "CAA2014. 21stCentury Archaeology. Concepts, Methods and Tools. Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology",
+      "pages": "349–360",
+      "publisher": "Oxford: Archaeopress",
+      "url": "https://doi.org/10.1016/j.jasrep.2016.11.012",
+      "group": 0
+    },
+    {
+      "id": "Landeschi et al. 2016a",
       "title": "3D-GIS as a platform for visual analysis: Investigating a Pompeian house",
       "authors": "Landeschi, G., Dell’Unto, N., Lundqvist, K., Ferdani, D., Marco, D., & Touati, A. L.",
       "year": "2016",
       "journal": "Journal of Archaeological Research",
+      "volume": "65",
+      "number": "",
+      "pages": "103–113",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jas.2015.11.002",
+      "group": 0
+    },
+    {
+      "id": "Landeschi et al. 2016b",
+      "title": "Assessing the damage of an archaeological site: new contributions from the combination of image-based 3D modelling techniques and GIS",
+      "authors": "Landeschi, G., Nilsson, B., and Dell’Unto, N.",
+      "year": "2016",
+      "journal": "Journal of Archaeological Science: Reports",
+      "volume": "10",
+      "number": "",
+      "pages": "431–440",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Landeschi et al. 2016c",
+      "title": "3D–GIS as a platform for visual analysis:investigating a Pompeian house",
+      "authors": "Landeschi, G., Dell’Unto, N., Lundqvist, K., Ferdani,D., Campanaro, D.M., and Leander Touati, A.-M.",
+      "year": "2016",
+      "journal": "Journal of Archaeological Science",
       "volume": "65",
       "number": "",
       "pages": "103–113",
@@ -652,6 +789,18 @@
       "book section": "Layers of perception. Proceedings of the 35th international conference on computer applications and quantitative methods in archaeology (CAA), Berlin, Germany, April 2–6",
       "pages": "1-8",
       "publisher": "Bonn: Dr. Rudolf Habelt GmbH",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Llobera et al. 2007",
+      "title": "Calculating the inherent visual structure of a landscape (‘total viewshed’) using high-throughput computing",
+      "authors": "Llobera, M., Wheatley, D., Steele, J., Cox, S., and Parchment, O.",
+      "year": "2007",
+      "editors": "Nicolucci,F. and Hermon, S.",
+      "book section": "Beyond the Artifact. Digital Interpretation of the Past. Proceedings of CAA2004 Prato13–17 April 2004. Budapest",
+      "pages": "146–151",
+      "publisher": "Archaeolingua",
       "url": "https://doi.org/",
       "group": 0
     },
@@ -746,6 +895,19 @@
       "group": 0
     },
     {
+      "id": "Merlo 2010",
+      "title": "Contextualising intra-site spatial analysis: the role of three-dimensional GIS modelling in understanding excavation data. PhD Thesis",
+      "authors": "Merlo, S.",
+      "year": "2010",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "University of Cambridge",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
       "id": "Merlo 2016",
       "title": "Making visible: Three-dimensional GIS in archaeological excavation",
       "authors": "Merlo, S.",
@@ -768,6 +930,19 @@
       "pages": "",
       "publisher": "Boulder, CO: University Press of Colorado",
       "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Mlekuz 2004",
+      "title": "Listening to landscapes: modelling past soundscapes in GIS",
+      "authors": "Mlekuz, D. ",
+      "year": "2004",
+      "journal": "Internet Archaeology",
+      "volume": "16",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/10.11141/ia.16.6",
       "group": 0
     },
     {
@@ -886,12 +1061,37 @@
       "group": 0
     },
     {
+      "id": "Paliou & Wheatley 2007",
+      "title": "Integrating spatial analysis and 3D modelling approaches to the study of visual space: Late Bronze Age Akrotiri",
+      "authors": "Paliou, E. and Wheatley, D.",
+      "year": "2007",
+      "editors": "Figueiredo, A. and Leite Velho, G.",
+      "book section": "The World is in your eyes. CAA2005 Computer Applications and Quantitative Methods in Archaeology. Proceedings of the 33rd Conference, Tomar, March 2005. Tomar: CAAPortugal",
+      "pages": "307–312",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
       "id": "Penninga 2008",
       "title": "3D Topography: A Simplicial Complex-Based Solution in a Spatial DBMS [PhD thesis]",
       "authors": "Penninga, F.",
       "year": "2008",
       "publisher": "Delft University of Technology, Delft.",
       "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Penninga & van Oosterom 2008",
+      "title": "A simplicial complex-based DBMS approach to 3D topographic data modelling",
+      "authors": "Penninga, F. and van Oosterom, P.J.M.",
+      "year": "2008",
+      "journal": "International Journal of Geographical Information Science",
+      "volume": "22",
+      "number": "7",
+      "pages": "751–779",
+      "publisher": "",
+      "url": "https://doi.org/10.1080/13658810701673535",
       "group": 0
     },
     {
@@ -944,6 +1144,19 @@
       "group": 0
     },
     {
+      "id": "Potenziani et al. 2015",
+      "title": "3DHOP:3D Heritage Online Presenter",
+      "authors": "Potenziani, M., Callieri, M., Dellepiane, M., Corsini,M., Ponchio, F., and Scopigno, R.",
+      "year": "2015",
+      "journal": "Computers and Graphics",
+      "volume": "52",
+      "number": "",
+      "pages": "129–141",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.cag.2015.07.001",
+      "group": 0
+    },
+    {
       "id": "Potree 2020",
       "title": "WebGL point cloud viewer for large datasets",
       "authors": "Potree",
@@ -967,6 +1180,16 @@
       "pages": "213",
       "publisher": "",
       "url": "https://doi.org/10.3390/ijgi8050213",
+      "group": 0
+    },
+    {
+      "id": "Remondino & Campana 2014",
+      "title": "3D recording and modelling in archaeology and cultural heritage",
+      "authors": "Remondino, F. and Campana, S.",
+      "year": "2014",
+      "book": "Theory and best practices",
+      "publisher": "Oxford: BAR Publishing. Series:BAR International Series 2598",
+      "url": "https://doi.org/",
       "group": 0
     },
     {
@@ -1060,6 +1283,19 @@
       "group": 0
     },
     {
+      "id": "Schmidt 2015",
+      "title": "Using archaeological models for the inversion of magnetometer data",
+      "authors": "Schmidt, A., Armstrong, K., and van Leusen, M.",
+      "year": "2015",
+      "journal": "Archaeologia Polona",
+      "volume": "53",
+      "number": "",
+      "pages": "575–578",
+      "publisher": "",
+      "url": "http://www.iaepan.vot.pl/ap2015/images/pdfy/Archaeologia%20Polona%2053%202015compressed.pdf",
+      "group": 0
+    },
+    {
       "id": "Scott et al. 2021",
       "title": "Born-digital logistics: Impacts of 3D recording on archaeological workflow, training, and interpretation",
       "authors": "Scott, C. B., Roosevelt, C. H., Nobles, G. R., & Luke, C.",
@@ -1081,6 +1317,19 @@
       "book section": "CAA2016: Oceans of data: Proceedings of the 44th conference on computer applications and quantitative methods in archaeology",
       "pages": "185–196",
       "publisher": "Oxford: Archaeopress",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Sides & Hack 1995",
+      "title": "Three-dimensional GIS:future developments",
+      "authors": "Sides, E. and Hack, R.",
+      "year": "1995",
+      "journal": "ITC journal",
+      "volume": "2",
+      "number": "",
+      "pages": "151–164",
+      "publisher": "",
       "url": "https://doi.org/",
       "group": 0
     },
@@ -1123,6 +1372,18 @@
       "group": 0
     },
     {
+      "id": "van Leusen & van Gessel 2016",
+      "title": "Towards 3D GIS:notes from the 2012 CAA-NL/DE chapter session ‛From 2.5 to 3 spatial dimensions’",
+      "authors": "van Leusen, M. and van Gessel, J.",
+      "year": "2016",
+      "editors": "Kamermans, H., de Neef, W., Piccoli, C., Posluchny, A.G., and Scopigno, R.",
+      "book section": "The Three Dimensions of Archaeology.Proceedings of the XVII UISPP World Congress (1–7September 2014, Burgos, Spain) Volume 7/Sessions A4band A12",
+      "pages": "33–37",
+      "publisher": "Oxford: Archaeopress",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
       "id": "van Leusen & Nobles 2018",
       "title": "3D spatial analysis: The road ahead",
       "authors": "van Leusen, P. M., & Nobles, G.",
@@ -1132,6 +1393,18 @@
       "pages": "471–478",
       "publisher": "Oxford: Archaeopress",
       "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "van Oosterom 1994",
+      "title": "Integrated 3D modelling within a GIS",
+      "authors": "van Oosterom, P., Vertegaal, W., van Hekken, M., and Vijlbrief, T.",
+      "year": "1994",
+      "editors": "Molenaar, M. and de Hoop S.",
+      "book section": "Advanced geographic data modelling. Spatial data modelling and query languages for 2D and 3D applications. Delft, the Netherlands: Netherlands geodetic commission",
+      "pages": "80–95",
+      "publisher": "",
+      "url": "http://www.ncgeo.nl/phocadownload/40Molenaar_1.pdf",
       "group": 0
     },
     {
@@ -1215,6 +1488,30 @@
       "pages": "1–36",
       "publisher": "",
       "url": "https://doi.org/10.21112/ita.2016.1.110",
+      "group": 0
+    },
+    {
+      "id": "Wheatley 1995",
+      "title": "Cumulative viewshed analysis: a GIS-based method for investigating intervisibility, and its archaeological application",
+      "authors": "Wheatley, D.W.",
+      "year": "1995",
+      "editors": "Lock, G. and Stančič, Z.",
+      "book section": "Archaeology and GIS: a European perspective",
+      "pages": "171–185",
+      "publisher": "London: Routledge",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Wheatley and Gillings 2000",
+      "title": "Vision, perceptionand GIS: developing enriched approaches to the study of archaeological visibility",
+      "authors": "Wheatley, D.W. and Gillings, M.",
+      "year": "2000",
+      "editors": "in Lock, G.",
+      "book section": "Beyond the map. Archaeology and spatial technologies",
+      "pages": "1–27",
+      "publisher": "Amsterdam: IOS Press",
+      "url": "https://doi.org/",
       "group": 0
     },
     {
@@ -1802,6 +2099,136 @@
     {
       "source": "Scott et al. 2021",
       "target": "Roosevelt et al. 2018",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Campanaro et al. 2016",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "ESRI City Engine 2013",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Frieman & Gillings 2007",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "GRASS Development Team 2008–2012",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "GRASS Development Team 2014",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Harris 1979",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "De Kleijn et al. 2015",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Landeschi et al. 2015b",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Landeschi et al. 2016a",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Landeschi et al. 2016b",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Landeschi et al. 2016c",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Lieberwirth 2008",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Llobera et al. 2007",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Losier 2007",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Merlo 2010",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Mlekuz 2004",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Paliou & Wheatley 2007",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Penninga & van Oosterom 2008",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Potenziani et al. 2015",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Remondino & Campana 2014",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Remondino & Campana 2014",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Schmidt 2015",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Sides & Hack 1995",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "van Leusen & van Gessel 2016",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "van Oosterom 1994",
+      "value": 1
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Wheatley and Gillings 2000",
       "value": 1
     }
   ]

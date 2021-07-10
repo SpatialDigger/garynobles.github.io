@@ -911,110 +911,6 @@
       "group": 0
     },
     {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
-      "id": "",
-      "title": "",
-      "authors": "",
-      "year": "",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://doi.org/",
-      "group": 0
-    },
-    {
       "id": "Roosevelt et al 2019",
       "title": "Kaymakçı Arkeoloji Projesi: 2016–2017 yılı kazı ve araştırma sonuçları. Kazı Sonuçları Toplantısı",
       "authors": "Roosevelt, C.H., Ünlüsoy, S., & Luke, C.",
@@ -1024,6 +920,215 @@
       "number": "1",
       "pages": "487–504",
       "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Scott et al. 2021",
+      "title": "Born-digital logistics: Impacts of 3D recording on archaeological workflow, training, and interpretation",
+      "authors": "Scott, C. B., Roosevelt, C. H., Nobles, G. R., & Luke, C.",
+      "year": "2021",
+      "journal": "Open Archaeology",
+      "volume": "7",
+      "number": "1",
+      "pages": "574–588",
+      "publisher": "",
+      "url": "https://doi.org/10.1515/opar-2020-0150",
+      "group": 1
+    },
+    {
+      "id": "Schubert et al. 2018",
+      "title": "Interpolating from stratigraphy from indirect information",
+      "authors": "Schubert, L., Predoi, A., & Jeffery, K.",
+      "year": "2018",
+      "editors": "M. Matsumoto & E. Uleberg",
+      "book section": "CAA2016: Oceans of data: Proceedings of the 44th conference on computer applications and quantitative methods in archaeology",
+      "pages": "185–196",
+      "publisher": "Oxford: Archaeopress",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Sinton 2011",
+      "title": "Spatial thinking",
+      "authors": "Sinton, D. S.",
+      "year": "2011",
+      "editors": "J. Stoltman",
+      "book section": "21st century geography: A reference handbook",
+      "pages": "733–744",
+      "publisher": "Thousand Oaks, CA: SAGE Publications",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Tosteberg 2017",
+      "title": "Semantic segmentation of point clouds using deep learning [MA thesis]",
+      "authors": "Tosteberg, P.",
+      "year": "2017",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "Linköping University, Sweden",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Tse & Gold 2004",
+      "title": "TIN meets CAD: Extending the TIN concept in GIS",
+      "authors": "Tse, R. O. C., & Gold, C. M.",
+      "year": "2004",
+      "journal": "Future Generation Computer Systems",
+      "volume": "20",
+      "number": "7",
+      "pages": "1171–1184",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.future.2003.11.007",
+      "group": 0
+    },
+    {
+      "id": "van Leusen & Nobles 2018",
+      "title": "3D spatial analysis: The road ahead",
+      "authors": "van Leusen, P. M., & Nobles, G.",
+      "year": "2018",
+      "editors": "M. Matsumoto & E. Uleberg",
+      "book section": "CAA2016: Oceans of data: Proceedings of the 44th conference on computer applications and quantitative methods in archaeology",
+      "pages": "471–478",
+      "publisher": "Oxford: Archaeopress",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "van Riel 2016",
+      "title": "Exploring the use of 3D GIS as an analytical tool in archaeological excavation practice [MA thesis]",
+      "authors": "van Riel, S.",
+      "year": "2016",
+      "editors": "",
+      "book section": "",
+      "pages": "",
+      "publisher": "Lund University, Lund",
+      "url": "https://doi.org/10.13140/RG.2.1.4738.2643",
+      "group": 0
+    },
+    {
+      "id": "Varazzo 2011",
+      "title": "psycopg2",
+      "authors": "Varazzo, D.",
+      "year": "2011",
+      "url": "http://initd.org/psycopg/",
+      "group": 0
+    },
+    {
+      "id": "Verhagen 2018",
+      "title": "Spatial analysis in archaeology: Moving into new territories",
+      "authors": "Verhagen, P.",
+      "editors": "C. Siart, M. Forbriger, & O. Bubenzer",
+      "book section": "Digital geoarchaeology. New techniques for interdisciplinary human-environmental research",
+      "pages": "11–25",
+      "publisher": "New York: Springer",
+      "url": "10.1007/978-3-319-25316-9",
+      "group": 0
+    },
+    {
+      "id": "Verhoeven 2017",
+      "title": "Mesh is more – Using all geometric dimensions for the archaeological analysis and interpretative mapping of 3D surfaces",
+      "authors": "Verhoeven, G. J.",
+      "year": "2017",
+      "journal": "Journal of Archaeological Method and Theory",
+      "volume": "24",
+      "number": "4",
+      "pages": "999–1033",
+      "publisher": "",
+      "url": "https://doi.org/10.1007/s10816-016-9305-z",
+      "group": 0
+    },
+    {
+      "id": "Virtanen et al. 2020",
+      "title": "SciPy 1.0: Fundamental algorithms for scientific computing in python",
+      "authors": "Virtanen, P., Gommers, R., Oliphant, T. E., Haberland, M., Reddy, T., Cournapeau, D.",
+      "year": "2020",
+      "journal": "Nature Methods",
+      "volume": "17",
+      "number": "3",
+      "pages": "261–272",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Wilkinson 2016",
+      "title": "The FAIR Guiding Principles for scientific data management and stewardship, Scientific Data",
+      "authors": "Wilkinson, M. D., Dumontier, M., Aalbersberg, IJ. J., Appleton, G., Axton, M., Baak, A., … Mons, B.",
+      "year": "2016",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/10.1038/sdata.2016.18",
+      "group": 0
+    },
+    {
+      "id": "Willis 2016",
+      "title": "Archaeological 3D mapping: The structure from motion revolution",
+      "authors": "Willis, M. D., Koenig, C. W., & Black, S. L.",
+      "year": "2016",
+      "journal": "Journal of Texas Archaeology and History",
+      "volume": "3",
+      "number": "",
+      "pages": "1–36",
+      "publisher": "",
+      "url": "https://doi.org/10.21112/ita.2016.1.110",
+      "group": 0
+    },
+    {
+      "id": "Zaitceva 2016",
+      "title": "Photogrammetry: From field recording to museum presentation (Timiryazevo Burial Site, Western Siberia)",
+      "authors": "Zaitceva, O., Vavulin, M., Pushkarev, A., & Vodyasov, E.",
+      "year": "2016",
+      "journal": "Mediterranean Archaeology and Archaeometry",
+      "volume": "16",
+      "number": "5",
+      "pages": "97–103",
+      "publisher": "",
+      "url": "https://doi.org/10.5281/zenodo.204982",
+      "group": 0
+    },
+    {
+      "id": "Zhou 2018",
+      "title": "Open 3D: A modern library for (3D) data processing",
+      "authors": "Zhou, Q., Park, J., & Koltin, V.",
+      "year": "2018",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "1-6",
+      "publisher": "",
+      "url": "https://arxiv.org/abs/1801.09847v1",
+      "group": 0
+    },
+    {
+      "id": "Zollhöfer et al. 2015",
+      "title": "Low-cost real-time 3D reconstruction of large-scale excavation sites",
+      "authors": "Zollhöfer, M., Siegl, C., Vetter, M., Dreyer, B., Stamminger, M., Aybek, S., &. Bauer, F.",
+      "year": "2015",
+      "journal": "Journal on Computing and Cultural Heritage November",
+      "volume": "9",
+      "number": "1",
+      "pages": "1–10",
+      "publisher": "",
+      "url": "https://doi.org/10.1145/2770877",
+      "group": 0
+    },
+    {
+      "id": "Zubrow 2006",
+      "title": "Digital archaeology: “A historical context.”",
+      "authors": "Zubrow, E. B. W.",
+      "year": "2006",
+      "editors": "T. L. Evans & P. Daly",
+      "book section": "Digital Archaeology: Bridging method and theory",
+      "pages": "8–26",
+      "publisher": "United Kingdom: Routledge",
       "url": "https://doi.org/",
       "group": 0
     },
@@ -1391,6 +1496,96 @@
     {
       "source": "Nobles & Roosevelt 2021",
       "target": "Roosevelt et al. 2020",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Roosevelt et al 2019",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Scott et al. 2021",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Schubert et al. 2018",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Sinton 2011",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Tosteberg 2017",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Tse & Gold 2004",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "van Leusen & Nobles 2018",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "van Riel 2016",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Varazzo 2011",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Verhagen 2018",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Verhoeven 2017",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Virtanen et al. 2020",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Wilkinson 2016",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Willis 2016",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Zaitceva 2016",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Zhou 2018",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Zollhöfer et al. 2015",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Zubrow 2006",
       "value": 1
     }
   ]

@@ -580,6 +580,9 @@
       "group": 1
     }
   ],
+
+
+
   "links": [
     {
       "source": "Nobles & Roosevelt 2021",
@@ -665,6 +668,147 @@
       "source": "Nobles & Roosevelt 2021",
       "target": "De Reu et al. 2014",
       "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "De Roo et al. 2016",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Dell’Unto et al. 2016",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Dell’Unto et al. 2017",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Dobias & Razmjooei 2020",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Doneus et al. 2011",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Doneus et al. 2020",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Douglass et al. 2015",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "ESRI 2012",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "FAIRPort Mobile Data Open Movement 2020",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Flaxman 2010",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Gavryushkina 2018",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Gillings 2012",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Goodchild & Janelle 2010",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "HERE Europe 2018",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Huggett 2004",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Huggett 2012",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Huggett 2015a",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Huggett 2015b",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "ISAAK 2020",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Jensen 2018",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Kazhdan 2005",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Khuan et al. 2008",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Kjellman 2012",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Kvamme 1999",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Landeschi et al. 2015",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Landeschi et al. 2016",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Landeschi 2019",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Ledoux & Meijers 2011",
+      "value": 1
     }
+
   ]
 }

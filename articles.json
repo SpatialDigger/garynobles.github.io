@@ -4,7 +4,7 @@
     {"id": "Emmitt 2019","title": "Digitizing Roonka: The creation of a 3D representation from archival records. Digital Applications in Archaeology and Cultural Heritage", "group": 1},
 
 
-    {"id": "Appadurai (1996)",
+    {"id": "Appadurai 1996",
       "title": "Modernity at large cultural dimensions of globalization",
       "publisher": "Minneapolis: University of Minnesota Press",
       "group": 0
@@ -16,7 +16,13 @@
 
   ],
   "links": [
-    {"source": "Nobles & Roosevelt 2021", "target": "Nobles & Cakilar 2009", "value": 1}
+    {"source": "Nobles & Roosevelt 2021",
+      "target": "Appadurai 1996", 
+      "value": 1},
+
+    { "source": "Nobles & Roosevelt 2021",
+      "target": "Nobles & Cakilar 2009",
+      "value": 1}
 
       ]
 }

@@ -1723,6 +1723,26 @@
       "source": "Nobles & Roosevelt 2021",
       "target": "Zubrow 2006",
       "value": 1
+    },
+    {
+      "source": "Scott et al. 2021",
+      "target": "Berggren et al. 2015",
+      "value": 1
+    },
+    {
+      "source": "Scott et al. 2021",
+      "target": "Caraher 2016",
+      "value": 1
+    },
+    {
+      "source": "Scott et al. 2021",
+      "target": "Croix 2019",
+      "value": 1
+    },
+    {
+      "source": "Scott et al. 2021",
+      "target": "De Reu et al. 2014",
+      "value": 1
     }
   ]
 }

@@ -106,6 +106,30 @@
       "url": "https://pdal.io/PDAL.pdf",
       "group": 0
     },
+    {"id": "Betts 2017",
+      "title": "The Multivalence of Sensory Artefacts in the City of Rome.",
+      "authors": "Betts, E.",
+      "year": "2017",
+      "editors": "E. Betts",
+      "book section": "Senses of the Empire: Multisensory Approaches to Roman Culture",
+      "pages": "23–38",
+      "publisher": "Oxford: Taylor & Francis.",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+      {"id": "Bezzi et al. 2006",
+        "title": "L’utilizzo Di Voxel in Campo Archeologico.",
+        "authors": "Bezzi, A., L. Bezzi, D. Francisci, and R. Gietl.",
+        "year": "2006",
+        "journal": "Geomatic Workbooks",
+        "volume": "6",
+        "number": "",
+        "pages": "",
+        "publisher": "",
+        "url": "https://doi.org/",
+
+        "group": 0},
     {
       "id": "Bevan et al. 2014",
       "title": "Computer vision, archaeological classification and China’s terracotta warriors",
@@ -2316,6 +2340,16 @@
     {
       "source": "Landeschi 2019b",
       "target": "Bernardini et al. 2013",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Betts 2017",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Bezzi et al. 2006",
       "value": 1
     }
   ]

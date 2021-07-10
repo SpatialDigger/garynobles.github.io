@@ -43,7 +43,7 @@
       "group": 0
     },
     {
-      "id": "Barceló et al 2003",
+      "id": "Barceló et al. 2003",
       "title": "A 3d model of an archaeological excavation",
       "authors": "Barceló, J. A., De Castro, O., Travet, D., & Vicente, O.",
       "year": "2003",
@@ -55,7 +55,7 @@
       "group": 0
     },
     {
-      "id": "Berggren et al 2015",
+      "id": "Berggren et al. 2015",
       "title": "Revisiting reflexive archaeology at Çatalhöyük: Integrating digital and 3D technologies at the trowel’s edge",
       "authors": "Berggren, Å., Dell’Unto, N., Forte, M., Haddow, S., Hodder, I., Issavi, J., … Taylor, J. S",
       "year": "2015",
@@ -68,7 +68,7 @@
       "group": 0
     },
     {
-      "id": "Bell et al 2020",
+      "id": "Bell et al. 2020",
       "title": "PDAL: Point cloud data abstraction library. Release 2.2.0",
       "authors": "Bell, A., Chambers, B., Butler, H., & Gerlek, M.",
       "year": "2020",
@@ -81,7 +81,7 @@
       "group": 0
     },
     {
-      "id": "Bevan et al 2014",
+      "id": "Bevan et al. 2014",
       "title": "Computer vision, archaeological classification and China’s terracotta warriors",
       "authors": "Bevan, A., Li, X., Martinón-Torres, M., Green, S., Xia, Y., Zhao, K., … Rehren, T",
       "year": "2014",
@@ -242,12 +242,37 @@
     },
     {
       "source": "Nobles & Roosevelt 2021",
-      "target": "Barceló et al 2003",
+      "target": "Barceló et al. 2003",
       "value": 1
     },
     {
       "source": "Nobles & Roosevelt 2021",
-      "target": "Nobles & Cakilar 2009",
+      "target": "Berggren et al. 2015",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Bell et al. 2020",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Bevan et al. 2014",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Campana 2017",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Campanaro et al. 2016",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Contributors, P. D. A. L. 2018",
       "value": 1
     }
   ]

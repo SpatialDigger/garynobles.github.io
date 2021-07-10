@@ -1,6 +1,12 @@
 {
   "nodes": [
-    {"id": "Nobles & Roosevelt 2021", "group": 1},
+    {"id": "Nobles & Roosevelt 2021","group": 1},
+    {"id": "Emmitt 2019","title": "Digitizing Roonka: The creation of a 3D representation from archival records. Digital Applications in Archaeology and Cultural Heritage" "group": 1},
+
+
+
+
+
     {"id": "Nobles & Cakilar 2009", "group": 1}
 
   ],

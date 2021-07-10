@@ -1,247 +1,253 @@
 {
   "nodes": [
-    {"id": "Nobles & Roosevelt 2021","title": "Filling the Void in Archaeological Excavations: 2D Point Clouds to 3D Volumes","year": "2021","journal": "Open Archaeology","volume": "7","number": "1","pages": "589-614","url": "https://doi.org/10.1515/opar-2020-0149","group": 1},
-    {"id": "Emmitt 2019","title": "Digitizing Roonka: The creation of a 3D representation from archival records. Digital Applications in Archaeology and Cultural Heritage", "group": 1},
-    {"id": "Appadurai 1996","title": "Modernity at large cultural dimensions of globalization","publisher": "Minneapolis: University of Minnesota Press","group": 0},
-
-
-      {"id": "Avern & Franssens 2012",
-        "title": "A digital drawing tool for recording excavations: The Nikon iSpace System.",
-        "year": "2012",
-        "journal": "Revive the past. Computer applications and quantitative methods in archaeology (CAA). Proceedings of the 39th international conference, Beijing, April 12–16",
-        "volume": "",
-        "number": "",
-        "pages": "21–29",
-        "publisher": "Amsterdam: Pallas Publications.",
-        "url": "",
-
-        "group": 0},
-
-
-        {"id": "Bagi 2018",
-          "title": "The process of 3D documentation in archaeological fieldwork: A case study from the archaeological site of Metsamor. Polish Archaeology in the Mediterranean",
-          "year": "2018",
-          "journal": "",
-          "volume": "26",
-          "number": "1",
-          "pages": "795–808",
-          "publisher": "",
-          "url": "https://doi.org/10.5604/01.3001.0012.1807",
-
-          "group": 0},
-
-
-          {"id": "Barceló et al 2003",
-            "title": "A 3d model of an archaeological excavation",
-            "authors": "Barceló, J. A., De Castro, O., Travet, D., & Vicente, O.",
-            "year": "2003",
-            "editors": "M. Doerr, A. Sarris",
-            "book section": "The digital heritage of archaeology. Computer applications and quantitative methods in archaeology",
-            "pages": "",
-            "publisher": "Athens:
-            Hellenic Ministry of Culture. Archive of Monuments and Publications",
-            "url": "",
-
-            "group": 0},
-
-
-
-            {"id": "Berggren et al 2015",
-              "title": "Revisiting reflexive archaeology at Çatalhöyük: Integrating digital and 3D technologies at the trowel’s edge",
-              "authors": "Berggren, Å., Dell’Unto, N., Forte, M., Haddow, S., Hodder, I., Issavi, J., … Taylor, J. S",
-              "year": "2015",
-              "journal": "Antiquity",
-              "volume": "89",
-              "number": "344",
-              "pages": "433–448",
-              "publisher": "",
-              "url": "https://doi.org/10.15184/aqy.2014.43",
-
-              "group": 0},
-
-              {"id": "Bell et al 2020",
-                "title": "PDAL: Point cloud data abstraction library. Release 2.2.0",
-                "authors": "Bell, A., Chambers, B., Butler, H., & Gerlek, M.",
-                "year": "2020",
-                "journal": "",
-                "volume": "",
-                "number": "",
-                "pages": "",
-                "publisher": "",
-                "url": "https://pdal.io/PDAL.pdf",
-
-                "group": 0},
-
-                {"id": "Bevan et al 2014",
-                  "title": "Computer vision, archaeological classification and China’s terracotta warriors",
-                  "authors": "Bevan, A., Li, X., Martinón-Torres, M., Green, S., Xia, Y., Zhao, K., … Rehren, T",
-                  "year": "2014",
-                  "journal": "Journal of Archaeological Science",
-                  "volume": "49",
-                  "number": "1",
-                  "pages": "249–254",
-                  "publisher": "",
-                  "url": "https://doi.org/10.1016/j.jas.2014.05.014",
-
-                  "group": 0},
-
-                  {"id": "Campana 2017",
-                    "title": "Drones in archaeology. State-of-the-art and future perspectives",
-                    "authors": "",
-                    "year": "",
-                    "journal": "Archaeological Prospection",
-                    "volume": "24",
-                    "number": "4",
-                    "pages": "275–296",
-                    "publisher": "",
-                    "url": "https://doi.org/10.1002/arp.1569",
-
-                    "group": 0},
-
-                    {"id": "Campanaro et al. 2016",
-                      "title": "3D GIS for cultural heritage restoration: A “white box” workflow",
-                      "authors": "Campanaro, D. M., Landeschi, G., Dell’Unto, N., & Leander Touati, A. M.",
-                      "year": "2016",
-                      "journal": "Journal of Cultural Heritage",
-                      "volume": "18",
-                      "number": "",
-                      "pages": "321–332",
-                      "publisher": "",
-                      "url": "https://doi.org/10.1016/j.culher.2015.09.006",
-
-                      "group": 0},
-
-
-
-
-
-                        {"id": "Contributors, P. D. A. L. 2018",
-                          "title": "PDAL point data abstraction library",
-                          "authors": "Contributors, P. D. A. L.",
-                          "year": "2018",
-                          "publisher": "",
-                          "url": "",
-
-                          "group": 0},
-
-                          {"id": "Crema 2011",
-                            "title": "Aoristic approaches and voxel models for spatial analysis",
-                            "authors": "Crema, E. R.",
-                            "year": "2011",
-                            "editors": "E. Jerem, F. Redő, & V. Szeverényi",
-                            "book section": "On the road to reconstructing the past. Computer applications and quantitative methods in archaeology (CAA). Proceedings of the 36th international conference. Budapest, April 2–6, 2008",
-                            "pages": "179–186",
-                            "publisher": "Budapest: Archeaeolingua",
-                            "url": "",
-
-                            "group": 0},
-
-                            {"id": "Dawson-Haggerty 2019",
-                              "title": "Trimesh. Version 3.2.0",
-                              "authors": "Dawson-Haggerty, M.",
-                              "year": "2019",
-                              "journal": "",
-                              "volume": "",
-                              "number": "",
-                              "pages": "",
-                              "publisher": "",
-                              "url": "https://trimsh.org/",
-
-                              "group": 0},
-
-                              {"id": "Dekker 2020a",
-                                "title": "Een realistischer digitaal model voor archeologische opgravingen [Unpublished BA honors thesis]",
-                                "authors": "Dekker, B.",
-                                "year": "2020",
-                                "publisher": "Amsterdam: University of Amsterdam",
-                                "url": "",
-
-                                "group": 0},
-
-                                {"id": "Dekker 2020b",
-                                  "title": "3D volume generation. Archaeological-surfaces-to-volume",
-                                  "authors": "Dekker, B.",
-                                  "year": "2020",
-                                  "journal": "",
-                                  "volume": "",
-                                  "number": "",
-                                  "pages": "",
-                                  "publisher": "",
-                                  "url": "https://github.com/TJRL/Archaeological-surfaces-to-volume",
-
-                                  "group": 0},
-
-
-                                  {"id": "De Kleijn et al. 2016",
-                                    "title": "A 3D spatial data infrastructure for mapping the Via Appia",
-                                    "authors": "De Kleijn, M., De Hond, R., & Martinez-Rubi, O.",
-                                    "year": "",
-                                    "journal": "Applications in Archaeology and Cultural Heritage",
-                                    "volume": "3",
-                                    "number": "2",
-                                    "pages": "23–32",
-                                    "publisher": "",
-                                    "url": "https://doi.org/10.1016/j.daach.2016.03.001",
-
-                                    "group": 0},
-
-                                    {"id": "De Reu et al. 2013",
-                                      "title": "Orthophoto mapping and digital surface modeling for archaeological excavations: an image-based 3D modeling approach",
-                                      "authors": "De Reu, J., De Clercq, W., Sergant, J., Deconynck, J., & Laloo, P.",
-                                      "year": "2013",
-                                      "journal": "Digital Heritage International Congress (DigitalHeritage)",
-                                      "volume": "",
-                                      "number": "",
-                                      "pages": "205–208",
-                                      "publisher": "New York: IEEE",
-                                      "url": "https://doi.org/10.1109/DigitalHeritage.2013.6743734",
-
-                                      "group": 0},
-
-                                      {"id": "De Reu et al. 2014",
-                                        "title": "On introducing an image-based 3D reconstruction method in archaeological excavation practice",
-                                        "authors": "De Reu, J., De Smedt, P., Herremans, D., Van Meirvenne, M., Laloo, P., & De Clercq, W.",
-                                        "year": "2014",
-                                        "journal": "Journal of Archaeological Science",
-                                        "volume": "41",
-                                        "number": "",
-                                        "pages": "251–262",
-                                        "publisher": "",
-                                        "url": "https://doi.org/10.1016/j.jas.2013.08.020",
-
-                                        "group": 0},
-
-
-
-
-
-                        {"id": "Nobles & Cakilar 2009", "group": 1}
-
-                      ],
-                      "links": [
-                        {"source": "Nobles & Roosevelt 2021",
-                          "target": "Appadurai 1996",
-                          "value": 1},
-
-                          {"source": "Nobles & Roosevelt 2021",
-                            "target": "Avern & Franssens 2012",
-                            "value": 1},
-
-                            {"source": "Nobles & Roosevelt 2021",
-                              "target": "Bagi 2018",
-                              "value": 1},
-
-                              {"source": "Nobles & Roosevelt 2021",
-                                "target": "Barceló et al 2003",
-                                "value": 1},
-
-
-
-
-
-                                { "source": "Nobles & Roosevelt 2021",
-                                  "target": "Nobles & Cakilar 2009",
-                                  "value": 1}
-
-                                ]
-                              }
+    {
+      "id": "Nobles & Roosevelt 2021",
+      "title": "Filling the Void in Archaeological Excavations: 2D Point Clouds to 3D Volumes",
+      "year": "2021",
+      "journal": "Open Archaeology",
+      "volume": "7",
+      "number": "1",
+      "pages": "589-614",
+      "url": "https://doi.org/10.1515/opar-2020-0149",
+      "group": 1
+    },
+    {
+      "id": "Emmitt 2019",
+      "title": "Digitizing Roonka: The creation of a 3D representation from archival records. Digital Applications in Archaeology and Cultural Heritage",
+      "group": 1
+    },
+    {
+      "id": "Appadurai 1996",
+      "title": "Modernity at large cultural dimensions of globalization",
+      "publisher": "Minneapolis: University of Minnesota Press",
+      "group": 0
+    },
+    {
+      "id": "Avern & Franssens 2012",
+      "title": "A digital drawing tool for recording excavations: The Nikon iSpace System.",
+      "year": "2012",
+      "journal": "Revive the past. Computer applications and quantitative methods in archaeology (CAA). Proceedings of the 39th international conference, Beijing, April 12–16",
+      "volume": "",
+      "number": "",
+      "pages": "21–29",
+      "publisher": "Amsterdam: Pallas Publications.",
+      "url": "",
+      "group": 0
+    },
+    {
+      "id": "Bagi 2018",
+      "title": "The process of 3D documentation in archaeological fieldwork: A case study from the archaeological site of Metsamor. Polish Archaeology in the Mediterranean",
+      "year": "2018",
+      "journal": "",
+      "volume": "26",
+      "number": "1",
+      "pages": "795–808",
+      "publisher": "",
+      "url": "https://doi.org/10.5604/01.3001.0012.1807",
+      "group": 0
+    },
+    {
+      "id": "Barceló et al 2003",
+      "title": "A 3d model of an archaeological excavation",
+      "authors": "Barceló, J. A., De Castro, O., Travet, D., & Vicente, O.",
+      "year": "2003",
+      "editors": "M. Doerr, A. Sarris",
+      "book section": "The digital heritage of archaeology. Computer applications and quantitative methods in archaeology",
+      "pages": "",
+      "publisher": "Athens: Hellenic Ministry of Culture. Archive of Monuments and Publications",
+      "url": "",
+      "group": 0
+    },
+    {
+      "id": "Berggren et al 2015",
+      "title": "Revisiting reflexive archaeology at Çatalhöyük: Integrating digital and 3D technologies at the trowel’s edge",
+      "authors": "Berggren, Å., Dell’Unto, N., Forte, M., Haddow, S., Hodder, I., Issavi, J., … Taylor, J. S",
+      "year": "2015",
+      "journal": "Antiquity",
+      "volume": "89",
+      "number": "344",
+      "pages": "433–448",
+      "publisher": "",
+      "url": "https://doi.org/10.15184/aqy.2014.43",
+      "group": 0
+    },
+    {
+      "id": "Bell et al 2020",
+      "title": "PDAL: Point cloud data abstraction library. Release 2.2.0",
+      "authors": "Bell, A., Chambers, B., Butler, H., & Gerlek, M.",
+      "year": "2020",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://pdal.io/PDAL.pdf",
+      "group": 0
+    },
+    {
+      "id": "Bevan et al 2014",
+      "title": "Computer vision, archaeological classification and China’s terracotta warriors",
+      "authors": "Bevan, A., Li, X., Martinón-Torres, M., Green, S., Xia, Y., Zhao, K., … Rehren, T",
+      "year": "2014",
+      "journal": "Journal of Archaeological Science",
+      "volume": "49",
+      "number": "1",
+      "pages": "249–254",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jas.2014.05.014",
+      "group": 0
+    },
+    {
+      "id": "Campana 2017",
+      "title": "Drones in archaeology. State-of-the-art and future perspectives",
+      "authors": "",
+      "year": "",
+      "journal": "Archaeological Prospection",
+      "volume": "24",
+      "number": "4",
+      "pages": "275–296",
+      "publisher": "",
+      "url": "https://doi.org/10.1002/arp.1569",
+      "group": 0
+    },
+    {
+      "id": "Campanaro et al. 2016",
+      "title": "3D GIS for cultural heritage restoration: A “white box” workflow",
+      "authors": "Campanaro, D. M., Landeschi, G., Dell’Unto, N., & Leander Touati, A. M.",
+      "year": "2016",
+      "journal": "Journal of Cultural Heritage",
+      "volume": "18",
+      "number": "",
+      "pages": "321–332",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.culher.2015.09.006",
+      "group": 0
+    },
+    {
+      "id": "Contributors, P. D. A. L. 2018",
+      "title": "PDAL point data abstraction library",
+      "authors": "Contributors, P. D. A. L.",
+      "year": "2018",
+      "publisher": "",
+      "url": "",
+      "group": 0
+    },
+    {
+      "id": "Crema 2011",
+      "title": "Aoristic approaches and voxel models for spatial analysis",
+      "authors": "Crema, E. R.",
+      "year": "2011",
+      "editors": "E. Jerem, F. Redő, & V. Szeverényi",
+      "book section": "On the road to reconstructing the past. Computer applications and quantitative methods in archaeology (CAA). Proceedings of the 36th international conference. Budapest, April 2–6, 2008",
+      "pages": "179–186",
+      "publisher": "Budapest: Archeaeolingua",
+      "url": "",
+      "group": 0
+    },
+    {
+      "id": "Dawson-Haggerty 2019",
+      "title": "Trimesh. Version 3.2.0",
+      "authors": "Dawson-Haggerty, M.",
+      "year": "2019",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://trimsh.org/",
+      "group": 0
+    },
+    {
+      "id": "Dekker 2020a",
+      "title": "Een realistischer digitaal model voor archeologische opgravingen [Unpublished BA honors thesis]",
+      "authors": "Dekker, B.",
+      "year": "2020",
+      "publisher": "Amsterdam: University of Amsterdam",
+      "url": "",
+      "group": 0
+    },
+    {
+      "id": "Dekker 2020b",
+      "title": "3D volume generation. Archaeological-surfaces-to-volume",
+      "authors": "Dekker, B.",
+      "year": "2020",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://github.com/TJRL/Archaeological-surfaces-to-volume",
+      "group": 0
+    },
+    {
+      "id": "De Kleijn et al. 2016",
+      "title": "A 3D spatial data infrastructure for mapping the Via Appia",
+      "authors": "De Kleijn, M., De Hond, R., & Martinez-Rubi, O.",
+      "year": "",
+      "journal": "Applications in Archaeology and Cultural Heritage",
+      "volume": "3",
+      "number": "2",
+      "pages": "23–32",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.daach.2016.03.001",
+      "group": 0
+    },
+    {
+      "id": "De Reu et al. 2013",
+      "title": "Orthophoto mapping and digital surface modeling for archaeological excavations: an image-based 3D modeling approach",
+      "authors": "De Reu, J., De Clercq, W., Sergant, J., Deconynck, J., & Laloo, P.",
+      "year": "2013",
+      "journal": "Digital Heritage International Congress (DigitalHeritage)",
+      "volume": "",
+      "number": "",
+      "pages": "205–208",
+      "publisher": "New York: IEEE",
+      "url": "https://doi.org/10.1109/DigitalHeritage.2013.6743734",
+      "group": 0
+    },
+    {
+      "id": "De Reu et al. 2014",
+      "title": "On introducing an image-based 3D reconstruction method in archaeological excavation practice",
+      "authors": "De Reu, J., De Smedt, P., Herremans, D., Van Meirvenne, M., Laloo, P., & De Clercq, W.",
+      "year": "2014",
+      "journal": "Journal of Archaeological Science",
+      "volume": "41",
+      "number": "",
+      "pages": "251–262",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jas.2013.08.020",
+      "group": 0
+    },
+    {
+      "id": "Nobles & Cakilar 2009",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Appadurai 1996",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Avern & Franssens 2012",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Bagi 2018",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Barceló et al 2003",
+      "value": 1
+    },
+    {
+      "source": "Nobles & Roosevelt 2021",
+      "target": "Nobles & Cakilar 2009",
+      "value": 1
+    }
+  ]
+}

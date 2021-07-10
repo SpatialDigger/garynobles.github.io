@@ -1,144 +1,93 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Tutorial Demo</title>
-  </head>
-  <body>
-    <div id="mountNode"></div>
-    <script src="https://gw.alipayobjects.com/os/antv/pkg/_antv.g6-3.7.1/dist/g6.min.js"></script>
-    <script>
-      const graph = new G6.Graph({
-        container: 'mountNode',
-        width: 800,
-        height: 600,
-        // Default properties for all the nodes
-        defaultNode: {
-          labelCfg: {
-            style: {
-              fill: '#fff',
-            },
-          },
-        },
-        // Default properties for all the edges
-        defaultEdge: {
-          labelCfg: {
-            autoRotate: true,
-          },
-        },
-        // The node styles in different states
-        nodeStateStyles: {
-          // The node style when the state 'hover' is true
-          hover: {
-            fill: 'lightsteelblue',
-          },
-          // The node style when the state 'click' is true
-          click: {
-            stroke: '#000',
-            lineWidth: 3,
-          },
-        },
-        // The edge styles in different states
-        edgeStateStyles: {
-          // The edge style when the state 'click' is true
-          click: {
-            stroke: 'steelblue',
-          },
-        },
-        // Layout
-        layout: {
-          type: 'force',
-          linkDistance: 100,
-          preventOverlap: true,
-          nodeStrength: -30,
-          edgeStrength: 0.1,
-        },
-        // Built-in Behaviors
-        modes: {
-          default: ['drag-canvas', 'zoom-canvas', 'drag-node'],
-        },
-      });
+<meta charset="utf-8">
+<style>
 
-      const main = async () => {
-        const response = await fetch(
-          'https://gw.alipayobjects.com/os/basement_prod/6cae02ab-4c29-44b2-b1fd-4005688febcb.json',
-        );
-        const remoteData = await response.json();
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
 
-        const nodes = remoteData.nodes;
-        const edges = remoteData.edges;
-        nodes.forEach((node) => {
-          if (!node.style) {
-            node.style = {};
-          }
-          node.style.lineWidth = 1;
-          node.style.stroke = '#666';
-          node.style.fill = 'steelblue';
-          switch (node.class) {
-            case 'c0': {
-              node.type = 'circle';
-              node.size = 30;
-              break;
-            }
-            case 'c1': {
-              node.type = 'rect';
-              node.size = [35, 20];
-              break;
-            }
-            case 'c2': {
-              node.type = 'ellipse';
-              node.size = [35, 20];
-              break;
-            }
-          }
-        });
-        edges.forEach((edge) => {
-          if (!edge.style) {
-            edge.style = {};
-          }
-          edge.style.lineWidth = edge.weight;
-          edge.style.opacity = 0.6;
-          edge.style.stroke = 'grey';
-        });
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
 
-        graph.data(remoteData);
-        graph.render();
+</style>
+<svg width="960" height="600"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
 
-        // Mouse enter a node
-        graph.on('node:mouseenter', (e) => {
-          const nodeItem = e.item; // Get the target item
-          graph.setItemState(nodeItem, 'hover', true); // Set the state 'hover' of the item to be true
-        });
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
 
-        // Mouse leave a node
-        graph.on('node:mouseleave', (e) => {
-          const nodeItem = e.item; // Get the target item
-          graph.setItemState(nodeItem, 'hover', false); // Set the state 'hover' of the item to be false
-        });
+var color = d3.scaleOrdinal(d3.schemeCategory20);
 
-        // Click a node
-        graph.on('node:click', (e) => {
-          // Swich the 'click' state of the node to be false
-          const clickNodes = graph.findAllByState('node', 'click');
-          clickNodes.forEach((cn) => {
-            graph.setItemState(cn, 'click', false);
-          });
-          const nodeItem = e.item; // et the clicked item
-          graph.setItemState(nodeItem, 'click', true); // Set the state 'click' of the item to be true
-        });
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function(d) { return d.id; }))
+    .force("charge", d3.forceManyBody())
+    .force("center", d3.forceCenter(width / 2, height / 2));
 
-        // Click an edge
-        graph.on('edge:click', (e) => {
-          // Swich the 'click' state of the edge to be false
-          const clickEdges = graph.findAllByState('edge', 'click');
-          clickEdges.forEach((ce) => {
-            graph.setItemState(ce, 'click', false);
-          });
-          const edgeItem = e.item; // Get the clicked item
-          graph.setItemState(edgeItem, 'click', true); // Set the state 'click' of the item to be true
-        });
-      };
-      main();
-    </script>
-  </body>
-</html>
+d3.json("miserables.json", function(error, graph) {
+  if (error) throw error;
+
+  var link = svg.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+      .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
+
+  var node = svg.append("g")
+      .attr("class", "nodes")
+    .selectAll("circle")
+    .data(graph.nodes)
+    .enter().append("circle")
+      .attr("r", 5)
+      .attr("fill", function(d) { return color(d.group); })
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+
+  node.append("title")
+      .text(function(d) { return d.id; });
+
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
+
+  simulation.force("link")
+      .links(graph.links);
+
+  function ticked() {
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node
+        .attr("cx", function(d) { return d.x; })
+        .attr("cy", function(d) { return d.y; });
+  }
+});
+
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+
+</script>

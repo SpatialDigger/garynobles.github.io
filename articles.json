@@ -11,11 +11,7 @@
       "url": "https://doi.org/10.1515/opar-2020-0149",
       "group": 1
     },
-    {
-      "id": "Emmitt 2019",
-      "title": "Digitizing Roonka: The creation of a 3D representation from archival records. Digital Applications in Archaeology and Cultural Heritage",
-      "group": 1
-    },
+
     {
       "id": "Appadurai 1996",
       "title": "Modernity at large cultural dimensions of globalization",
@@ -216,6 +212,11 @@
       "pages": "251–262",
       "publisher": "",
       "url": "https://doi.org/10.1016/j.jas.2013.08.020",
+      "group": 0
+    },
+    {
+      "id": "Emmitt 2019",
+      "title": "Digitizing Roonka: The creation of a 3D representation from archival records. Digital Applications in Archaeology and Cultural Heritage",
       "group": 0
     },
     {

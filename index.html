@@ -1,30 +1,30 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    <script src="https://cdn.anychart.com/releases/8.8.0/js/anychart-core.min.js"></script>
-    <script src="https://cdn.anychart.com/releases/8.8.0/js/anychart-graph.min.js"></script>
-    <script src="https://cdn.anychart.com/releases/8.8.0/js/anychart-data-adapter.min.js"></script>
-    <style type="text/css">
-      html, body, #container {
-        width: 100%;
-        height: 100%;
-        margin: 0;
-        padding: 0;
-      }
-    </style>
+    <meta charset="UTF-8" />
+    <title>Tutorial Demo</title>
   </head>
   <body>
-    <div id="container"></div>
+    <div id="mountNode"></div>
+    <script src="https://gw.alipayobjects.com/os/antv/pkg/_antv.g6-3.7.1/dist/g6.min.js"></script>
     <script>
-      anychart.onDocumentReady(function () {
-        anychart.data.loadJsonFile("https://static.anychart.com/git-storage/word-press/data/network-graph-tutorial/data.json", function (data) {
-        // create a chart from the loaded data
-        var chart = anychart.graph(data);
-        // set the title
-        chart.title("Network Graph showing the battles in Game of Thrones");
-        // draw the chart
-        chart.container("container").draw();
-        });
+      const graph = new G6.Graph({
+        container: 'mountNode',
+        width: 1000,
+        height: 600,
+        fitView: true,
+        fitViewPadding: [20, 40, 50, 20],
       });
+
+      const main = async () => {
+        const response = await fetch(
+          'https://gw.alipayobjects.com/os/basement_prod/6cae02ab-4c29-44b2-b1fd-4005688febcb.json',
+        );
+        const remoteData = await response.json();
+        graph.data(remoteData);
+        graph.render();
+      };
+      main();
     </script>
   </body>
 </html>

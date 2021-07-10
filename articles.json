@@ -1,0 +1,10 @@
+{
+  "nodes": [
+    {"id": "Nobles & Roosevelt 2021", "group": 1},
+    {"id": "Nobles & Cakilar 2009", "group": 1}
+
+  ],
+  "links": [
+    {"source": "Nobles & Roosevelt 2021", "target": "Nobles & Cakilar 2009", "value": 1}
+      ]
+}

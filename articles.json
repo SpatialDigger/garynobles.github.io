@@ -11,7 +11,6 @@
       "url": "https://doi.org/10.1515/opar-2020-0149",
       "group": 1
     },
-
     {
       "id": "Appadurai 1996",
       "title": "Modernity at large cultural dimensions of globalization",
@@ -214,13 +213,8 @@
       "url": "https://doi.org/10.1016/j.jas.2013.08.020",
       "group": 0
     },
-
-
-
-
-
-
-    {"id": "De Roo et al. 2016",
+    {
+      "id": "De Roo et al. 2016",
       "title": "Spatiotemporal data as the foundation of an archaeological stratigraphy extraction and management system",
       "authors": "De Roo, B., Stal, C., Lonneville, B., De Wulf, A., Bourgeois, J., & De Maeyer, P.",
       "year": "2016",
@@ -230,212 +224,352 @@
       "pages": "522–530",
       "publisher": "",
       "url": "https://doi.org/10.1016/j.culher.2015.12.001",
-
-      "group": 0},
-
-      {"id": "Dell’Unto et al. 2016",
-        "title": "Experiencing ancient buildings from a 3D GIS perspective: A case drawn from the Swedish Pompeii project",
-        "authors": "Dell’Unto, N., Landeschi, G., Leander Touati, A.-M., Ferdani, D., Dellepiane, M., Callieri, M., & Lindgren, S.",
-        "year": "2016",
-        "journal": "Journal of Archaeological Method and Theory",
-        "volume": "23",
-        "number": "",
-        "pages": "73–94",
-        "publisher": "",
-        "url": "https://doi.org/10.1007/s10816-014-9226-7",
-
-        "group": 0},
-
-        {"id": "Dell’Unto et al. 2017",
-          "title": "4D recording at the trowel’s edge: Using three-dimensional simulation platforms to support field interpretation",
-          "authors": "Dell’Unto, N., Landeschi, G., Apel, J., & Poggi, G.",
-          "year": "2017",
-          "journal": "Journal of Archaeological Science: Reports",
-          "volume": "12",
-          "number": "",
-          "pages": "632–645",
-          "publisher": "",
-          "url": "https://doi.org/10.1016/j.jasrep.2017.03.011",
-
-          "group": 0},
-
-
-          {"id": "Dobias & Razmjooei 2020",
-            "title": "Crowdfunding: Support for point cloud data in QGIS",
-            "authors": "Dobias, M., & Razmjooei, S.",
-            "year": "",
-            "journal": "",
-            "volume": "",
-            "number": "",
-            "pages": "",
-            "publisher": "Lutra Consulting",
-            "url": "https://www.lutraconsulting.co.uk/blog/2020/08/24/pointcloud-qgis/",
-
-            "group": 0},
-
-            {"id": "Doneus et al. 2011",
-              "title": "From deposit to point cloud – a study of lowcost computer vision approaches for the straightforward documentation of archaeological excavations",
-              "authors": "Doneus, M., Verhoeven, G., Fera, M., Briese, C., Kucera, M., & Neubauer, W.",
-              "year": "2011",
-              "journal": "Geoinformatics FCE CTU",
-              "volume": "6",
-              "number": "",
-              "pages": "81–88",
-              "publisher": "",
-              "url": "https://doi.org/10.14311/gi.6.11",
-
-              "group": 0},
-
-              {"id": "Doneus et al. 2020",
-                "title": "Archaeological ground point filtering of airborne laser scan derived point clouds in a difficult mediterranean environment",
-                "authors": "Doneus, M., Mandlburger, G., & Doneus, N.",
-                "year": "",
-                "journal": "Journal of Computer Applications in Archaeology",
-                "volume": "3",
-                "number": "1",
-                "pages": "92–108",
-                "publisher": "",
-                "url": "https://doi.org/10.5334/jcaa.44",
-
-                "group": 0},
-
-                {"id": "Douglass et al. 2015",
-                  "title": "The application of 3D photogrammetry for in-field documentation of archaeological features",
-                  "authors": "Douglass, M., Lin, S., & Chodoronek, M.",
-                  "year": "2015",
-                  "journal": "Advances in Archaeological Practice",
-                  "volume": "3",
-                  "number": "2",
-                  "pages": "136–152",
-                  "publisher": "",
-                  "url": "https://doi.org/10.7183/2326-3768.3.2.136",
-
-                  "group": 0},
-
-                  {"id": "ESRI 2012",
-                    "title": "The multipatch geometry type – An ESRI white paper December 2008",
-                    "authors": "ESRI",
-                    "year": "2012",
-                    "journal": "",
-                    "volume": "",
-                    "number": "",
-                    "pages": "",
-                    "publisher": "Redlands, CA: ESRI",
-                    "url": "http://www.esri.com/library/whitepapers/pdfs/multipatch-geometry-type.pdf",
-
-                    "group": 0},
-
-                    {"id": "FAIRPort Mobile Data Open Movement 2020",
-                      "title": "Data FAIRport. Find, access, interoperate & re-use data",
-                      "authors": "FAIRPort Mobile Data Open Movement",
-                      "year": "2020",
-                      "journal": "",
-                      "volume": "",
-                      "number": "",
-                      "pages": "",
-                      "publisher": "",
-                      "url": "https://www.datafairport.org/",
-
-                      "group": 0},
-
-                      {"id": "Flaxman 2010",
-                        "title": "Fundamentals of geodesign",
-                        "authors": "",
-                        "year": "",
-                        "editors": "E. Buhmann, M. Pietsch, & E. Kretzler",
-                        "book section": "Proceedings of digital landscape architecture",
-                        "pages": "28–41",
-                        "publisher": "Anhalt: Anhalt University of Applied Science.",
-                        "url": "https://doi.org/",
-
-                        "group": 0},
-
-                        {"id": "Gavryushkina 2018",
-                          "title": "Layer by (3D) Layer 3D GIS stratigraphic analysis of chlorakas-palloures, cyprus [MA thesis]",
-                          "authors": "Gavryushkina, M.",
-                          "year": "2018",
-                          "publisher": "Leiden:  University of Leiden",
-                          "url": "https://doi.org/",
-
-                          "group": 0},
-
-                    {"id": "Gillings 2012",
-                      "title": "Landscape phenomenology, GIS and the role of affordance",
-                      "authors": "Gillings, M.",
-                      "year": "2012",
-                      "journal": "Journal of Archaeological Method and Theory",
-                      "volume": "19",
-                      "number": "4",
-                      "pages": "601–611",
-                      "publisher": "",
-                      "url": "https://doi.org/10.1007/s10816-012-9137-4",
-
-                      "group": 0},
-
-                      {"id": "Goodchild & Janelle 2010",
-                        "title": "Toward critical spatial thinking in the social sciences and humanities",
-                        "authors": "Goodchild, M. F., & Janelle, D. G.",
-                        "year": "2010",
-                        "journal": "GeoJournal",
-                        "volume": "75",
-                        "number": "1",
-                        "pages": "3–13",
-                        "publisher": "",
-                        "url": "https://doi.org/10.1007/s10708-010-9340-3",
-
-                        "group": 0},
-
-
-                        {"id": "HERE Europe 2018",
-                          "title": "The point processing toolkit (pptk)",
-                          "authors": "HERE Europe B. V.",
-                          "year": "2018",
-                          "journal": "",
-                          "volume": "",
-                          "number": "",
-                          "pages": "",
-                          "publisher": "",
-                          "url": "https://github.com/heremaps/pptk",
-
-                          "group": 0},
-
-
-                          {"id": "Huggett 2004",
-                            "title": "Archaeology and the new technological fetishism",
-                            "authors": "Huggett, J.",
-                            "year": "2004",
-                            "journal": "Archeologia e Calcolatori",
-                            "volume": "15",
-                            "number": "",
-                            "pages": "81–92",
-                            "publisher": "",
-                            "url": "https://doi.org/",
-
-                            "group": 0},
-
-                            {"id": "Huggett 2012",
-                              "title": "Core or periphery? Digital humanities from an archaeological perspective",
-                              "authors": "Huggett, J.",
-                              "year": "2012",
-                              "journal": "Historical Social Research",
-                              "volume": "37",
-                              "number": "3",
-                              "pages": "86–105",
-                              "publisher": "",
-                              "url": "https://doi.org/",
-
-                              "group": 0},
-
-
-
-
-
-
-
-
-
-
-
+      "group": 0
+    },
+    {
+      "id": "Dell’Unto et al. 2016",
+      "title": "Experiencing ancient buildings from a 3D GIS perspective: A case drawn from the Swedish Pompeii project",
+      "authors": "Dell’Unto, N., Landeschi, G., Leander Touati, A.-M., Ferdani, D., Dellepiane, M., Callieri, M., & Lindgren, S.",
+      "year": "2016",
+      "journal": "Journal of Archaeological Method and Theory",
+      "volume": "23",
+      "number": "",
+      "pages": "73–94",
+      "publisher": "",
+      "url": "https://doi.org/10.1007/s10816-014-9226-7",
+      "group": 0
+    },
+    {
+      "id": "Dell’Unto et al. 2017",
+      "title": "4D recording at the trowel’s edge: Using three-dimensional simulation platforms to support field interpretation",
+      "authors": "Dell’Unto, N., Landeschi, G., Apel, J., & Poggi, G.",
+      "year": "2017",
+      "journal": "Journal of Archaeological Science: Reports",
+      "volume": "12",
+      "number": "",
+      "pages": "632–645",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jasrep.2017.03.011",
+      "group": 0
+    },
+    {
+      "id": "Dobias & Razmjooei 2020",
+      "title": "Crowdfunding: Support for point cloud data in QGIS",
+      "authors": "Dobias, M., & Razmjooei, S.",
+      "year": "",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "Lutra Consulting",
+      "url": "https://www.lutraconsulting.co.uk/blog/2020/08/24/pointcloud-qgis/",
+      "group": 0
+    },
+    {
+      "id": "Doneus et al. 2011",
+      "title": "From deposit to point cloud – a study of lowcost computer vision approaches for the straightforward documentation of archaeological excavations",
+      "authors": "Doneus, M., Verhoeven, G., Fera, M., Briese, C., Kucera, M., & Neubauer, W.",
+      "year": "2011",
+      "journal": "Geoinformatics FCE CTU",
+      "volume": "6",
+      "number": "",
+      "pages": "81–88",
+      "publisher": "",
+      "url": "https://doi.org/10.14311/gi.6.11",
+      "group": 0
+    },
+    {
+      "id": "Doneus et al. 2020",
+      "title": "Archaeological ground point filtering of airborne laser scan derived point clouds in a difficult mediterranean environment",
+      "authors": "Doneus, M., Mandlburger, G., & Doneus, N.",
+      "year": "",
+      "journal": "Journal of Computer Applications in Archaeology",
+      "volume": "3",
+      "number": "1",
+      "pages": "92–108",
+      "publisher": "",
+      "url": "https://doi.org/10.5334/jcaa.44",
+      "group": 0
+    },
+    {
+      "id": "Douglass et al. 2015",
+      "title": "The application of 3D photogrammetry for in-field documentation of archaeological features",
+      "authors": "Douglass, M., Lin, S., & Chodoronek, M.",
+      "year": "2015",
+      "journal": "Advances in Archaeological Practice",
+      "volume": "3",
+      "number": "2",
+      "pages": "136–152",
+      "publisher": "",
+      "url": "https://doi.org/10.7183/2326-3768.3.2.136",
+      "group": 0
+    },
+    {
+      "id": "ESRI 2012",
+      "title": "The multipatch geometry type – An ESRI white paper December 2008",
+      "authors": "ESRI",
+      "year": "2012",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "Redlands, CA: ESRI",
+      "url": "http://www.esri.com/library/whitepapers/pdfs/multipatch-geometry-type.pdf",
+      "group": 0
+    },
+    {
+      "id": "FAIRPort Mobile Data Open Movement 2020",
+      "title": "Data FAIRport. Find, access, interoperate & re-use data",
+      "authors": "FAIRPort Mobile Data Open Movement",
+      "year": "2020",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://www.datafairport.org/",
+      "group": 0
+    },
+    {
+      "id": "Flaxman 2010",
+      "title": "Fundamentals of geodesign",
+      "authors": "",
+      "year": "",
+      "editors": "E. Buhmann, M. Pietsch, & E. Kretzler",
+      "book section": "Proceedings of digital landscape architecture",
+      "pages": "28–41",
+      "publisher": "Anhalt: Anhalt University of Applied Science.",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Gavryushkina 2018",
+      "title": "Layer by (3D) Layer 3D GIS stratigraphic analysis of chlorakas-palloures, cyprus [MA thesis]",
+      "authors": "Gavryushkina, M.",
+      "year": "2018",
+      "publisher": "Leiden:  University of Leiden",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Gillings 2012",
+      "title": "Landscape phenomenology, GIS and the role of affordance",
+      "authors": "Gillings, M.",
+      "year": "2012",
+      "journal": "Journal of Archaeological Method and Theory",
+      "volume": "19",
+      "number": "4",
+      "pages": "601–611",
+      "publisher": "",
+      "url": "https://doi.org/10.1007/s10816-012-9137-4",
+      "group": 0
+    },
+    {
+      "id": "Goodchild & Janelle 2010",
+      "title": "Toward critical spatial thinking in the social sciences and humanities",
+      "authors": "Goodchild, M. F., & Janelle, D. G.",
+      "year": "2010",
+      "journal": "GeoJournal",
+      "volume": "75",
+      "number": "1",
+      "pages": "3–13",
+      "publisher": "",
+      "url": "https://doi.org/10.1007/s10708-010-9340-3",
+      "group": 0
+    },
+    {
+      "id": "HERE Europe 2018",
+      "title": "The point processing toolkit (pptk)",
+      "authors": "HERE Europe B. V.",
+      "year": "2018",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://github.com/heremaps/pptk",
+      "group": 0
+    },
+    {
+      "id": "Huggett 2004",
+      "title": "Archaeology and the new technological fetishism",
+      "authors": "Huggett, J.",
+      "year": "2004",
+      "journal": "Archeologia e Calcolatori",
+      "volume": "15",
+      "number": "",
+      "pages": "81–92",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Huggett 2012",
+      "title": "Core or periphery? Digital humanities from an archaeological perspective",
+      "authors": "Huggett, J.",
+      "year": "2012",
+      "journal": "Historical Social Research",
+      "volume": "37",
+      "number": "3",
+      "pages": "86–105",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Huggett 2015a",
+      "title": "Challenging digital archaeology",
+      "authors": "Huggett, J.",
+      "year": "2015",
+      "journal": "Open Archaeology",
+      "volume": "1",
+      "number": "1",
+      "pages": "79–85",
+      "publisher": "",
+      "url": "https://doi.org/10.1515/opar-2015-0003",
+      "group": 0
+    },
+    {
+      "id": "Huggett 2015b",
+      "title": "A manifesto for an introspective digital archaeology",
+      "authors": "Huggett, J.",
+      "year": "2015",
+      "journal": "Open Archaeology",
+      "volume": "1",
+      "number": "1",
+      "pages": "86-95",
+      "publisher": "",
+      "url": "https://doi.org/10.1515/opar-2015-0002",
+      "group": 0
+    },
+    {
+      "id": "ISAAK 2020",
+      "title": "Initiative for statistical analysis in archaeology Kiel",
+      "authors": "ISAAK",
+      "year": "2020",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://github.com/ISAAKiel",
+      "group": 0
+    },
+    {
+      "id": "Jensen 2018",
+      "title": "Semantically enhanced 3D: A web-based platform for spatial integration of excavation documentation at Alken Enge, Denmark",
+      "authors": "Jensen, P.",
+      "year": "2018",
+      "journal": "Journal of Field Archaeology",
+      "volume": "43(sup1)",
+      "number": "",
+      "pages": "S31–S44",
+      "publisher": "",
+      "url": "https://doi.org/10.1080/00934690.2018.1510299",
+      "group": 0
+    },
+    {
+      "id": "Kazhdan 2005",
+      "title": "Reconstruction of solid models from oriented point sets",
+      "authors": "Kazhdan, M.",
+      "year": "",
+      "journal": "In Proceedings of the third Eurographics symposium on Geometry processing, (SGP ’05)",
+      "volume": "",
+      "number": "",
+      "pages": "73–82",
+      "publisher": "Germany: Eurographics Association",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Khuan et al. 2008",
+      "title": "3D solids and their management in DBMS",
+      "authors": "Khuan, C. T., Abdul-Rahman, A., & Zlatanova, S.",
+      "year": "2008",
+      "editors": "P. van Oosterom, S. Zlatanova, F. Penninga, & E. Fendel",
+      "book section": "Advances in 3D geoinformation systems",
+      "pages": "279–311",
+      "publisher": "New York: Springer",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Kjellman 2012",
+      "title": "From 2D to 3D A photogrammetric revolution in archaeology? [MA thesis]",
+      "authors": "Kjellman, E.",
+      "year": "2012",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "Tromsø: University of Tromsø",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Kvamme 1999",
+      "title": "Recent directions and developments in geographical information systems",
+      "authors": "Kvamme, K. L.",
+      "year": "1999",
+      "journal": "Journal of Archaeological Research",
+      "volume": "7",
+      "number": "2",
+      "pages": "153–201",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Landeschi et al. 2015",
+      "title": "Enhanced 3D-GIS: Documenting Insula V 1 in Pompeii",
+      "authors": "Landeschi, G., Dell’Unto, N., Ferdani, D., Leander Touati, A-M., & Lindgren, S.",
+      "year": "2015",
+      "editors": "F. Giligny, F. Djindjian, L. Costa, P. Moscati, & S. Robert",
+      "book section": "CAA2014 21st century Archaeology: Concepts, methods and tools. Proceedings of the 42nd annual conference on computer applications and quantitative methods in archaeology",
+      "pages": "349–360",
+      "publisher": "Oxford: Archaeopress",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Landeschi et al. 2016",
+      "title": "3D-GIS as a platform for visual analysis: Investigating a Pompeian house",
+      "authors": "Landeschi, G., Dell’Unto, N., Lundqvist, K., Ferdani, D., Marco, D., & Touati, A. L.",
+      "year": "2016",
+      "journal": "Journal of Archaeological Research",
+      "volume": "65",
+      "number": "",
+      "pages": "103–113",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jas.2015.11.002",
+      "group": 0
+    },
+    {
+      "id": "Landeschi 2019",
+      "title": "Re-enacting the sequence: Combined digital methods to study a prehistoric cave",
+      "authors": "Landeschi, G., Apel, J., Lundström, V., Storå, J., Lindgren, S., & Dell’Unto, N.",
+      "year": "",
+      "journal": "Archaeological and Anthropological Sciences",
+      "volume": "11",
+      "number": "6",
+      "pages": "2805–2819",
+      "publisher": "",
+      "url": "https://doi.org/10.1007/s12520-018-0724-5",
+      "group": 0
+    },
+    {
+      "id": "Ledoux & Meijers 2011",
+      "title": "Topologically consistent 3D city models obtained by extrusion",
+      "authors": "Ledoux, H., & Meijers, M.",
+      "year": "",
+      "journal": "International Journal of Geographical Information Science",
+      "volume": "25",
+      "number": "4",
+      "pages": "557–74",
+      "publisher": "",
+      "url": "https://doi.org/10.1080/13658811003623277",
+      "group": 0
+    },
     {
       "id": "Emmitt 2019",
       "title": "Digitizing Roonka: The creation of a 3D representation from archival records. Digital Applications in Archaeology and Cultural Heritage",
@@ -446,17 +580,6 @@
       "group": 1
     }
   ],
-
-
-
-
-
-
-
-
-
-
-
   "links": [
     {
       "source": "Nobles & Roosevelt 2021",
@@ -508,7 +631,6 @@
       "target": "Contributors, P. D. A. L. 2018",
       "value": 1
     },
-
     {
       "source": "Nobles & Roosevelt 2021",
       "target": "Crema 2011",

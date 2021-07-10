@@ -10,6 +10,7 @@ Groups:
 Articles
 {"id": "",
   "title": "",
+  "authors": "",
   "year": "",
   "journal": "",
   "volume": "",
@@ -20,15 +21,25 @@ Articles
 
   "group": 0},
 
-book section
-{"id": "",
-  "title": "",
-  "authors": "",
-  "year": "",
-  "editors": "",
-  "book section": "",
-  "pages": "",
-  "publisher": "",
-  "url": "",
+  book section
+  {"id": "",
+    "title": "",
+    "authors": "",
+    "year": "",
+    "editors": "",
+    "book section": "",
+    "pages": "",
+    "publisher": "",
+    "url": "",
 
-  "group": 0},
+    "group": 0},
+
+    book
+    {"id": "",
+      "title": "",
+      "authors": "",
+      "year": "",
+      "publisher": "",
+      "url": "",
+
+      "group": 0},

@@ -2307,6 +2307,16 @@
       "source": "Landeschi 2019b",
       "target": "Allen 2011",
       "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Barceló et al. 2003",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Bernardini et al. 2013",
+      "value": 1
     }
   ]
 }

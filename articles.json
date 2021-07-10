@@ -169,6 +169,18 @@
 
       "group": 0},
 
+      {"id": "Campana 2014",
+        "title": "3D Modeling in Archaeology and Cultural Heritage–Theory and Best Practice.",
+        "authors": "Campana, S.",
+        "year": "2014",
+        "editors": "F. Remondino, & S. Campana",
+        "book section": "In 3D Recording and Modelling in Archaeology and Cultural Heritage",
+        "pages": "",
+        "publisher": "Oxford: BAR International Series.",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
     {
       "id": "Campana 2017",
       "title": "Drones in archaeology. State-of-the-art and future perspectives",
@@ -2369,6 +2381,11 @@
     {
       "source": "Landeschi 2019b",
       "target": "Callieri et al. 2011",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Campana 2014",
       "value": 1
     }
   ]

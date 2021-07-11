@@ -761,6 +761,45 @@
       "url": "https://doi.org/10.1007/s10816-012-9137-4",
       "group": 0
     },
+    {"id": "Gillings 2015",
+      "title": "Mapping Invisibility: GIS Approaches to the Analysis of Hiding and Seclusion",
+      "authors": "Gillings, M.",
+      "year": "2015",
+      "journal": "Journal of Archaeological Science",
+      "volume": "62",
+      "number": "",
+      "pages": "1–14",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jas.2015.06.015",
+
+      "group": 0},
+
+      {"id": "Gillings 2017",
+        "title": "Mapping Liminality: Critical Frameworks for the GIS-based Modelling of Visibility",
+        "authors": "Gillings, M.",
+        "year": "2017",
+        "journal": "Journal of Archaeological Science",
+        "volume": "84",
+        "number": "",
+        "pages": "121–128",
+        "publisher": "",
+        "url": "https://doi.org/10.1016/j.jas.2017.05.004",
+
+        "group": 0},
+
+        {"id": "Gillings & Goodrick 1996",
+          "title": "Sensuous and Reflexive GIS: Exploring Visualisation and VRML",
+          "authors": "Gillings, M., and G. T. Goodrick.",
+          "year": "1996",
+          "journal": "Internet Archaeology",
+          "volume": "1",
+          "number": "1",
+          "pages": "",
+          "publisher": "",
+          "url": "https://doi.org/",
+
+          "group": 0},
+
     {
       "id": "Goodchild & Janelle 2010",
       "title": "Toward critical spatial thinking in the social sciences and humanities",
@@ -2700,6 +2739,21 @@
     {
       "source": "Landeschi 2019b",
       "target": "Gillings 2012",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Gillings 2015",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Gillings 2017",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Gillings & Goodrick 1996",
       "value": 1
     }
   ]

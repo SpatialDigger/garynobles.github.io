@@ -55,7 +55,7 @@
       "pages": "21–29",
       "publisher": "Amsterdam: Pallas Publications.",
       "url": "",
-      "group": 0
+      "group": 1
     },
     {
       "id": "Bagi 2018",
@@ -559,6 +559,20 @@
       "url": "https://doi.org/",
       "group": 0
     },
+
+    {"id": "Emmitt et al. 2019",
+      "title": "Digitizing Roonka: The creation of a 3D representation from archival records",
+      "authors": "Emmitt, J., Littleton, J., Young, R., & Phillipps, R.",
+      "year": "2019",
+      "journal": "Digital Applications in Archaeology and Cultural Heritage",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 1},
+
     {
       "id": "ESRI 2012",
       "title": "The multipatch geometry type – An ESRI white paper December 2008",
@@ -1370,7 +1384,7 @@
       "pages": "129–135",
       "publisher": "",
       "url": "https://doi.org/10.1016/j.jas.2017.06.002",
-      "group": 0
+      "group": 1
     },
     {"id": "Lock & Stancic 1995",
       "title": "Archaeology and Geographic Information Systems: A European Perspective",
@@ -1403,7 +1417,7 @@
       "pages": "272–288",
       "publisher": "",
       "url": "https://doi.org/10.1016/j.jas.2006.05.008",
-      "group": 0
+      "group": 2
     },
     {
       "id": "Luke et al. 2015",
@@ -1542,7 +1556,7 @@
       "pages": "136–151",
       "publisher": "",
       "url": "https://doi.org/",
-      "group": 0
+      "group": 1
     },
     {
       "id": "National Research Council 2006",

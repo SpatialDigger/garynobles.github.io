@@ -1004,6 +1004,32 @@
       "url": "https://doi.org/10.1080/00934690.2018.1510299",
       "group": 0
     },
+    {"id": "Kaiser 2003",
+      "title": "The Application of GIS Viewshed Analysis to Roman Urban Studies: The Case-Study of Empúries, Spain",
+      "authors": "Kaiser, A. E.",
+      "year": "2003",
+      "journal": "Internet Archaeology",
+      "volume": "14",
+      "number": "",
+      "pages": "106–121",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+      {"id": "Katsianis 2008",
+        "title": "A 3D Digital Workflow for Archaeological Intra-Site Research Using GIS",
+        "authors": "Katsianis, M., S. Tsipidis, K. Kotsakis, and A. Kousoulakou",
+        "year": "2008",
+        "journal": "Journal of Archaeological Science",
+        "volume": "35",
+        "number": "3",
+        "pages": "655–667",
+        "publisher": "",
+        "url": "https://doi.org/10.1016/j.jas.2007.06.002",
+
+        "group": 0},
+
     {
       "id": "Kazhdan 2005",
       "title": "Reconstruction of solid models from oriented point sets",
@@ -1052,7 +1078,7 @@
       "number": "2",
       "pages": "153–201",
       "publisher": "",
-      "url": "https://doi.org/",
+      "url": "https://doi.org/153–201. doi:10.1007/BF02446276",
       "group": 0
     },
     {
@@ -2844,6 +2870,21 @@
     {
       "source": "Landeschi 2019b",
       "target": "Harris & Lock 1995",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Kaiser 2003",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Katsianis 2008",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Kvamme 1999",
       "value": 1
     }
   ]

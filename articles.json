@@ -295,28 +295,7 @@
       "url": "https://trimsh.org/",
       "group": 0
     },
-    {
-      "id": "Dekker 2020a",
-      "title": "Een realistischer digitaal model voor archeologische opgravingen [Unpublished BA honors thesis]",
-      "authors": "Dekker, B.",
-      "year": "2020",
-      "publisher": "Amsterdam: University of Amsterdam",
-      "url": "",
-      "group": 0
-    },
-    {
-      "id": "Dekker 2020b",
-      "title": "3D volume generation. Archaeological-surfaces-to-volume",
-      "authors": "Dekker, B.",
-      "year": "2020",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "",
-      "url": "https://github.com/TJRL/Archaeological-surfaces-to-volume",
-      "group": 0
-    },
+
     {
       "id": "De Kleijn et al. 2016",
       "title": "A 3D spatial data infrastructure for mapping the Via Appia",
@@ -331,7 +310,7 @@
       "group": 0
     },
     {
-      "id": "De Reu et al. 2013",
+      "id": "De Reu et al. 2013a",
       "title": "Orthophoto mapping and digital surface modeling for archaeological excavations: an image-based 3D modeling approach",
       "authors": "De Reu, J., De Clercq, W., Sergant, J., Deconynck, J., & Laloo, P.",
       "year": "2013",
@@ -343,6 +322,21 @@
       "url": "https://doi.org/10.1109/DigitalHeritage.2013.6743734",
       "group": 0
     },
+    {"id": "De Reu et al. 2013b",
+      "title": "Towards a Three-Dimensional Cost-Effective Registration of the Archaeological Heritage",
+      "authors": "De Reu, J., G. Plets, G. Verhoeven, P. De Smedt, M. Bats, B. Cherretté, W. De Maeyer",
+      "year": "2013",
+      "journal": "Journal of Archaeological Science",
+      "volume": "40",
+      "number": "2",
+      "pages": "1108–1121",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jas.2012.08.040",
+
+      "group": 0},
+
+
+
     {
       "id": "De Reu et al. 2014",
       "title": "On introducing an image-based 3D reconstruction method in archaeological excavation practice",
@@ -383,6 +377,67 @@
       "group": 0
     },
     {
+      "id": "Dekker 2020a",
+      "title": "Een realistischer digitaal model voor archeologische opgravingen [Unpublished BA honors thesis]",
+      "authors": "Dekker, B.",
+      "year": "2020",
+      "publisher": "Amsterdam: University of Amsterdam",
+      "url": "",
+      "group": 0
+    },
+    {
+      "id": "Dekker 2020b",
+      "title": "3D volume generation. Archaeological-surfaces-to-volume",
+      "authors": "Dekker, B.",
+      "year": "2020",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://github.com/TJRL/Archaeological-surfaces-to-volume",
+      "group": 0
+    },
+
+    {"id": "Dell’Unto et al. 2013",
+      "title": "Digital Reconstruction and Visualization in Archaeology Case-Study Drawn from the Work of the Swedish Pompeii Project.",
+      "authors": "Dell’Unto, N., A.-M. Leander Touati, D. Ferdani, M. Dellepiane, M. Callieri, and S. Lindgren",
+      "year": "2013",
+      "editors": "A. C. Addison, G. Guidi, L. De Luca, and S. Pescarin",
+      "book section": "2013 Digital Heritage International Congress",
+      "pages": "621–628",
+      "publisher": "Piscataway, NJ: IEEE–Institute of Electrical and Electronics Engineers",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+      {"id": "Dell’Unto 2014",
+        "title": "The Use of 3D Models for Intra-Site Investigation in Archaeology",
+        "authors": "Dell’Unto, N.",
+        "year": "2014",
+        "editors": "S. Campana and F. Remondino",
+        "book section": "3D Recording and Modeling in Archaeology and Cultural Heritage",
+        "pages": "",
+        "publisher": "Oxford: Archaeopress",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
+      {"id": "Dell’Unto et al. 2015",
+        "title": "Experiencing Ancient Buildings from A 3D GIS Perspective: A Case Drawn from the Swedish Pompeii Project",
+        "authors": "Dell’Unto, N., G. Landeschi, A.-M. Leander Touati, M. Dellepiane, M. Callieri, and D. Ferdani",
+        "year": "2015",
+        "journal": "Journal of Archaeological Method and Theory",
+        "volume": "23",
+        "number": "",
+        "pages": "73–94",
+        "publisher": "Plenum Press",
+        "url": "https://doi.org/doi:10.1007/s10816-014-9226-7",
+
+        "group": 0},
+
+
+    {
       "id": "Dell’Unto et al. 2016",
       "title": "Experiencing ancient buildings from a 3D GIS perspective: A case drawn from the Swedish Pompeii project",
       "authors": "Dell’Unto, N., Landeschi, G., Leander Touati, A.-M., Ferdani, D., Dellepiane, M., Callieri, M., & Lindgren, S.",
@@ -408,6 +463,33 @@
       "url": "https://doi.org/10.1016/j.jasrep.2017.03.011",
       "group": 0
     },
+
+    {"id": "Dellepiane et al. 2013",
+      "title": "Archeological Excavation Monitoring Using Dense Stereo Matching Techniques",
+      "authors": "Dellepiane, M., N. Dell’Unto, M. Callieri, S. Lindgren, and R. Scopigno.",
+      "year": "2013",
+      "journal": "Journal of Cultural Heritage",
+      "volume": "14",
+      "number": "",
+      "pages": "201–210",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.culher.2012.01.011",
+
+      "group": 0},
+
+      {"id": "Demetrescu 2015",
+        "title": "Archaeological Stratigraphy as a Formal Language for Virtual Reconstruction. Theory and Practice",
+        "authors": "Demetrescu, E.",
+        "year": "2015",
+        "journal": "Journal of Archaeological Science",
+        "volume": "57",
+        "number": "",
+        "pages": "42–55",
+        "publisher": "",
+        "url": "https://doi.org/10.1016/j.jas.2015.02.004",
+
+        "group": 0},
+
     {
       "id": "Dobias & Razmjooei 2020",
       "title": "Crowdfunding: Support for point cloud data in QGIS",
@@ -1779,7 +1861,7 @@
     },
     {
       "source": "Nobles & Roosevelt 2021",
-      "target": "De Reu et al. 2013",
+      "target": "De Reu et al. 2013a",
       "value": 1
     },
     {
@@ -2425,6 +2507,36 @@
     {
       "source": "Landeschi 2019b",
       "target": "Conolly & Lake 2006",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "De Reu et al. 2013b",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "De Reu et al. 2014",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Dell’Unto et al. 2013",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Dell’Unto et al. 2015",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Dellepiane et al. 2013",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Demetrescu 2015",
       "value": 1
     }
   ]

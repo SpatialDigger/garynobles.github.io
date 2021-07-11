@@ -1,7 +1,7 @@
 {
   "nodes": [
-
-    {"id": "Aguilera & Lahoz 2006",
+    {
+      "id": "Aguilera & Lahoz 2006",
       "title": "Laser Scanning or Image-Based Modeling? A Comparative through the Modelization of San Nicolas Church.",
       "authors": "Aguilera, D. G., and J. G. Lahoz.",
       "year": "2006",
@@ -11,21 +11,21 @@
       "pages": "",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-      {"id": "Allen 2011",
-        "title": "Getting to Know ArcGIS ModelBuilder",
-        "authors": "Allen, D. W.",
-        "year": "2011",
-        "journal": "",
-        "volume": "",
-        "number": "",
-        "pages": "",
-        "publisher": "Redlands, CA: Esri Press",
-        "url": "https://doi.org/",
-
-        "group": 0},
+      "group": 0
+    },
+    {
+      "id": "Allen 2011",
+      "title": "Getting to Know ArcGIS ModelBuilder",
+      "authors": "Allen, D. W.",
+      "year": "2011",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "Redlands, CA: Esri Press",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Appadurai 1996",
       "title": "Modernity at large cultural dimensions of globalization",
@@ -81,7 +81,8 @@
       "url": "https://doi.org/10.15184/aqy.2014.43",
       "group": 0
     },
-    {"id": "Bernardini et al. 2013",
+    {
+      "id": "Bernardini et al. 2013",
       "title": "Quantifying Visual Prominence in Social Landscapes.",
       "authors": "Bernardini, W., A. Barnash, M. Kumler, and M. Wong",
       "year": "2013",
@@ -91,8 +92,8 @@
       "pages": "3946–3954",
       "publisher": "",
       "url": "https://doi.org/10.1016/j.jas.2013.05.019",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Bell et al. 2020",
       "title": "PDAL: Point cloud data abstraction library. Release 2.2.0",
@@ -106,7 +107,8 @@
       "url": "https://pdal.io/PDAL.pdf",
       "group": 0
     },
-    {"id": "Betts 2017",
+    {
+      "id": "Betts 2017",
       "title": "The Multivalence of Sensory Artefacts in the City of Rome.",
       "authors": "Betts, E.",
       "year": "2017",
@@ -115,21 +117,21 @@
       "pages": "23–38",
       "publisher": "Oxford: Taylor & Francis.",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-      {"id": "Bezzi et al. 2006",
-        "title": "L’utilizzo Di Voxel in Campo Archeologico.",
-        "authors": "Bezzi, A., L. Bezzi, D. Francisci, and R. Gietl.",
-        "year": "2006",
-        "journal": "Geomatic Workbooks",
-        "volume": "6",
-        "number": "",
-        "pages": "",
-        "publisher": "",
-        "url": "https://doi.org/",
-
-        "group": 0},
+      "group": 0
+    },
+    {
+      "id": "Bezzi et al. 2006",
+      "title": "L’utilizzo Di Voxel in Campo Archeologico.",
+      "authors": "Bezzi, A., L. Bezzi, D. Francisci, and R. Gietl.",
+      "year": "2006",
+      "journal": "Geomatic Workbooks",
+      "volume": "6",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Bevan et al. 2014",
       "title": "Computer vision, archaeological classification and China’s terracotta warriors",
@@ -155,9 +157,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-
-
-    {"id": "Callieri et al. 2011",
+    {
+      "id": "Callieri et al. 2011",
       "title": "Documentation and Interpretation of an Archeological Excavation: An Experience with Dense Stereo Reconstruction Tools.",
       "authors": "Callieri, M., N. Dell’Unto, M. Dellepiane, R. Scopigno, B. Soderberg, and L. Larsson.",
       "year": "2011",
@@ -166,21 +167,20 @@
       "pages": "33–40",
       "publisher": "The Eurographics Association Publisher",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-      {"id": "Campana 2014",
-        "title": "3D Modeling in Archaeology and Cultural Heritage–Theory and Best Practice.",
-        "authors": "Campana, S.",
-        "year": "2014",
-        "editors": "F. Remondino, & S. Campana",
-        "book section": "In 3D Recording and Modelling in Archaeology and Cultural Heritage",
-        "pages": "",
-        "publisher": "Oxford: BAR International Series.",
-        "url": "https://doi.org/",
-
-        "group": 0},
-
+      "group": 0
+    },
+    {
+      "id": "Campana 2014",
+      "title": "3D Modeling in Archaeology and Cultural Heritage–Theory and Best Practice.",
+      "authors": "Campana, S.",
+      "year": "2014",
+      "editors": "F. Remondino, & S. Campana",
+      "book section": "In 3D Recording and Modelling in Archaeology and Cultural Heritage",
+      "pages": "",
+      "publisher": "Oxford: BAR International Series.",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Campana 2017",
       "title": "Drones in archaeology. State-of-the-art and future perspectives",
@@ -219,10 +219,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-
-
-
-    {"id": "Cardaci & Versaci 2013",
+    {
+      "id": "Cardaci & Versaci 2013",
       "title": "Image-Based 3d Modeling Vs Laser Scanning for the Analysis of Medieval Architecture: The Case of St. Croce Church in Bergamo.",
       "authors": "Cardaci, A., and A. Versaci.",
       "year": "2013",
@@ -232,22 +230,21 @@
       "pages": "155–160",
       "publisher": "",
       "url": "https://doi.org/10.5194/isprsarchives-XL-5-W2-155-2013",
-
-      "group": 0},
-
-      {"id": "Conolly & Lake 2006",
-        "title": "Geographical Information Systems in Archaeology",
-        "authors": "Conolly, J., and M. Lake.",
-        "year": "2006",
-        "journal": "",
-        "volume": "",
-        "number": "",
-        "pages": "",
-        "publisher": "New York, NY: Cambridge University Press.",
-        "url": "https://doi.org/",
-
-        "group": 0},
-
+      "group": 0
+    },
+    {
+      "id": "Conolly & Lake 2006",
+      "title": "Geographical Information Systems in Archaeology",
+      "authors": "Conolly, J., and M. Lake.",
+      "year": "2006",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "New York, NY: Cambridge University Press.",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Contributors, P. D. A. L. 2018",
       "title": "PDAL point data abstraction library",
@@ -295,7 +292,6 @@
       "url": "https://trimsh.org/",
       "group": 0
     },
-
     {
       "id": "De Kleijn et al. 2016",
       "title": "A 3D spatial data infrastructure for mapping the Via Appia",
@@ -322,7 +318,8 @@
       "url": "https://doi.org/10.1109/DigitalHeritage.2013.6743734",
       "group": 0
     },
-    {"id": "De Reu et al. 2013b",
+    {
+      "id": "De Reu et al. 2013b",
       "title": "Towards a Three-Dimensional Cost-Effective Registration of the Archaeological Heritage",
       "authors": "De Reu, J., G. Plets, G. Verhoeven, P. De Smedt, M. Bats, B. Cherretté, W. De Maeyer",
       "year": "2013",
@@ -332,11 +329,8 @@
       "pages": "1108–1121",
       "publisher": "",
       "url": "https://doi.org/10.1016/j.jas.2012.08.040",
-
-      "group": 0},
-
-
-
+      "group": 0
+    },
     {
       "id": "De Reu et al. 2014",
       "title": "On introducing an image-based 3D reconstruction method in archaeological excavation practice",
@@ -398,8 +392,8 @@
       "url": "https://github.com/TJRL/Archaeological-surfaces-to-volume",
       "group": 0
     },
-
-    {"id": "Dell’Unto et al. 2013",
+    {
+      "id": "Dell’Unto et al. 2013",
       "title": "Digital Reconstruction and Visualization in Archaeology Case-Study Drawn from the Work of the Swedish Pompeii Project.",
       "authors": "Dell’Unto, N., A.-M. Leander Touati, D. Ferdani, M. Dellepiane, M. Callieri, and S. Lindgren",
       "year": "2013",
@@ -408,35 +402,33 @@
       "pages": "621–628",
       "publisher": "Piscataway, NJ: IEEE–Institute of Electrical and Electronics Engineers",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-      {"id": "Dell’Unto 2014",
-        "title": "The Use of 3D Models for Intra-Site Investigation in Archaeology",
-        "authors": "Dell’Unto, N.",
-        "year": "2014",
-        "editors": "S. Campana and F. Remondino",
-        "book section": "3D Recording and Modeling in Archaeology and Cultural Heritage",
-        "pages": "",
-        "publisher": "Oxford: Archaeopress",
-        "url": "https://doi.org/",
-
-        "group": 0},
-
-      {"id": "Dell’Unto et al. 2015",
-        "title": "Experiencing Ancient Buildings from A 3D GIS Perspective: A Case Drawn from the Swedish Pompeii Project",
-        "authors": "Dell’Unto, N., G. Landeschi, A.-M. Leander Touati, M. Dellepiane, M. Callieri, and D. Ferdani",
-        "year": "2015",
-        "journal": "Journal of Archaeological Method and Theory",
-        "volume": "23",
-        "number": "",
-        "pages": "73–94",
-        "publisher": "Plenum Press",
-        "url": "https://doi.org/doi:10.1007/s10816-014-9226-7",
-
-        "group": 0},
-
-
+      "group": 0
+    },
+    {
+      "id": "Dell’Unto 2014",
+      "title": "The Use of 3D Models for Intra-Site Investigation in Archaeology",
+      "authors": "Dell’Unto, N.",
+      "year": "2014",
+      "editors": "S. Campana and F. Remondino",
+      "book section": "3D Recording and Modeling in Archaeology and Cultural Heritage",
+      "pages": "",
+      "publisher": "Oxford: Archaeopress",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Dell’Unto et al. 2015",
+      "title": "Experiencing Ancient Buildings from A 3D GIS Perspective: A Case Drawn from the Swedish Pompeii Project",
+      "authors": "Dell’Unto, N., G. Landeschi, A.-M. Leander Touati, M. Dellepiane, M. Callieri, and D. Ferdani",
+      "year": "2015",
+      "journal": "Journal of Archaeological Method and Theory",
+      "volume": "23",
+      "number": "",
+      "pages": "73–94",
+      "publisher": "Plenum Press",
+      "url": "https://doi.org/doi:10.1007/s10816-014-9226-7",
+      "group": 0
+    },
     {
       "id": "Dell’Unto et al. 2016",
       "title": "Experiencing ancient buildings from a 3D GIS perspective: A case drawn from the Swedish Pompeii project",
@@ -463,8 +455,8 @@
       "url": "https://doi.org/10.1016/j.jasrep.2017.03.011",
       "group": 0
     },
-
-    {"id": "Dellepiane et al. 2013",
+    {
+      "id": "Dellepiane et al. 2013",
       "title": "Archeological Excavation Monitoring Using Dense Stereo Matching Techniques",
       "authors": "Dellepiane, M., N. Dell’Unto, M. Callieri, S. Lindgren, and R. Scopigno.",
       "year": "2013",
@@ -474,22 +466,21 @@
       "pages": "201–210",
       "publisher": "",
       "url": "https://doi.org/10.1016/j.culher.2012.01.011",
-
-      "group": 0},
-
-      {"id": "Demetrescu 2015",
-        "title": "Archaeological Stratigraphy as a Formal Language for Virtual Reconstruction. Theory and Practice",
-        "authors": "Demetrescu, E.",
-        "year": "2015",
-        "journal": "Journal of Archaeological Science",
-        "volume": "57",
-        "number": "",
-        "pages": "42–55",
-        "publisher": "",
-        "url": "https://doi.org/10.1016/j.jas.2015.02.004",
-
-        "group": 0},
-
+      "group": 0
+    },
+    {
+      "id": "Demetrescu 2015",
+      "title": "Archaeological Stratigraphy as a Formal Language for Virtual Reconstruction. Theory and Practice",
+      "authors": "Demetrescu, E.",
+      "year": "2015",
+      "journal": "Journal of Archaeological Science",
+      "volume": "57",
+      "number": "",
+      "pages": "42–55",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jas.2015.02.004",
+      "group": 0
+    },
     {
       "id": "Dobias & Razmjooei 2020",
       "title": "Crowdfunding: Support for point cloud data in QGIS",
@@ -542,7 +533,8 @@
       "url": "https://doi.org/10.7183/2326-3768.3.2.136",
       "group": 0
     },
-    {"id": "Earl 2007",
+    {
+      "id": "Earl 2007",
       "title": "De/Construction Sites: Romans and the Digital Playground",
       "authors": "Earl, G. P.",
       "year": "2007",
@@ -552,8 +544,8 @@
       "pages": "",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "ESRI 2012",
       "title": "The multipatch geometry type – An ESRI white paper December 2008",
@@ -606,8 +598,8 @@
       "url": "https://www.datafairport.org/",
       "group": 0
     },
-
-    {"id": "Fassi et al. 2013",
+    {
+      "id": "Fassi et al. 2013",
       "title": "Comparison between Laser Scanning and Automated 3D Modelling Techniques to Reconstruct Complex and Extensive Cultural Heritage Areas",
       "authors": "Fassi, F., L. Fregonese, S. Ackermann, and V. De Troia",
       "year": "2013",
@@ -617,34 +609,34 @@
       "pages": "",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-      {"id": "Faust 1995",
-        "title": "The Virtual Reality of GIS.",
-        "authors": "Faust, N. L.",
-        "year": "1995",
-        "journal": "Environment and Planning B: Planning and Design",
-        "volume": "22",
-        "number": "3",
-        "pages": "257–268",
-        "publisher": "",
-        "url": "https://doi.org/10.1068/b220257",
-
-        "group": 0},
-
-        {"id": "Fisher-Gewirtzman et al. 2013",
-          "title": "Voxel Based Volumetric Visibility Analysis of Urban Environments",
-          "authors": "Fisher-Gewirtzman, D., A. Shashkov, and Y. Doytsher",
-          "year": "2013",
-          "journal": "Survey Review",
-          "volume": "45",
-          "number": "333",
-          "pages": "451–461",
-          "publisher": "",
-          "url": "https://doi.org/10.1179/1752270613Y.0000000059",
-
-          "group": 0},
+      "group": 0
+    },
+    {
+      "id": "Faust 1995",
+      "title": "The Virtual Reality of GIS.",
+      "authors": "Faust, N. L.",
+      "year": "1995",
+      "journal": "Environment and Planning B: Planning and Design",
+      "volume": "22",
+      "number": "3",
+      "pages": "257–268",
+      "publisher": "",
+      "url": "https://doi.org/10.1068/b220257",
+      "group": 0
+    },
+    {
+      "id": "Fisher-Gewirtzman et al. 2013",
+      "title": "Voxel Based Volumetric Visibility Analysis of Urban Environments",
+      "authors": "Fisher-Gewirtzman, D., A. Shashkov, and Y. Doytsher",
+      "year": "2013",
+      "journal": "Survey Review",
+      "volume": "45",
+      "number": "333",
+      "pages": "451–461",
+      "publisher": "",
+      "url": "https://doi.org/10.1179/1752270613Y.0000000059",
+      "group": 0
+    },
     {
       "id": "Flaxman 2010",
       "title": "Fundamentals of geodesign",
@@ -657,8 +649,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-
-    {"id": "Forte 2003",
+    {
+      "id": "Forte 2003",
       "title": "Mindscape: Ecological Thinking, Cyber-Anthropology and Virtual Archaeological Landscapes",
       "authors": "Forte, M.",
       "year": "2003",
@@ -668,8 +660,8 @@
       "pages": "95–108",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Forte 2014",
       "title": "3D archaeology: New perspectives and challenges – The example of Çatalhöyük",
@@ -696,7 +688,8 @@
       "url": "https://doi.org/10.1260/2047-4970.1.3.351",
       "group": 0
     },
-    {"id": "Forte & Siliotti 1997",
+    {
+      "id": "Forte & Siliotti 1997",
       "title": "Virtual Archaeology: Re-Creating Ancient Worlds",
       "authors": "Forte, M., and A. Siliotti",
       "year": "1997",
@@ -706,21 +699,21 @@
       "pages": "",
       "publisher": "New York, NY: HN Abrams",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-      {"id": "Freundschuh & Egenhofer 1997",
-        "title": "Human Conceptions of Spaces: Implications for GIS",
-        "authors": "Freundschuh, S. M., and M. J. Egenhofer",
-        "year": "1997",
-        "journal": "Transactions in GIS",
-        "volume": "2",
-        "number": "4",
-        "pages": "361–375",
-        "publisher": "",
-        "url": "https://doi.org/10.1111/tgis.1997.2.issue-4",
-
-        "group": 0},
+      "group": 0
+    },
+    {
+      "id": "Freundschuh & Egenhofer 1997",
+      "title": "Human Conceptions of Spaces: Implications for GIS",
+      "authors": "Freundschuh, S. M., and M. J. Egenhofer",
+      "year": "1997",
+      "journal": "Transactions in GIS",
+      "volume": "2",
+      "number": "4",
+      "pages": "361–375",
+      "publisher": "",
+      "url": "https://doi.org/10.1111/tgis.1997.2.issue-4",
+      "group": 0
+    },
     {
       "id": "Frieman & Gillings 2007",
       "title": "Seeing is perceiving?",
@@ -743,7 +736,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Gibson 1977",
+    {
+      "id": "Gibson 1977",
       "title": "Perceiving, Acting, and Knowing: Toward an Ecological Psychology",
       "authors": "Gibson, J. J.",
       "year": "1977",
@@ -752,8 +746,8 @@
       "pages": "67–82",
       "publisher": "New York, NY: Lawrence Erlbaum Associates",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Gillings 2012",
       "title": "Landscape phenomenology, GIS and the role of affordance",
@@ -1042,8 +1036,8 @@
       "url": "https://doi.org/10.1007/s12520-018-0724-5",
       "group": 0
     },
-
-    {"id": "Landeschi 2019b",
+    {
+      "id": "Landeschi 2019b",
       "title": "Rethinking GIS, three-dimensionality and space perception in archaeology",
       "authors": "Landeschi, G",
       "year": "2019",
@@ -1053,9 +1047,8 @@
       "pages": "17-32",
       "publisher": "",
       "url": "https://doi.org/10.1080/00438243.2018.1463171",
-
-      "group": 1},
-
+      "group": 1
+    },
     {
       "id": "Ledoux & Meijers 2011",
       "title": "Topologically consistent 3D city models obtained by extrusion",
@@ -2413,12 +2406,12 @@
       "source": "Scott et al. 2021",
       "target": "Roosevelt et al. 2018",
       "value": 1
-    }    ,
-        {
-          "source": "van Leusen & Nobles 2018",
-          "target": "Breunig et al. 1995",
-          "value": 1
-        },
+    },
+    {
+      "source": "van Leusen & Nobles 2018",
+      "target": "Breunig et al. 1995",
+      "value": 1
+    },
     {
       "source": "van Leusen & Nobles 2018",
       "target": "Campanaro et al. 2016",

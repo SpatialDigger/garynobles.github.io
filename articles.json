@@ -1568,6 +1568,21 @@
       "url": "https://doi.org/10.1515/opar-2020-0149",
       "group": 1
     },
+
+
+    {"id": "Ogburn 2006",
+      "title": "Assessing the Level of Visibility of Cultural Objects in past Landscapes",
+      "authors": "Ogburn, D. E.",
+      "year": "2006",
+      "journal": "Journal of Archaeological Science",
+      "volume": "33",
+      "number": "3",
+      "pages": "405–413",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jas.2005.08.005",
+
+      "group": 0},
+
     {
       "id": "Olson 2016",
       "title": "The things we can do with pictures: Image-based modeling and archaeology",
@@ -1618,6 +1633,32 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Opitz 2017",
+      "title": "An Experiment in Using Visual Attention Metrics to Think about Experience and Design Choices in past Places",
+      "authors": "Opitz, R.",
+      "year": "2017",
+      "journal": "Journal of Archaeological Method and Theory",
+      "volume": "24",
+      "number": "4",
+      "pages": "1203–1226",
+      "publisher": "10.1007/s10816-016-9310-2",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+      {"id": "Opitz & Nowlin 2012",
+        "title": "Photogrammetric Modeling+ GIS: Better Methods for Working with Mesh Data",
+        "authors": "Opitz, R., and J. Nowlin",
+        "year": "2012",
+        "journal": "ArcUser",
+        "volume": "",
+        "number": "",
+        "pages": "",
+        "publisher": "46–49",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
     {
       "id": "Orengo 2013",
       "title": "Combining terrestrial stereophotogrammetry, DGPS and GIS-based 3D voxel modelling in the volumetric recording of archaeological features",
@@ -1631,6 +1672,52 @@
       "url": "https://doi.org/10.1016/j.isprsjprs.2012.07.005",
       "group": 0
     },
+    {"id": "Paliou 2011",
+      "title": "The Communicative Potential of Theran Murals in Late Bronze Age Akrotiri: Applying Viewshed Analysis in 3D Townscapes",
+      "authors": "Paliou, E.",
+      "year": "2011",
+      "journal": "Oxford Journal of Archaeology",
+      "volume": "30",
+      "number": "3",
+      "pages": "247–272",
+      "publisher": "",
+      "url": "https://doi.org/10.1111/j.1468-0092.2011.00368.x",
+
+      "group": 0},
+      {"id": "Paliou 2013",
+        "title": "Reconsidering the Concept of Visualscapes: Recent Advances in Three-Dimensional Visibility Analysis",
+        "authors": "Paliou, E.",
+        "year": "2013",
+        "editors": "A. Bevan and M. Lake",
+        "book section": "Computational Approaches to Archaeological Spaces",
+        "pages": "243–264",
+        "publisher": "Walnut Creek: Left Coast Press",
+        "url": "https://doi.org/",
+
+        "group": 0},
+      {"id": "Paliou et al. 2011",
+        "title": "Three-Dimensional Visibility Analysis of Architectural Spaces: Iconography and Visibility of the Wall Paintings of Xeste 3 (Late Bronze Age Akrotiri)",
+        "authors": "Paliou, E., D. Wheatley, and G. P. Earl",
+        "year": "2011",
+        "journal": "Journal of Archaeological Science",
+        "volume": "38",
+        "number": "",
+        "pages": "375–386",
+        "publisher": "",
+        "url": "https://doi.org/10.1016/j.jas.2010.09.016",
+
+        "group": 0},
+        {"id": "Paliou & Knight 2013",
+          "title": "Mapping the Senses: Perceptual and Social Aspects of Late Antique Liturgy in San Vitale, Ravenna",
+          "authors": "Paliou, E., and D. J. Knight",
+          "year": "2013",
+          "editors": "",
+          "book section": "the Proceedings of CAA 2010, Computer Applications and Quantitative methods in Archaeology, International Conference, Granada 6-9 April, 2010",
+          "pages": "229–236",
+          "publisher": "",
+          "url": "https://doi.org/",
+
+          "group": 0},
     {
       "id": "Paliou & Wheatley 2007",
       "title": "Integrating spatial analysis and 3D modelling approaches to the study of visual space: Late Bronze Age Akrotiri",
@@ -1643,6 +1730,30 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Papadopoulos & Earl 2014",
+      "title": "Formal Three-Dimensional Computational Analyses of Archaeological Spaces",
+      "authors": "Papadopoulos, C., and G. Earl",
+      "year": "2014",
+      "editors": "E. Paliou, U. Lieberwirth, and S. Polla",
+      "book section": "Spatial Analysis and Social Spaces: Interdisciplinary Approaches to the Interpretation Prehistoric and Historic Built Environments",
+      "pages": "135–165",
+      "publisher": "Berlin: De Gruyter",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+      {"id": "Papadopoulos et al. 2015",
+        "title": "Light in a Neolithic Dwelling: Building 1 at Koutroulou Magoula (Greece)",
+        "authors": "Papadopoulos, C., Y. Hamilakis, and N. Kyparissi-Apostolika",
+        "year": "2015",
+        "journal": "Antiquity",
+        "volume": "89",
+        "number": "347",
+        "pages": "1034–1050",
+        "publisher": "",
+        "url": "https://doi.org/10.15184/aqy.2015.53",
+
+        "group": 0},
     {
       "id": "Penninga 2008",
       "title": "3D Topography: A Simplicial Complex-Based Solution in a Spatial DBMS [PhD thesis]",
@@ -1753,6 +1864,30 @@
       "url": "https://doi.org/10.3390/ijgi8050213",
       "group": 0
     },
+    {"id": "Rahman et al. 2001",
+      "title": "The 3D GIS Software Development: Global Efforts from Researchers and Vendors",
+      "authors": "Rahman, A. A., M. Pilouk, and S. Zlatanova",
+      "year": "2001",
+      "journal": "Geoinformation Science Journal",
+      "volume": "1",
+      "number": "13",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+      {"id": "Reilly 1990",
+        "title": "Towards a Virtual Archaeology",
+        "authors": "Reilly, P.",
+        "year": "1990",
+        "editors": "K. Lockyear and S. Rahtz",
+        "book section": "Computer Applications in Archaeology",
+        "pages": "133–139",
+        "publisher": "Oxford: British Archaeological Reports",
+        "url": "https://doi.org/",
+
+        "group": 0},
     {
       "id": "Remondino & Campana 2014",
       "title": "3D recording and modelling in archaeology and cultural heritage",
@@ -1775,6 +1910,20 @@
       "url": "https://doi.org/10.1109/VSMM.2012.6365942",
       "group": 0
     },
+    {"id": "Richards-Rissetto 2017",
+      "title": "What Can GIS+ 3D Mean for Landscape Archaeology?",
+      "authors": "Richards-Rissetto, H.",
+      "year": "2017",
+      "journal": "Journal of Archaeological Science",
+      "volume": "84",
+      "number": "",
+      "pages": "10–21",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jas.2017.05.005",
+
+      "group": 0},
+
+
     {
       "id": "Rolland 2014",
       "title": "",
@@ -3105,6 +3254,61 @@
     {
       "source": "Landeschi 2019b",
       "target": "Merlo 2004",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Ogburn 2006",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Opitz 2017",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Opitz & Nowlin 2012",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Paliou 2011",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Paliou 2013",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Paliou et al. 2011",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Paliou & Knight 2013",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Papadopoulos et al. 2015",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Rahman et al. 2001",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Reilly 1990",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Richards-Rissetto 2017",
       "value": 1
     }
   ]

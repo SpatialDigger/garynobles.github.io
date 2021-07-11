@@ -813,6 +813,19 @@
       "url": "https://doi.org/10.1007/s10708-010-9340-3",
       "group": 0
     },
+
+    {"id": "Gowlett 1997",
+      "title": "High Definition Archaeology: Ideas and Evaluation",
+      "authors": "Gowlett, J. A. J.",
+      "year": "1997",
+      "journal": "World Archaeology",
+      "volume": "29",
+      "number": "2",
+      "pages": "152–171",
+      "publisher": "",
+      "url": "https://doi.org/10.1080/00438243.1997.9980371",
+
+      "group": 0},
     {
       "id": "GRASS Development Team 2008–2012",
       "title": "3D Raster data(voxel) in GRASS GIS. [version 6.4]",
@@ -839,6 +852,45 @@
       "url": "https://grass.osgeo.org/screenshots/3D/",
       "group": 0
     },
+
+    {"id": "Green 1990",
+      "title": "Approaching Archaeological Space: An Introduction to the Volume.” In Interpreting Space: GIS and Archaeology",
+      "authors": "Green, S. W.",
+      "year": "1990",
+      "editors": "K. M. S. Allen, S. W. Green, and E. B. W. Zubrow",
+      "book section": "",
+      "pages": "3–8",
+      "publisher": "Abingdon: Taylor & Francis",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+
+      {"id": "Hacιgüzeller 2012",
+        "title": "GIS, Critique, Representation and Beyond",
+        "authors": "Hacιgüzeller, P.",
+        "year": "2012",
+        "journal": "Journal of Social Archaeology",
+        "volume": "12",
+        "number": "2",
+        "pages": "245–263",
+        "publisher": "",
+        "url": "https://doi.org/10.1177/1469605312439139",
+
+        "group": 0},
+        {"id": "Harding et al. 2002",
+          "title": "A Multi-Sensory System for the Investigation of Geoscientific Data",
+          "authors": "Harding, C., I. A. Kakadiaris, J. F. Casey, and R. Bowen Loftin",
+          "year": "2002",
+          "journal": "Computers & Graphics",
+          "volume": "26",
+          "number": "2",
+          "pages": "259–269",
+          "publisher": "",
+          "url": "https://doi.org/10.1016/S0097-8493(02)00057-2",
+
+          "group": 0},
+
     {
       "id": "Harris 1979",
       "title": "Principles of Archaeological Stratigraphy",
@@ -848,6 +900,19 @@
       "url": "https://doi.org/",
       "group": 0
     },
+
+    {"id": "Harris & Lock 1995",
+      "title": "Toward an Evaluation of GIS in European Archaeology: The Past, Present and Future of Theory and Applications",
+      "authors": "Harris, T. M., and G. Lock",
+      "year": "1995",
+      "editors": "G. R. Lock and G. Stancic",
+      "book section": "Archaeology and Geographical Information Systems: A European Perspective",
+      "pages": "349–365",
+      "publisher": "London: Taylor and Francis",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
     {
       "id": "HERE Europe 2018",
       "title": "The point processing toolkit (pptk)",
@@ -2754,6 +2819,31 @@
     {
       "source": "Landeschi 2019b",
       "target": "Gillings & Goodrick 1996",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Gowlett 1997",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Green 1990",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Hacιgüzeller 2012",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Harding et al. 2002",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Harris & Lock 1995",
       "value": 1
     }
   ]

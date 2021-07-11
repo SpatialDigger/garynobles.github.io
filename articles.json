@@ -1,5 +1,18 @@
 {
   "nodes": [
+
+    {"id": "Adams 1992",
+      "title": "Stratigraphy after Harris: some questions",
+      "authors": "Adams, M.",
+      "year": "1992",
+      "editors": "Steane, K.",
+      "book section": "Interpretation of Stratigraphy: a Review of the Art. Proceedings of the 1st Stratigraphy Conference",
+      "pages": "13-16",
+      "publisher": "Lincoln. City of Lincoln Archaeology Unit, Lincoln",
+      "url": "https://doi.org/",
+      "group": 0},
+
+
     {
       "id": "Aguilera & Lahoz 2006",
       "title": "Laser Scanning or Image-Based Modeling? A Comparative through the Modelization of San Nicolas Church.",
@@ -1026,7 +1039,7 @@
       "pages": "655–667",
       "publisher": "",
       "url": "https://doi.org/10.1016/j.jas.2007.06.002",
-      "group": 0
+      "group": 1
     },
     {
       "id": "Kazhdan 2005",
@@ -3441,6 +3454,11 @@
     {
       "source": "Landeschi 2019b",
       "target": "Withagen et al. 2012",
+      "value": 1
+    },
+    {
+      "source": "Katsianis 2008",
+      "target": "Adams 1992",
       "value": 1
     }
   ]

@@ -542,6 +542,18 @@
       "url": "https://doi.org/10.7183/2326-3768.3.2.136",
       "group": 0
     },
+    {"id": "Earl 2007",
+      "title": "De/Construction Sites: Romans and the Digital Playground",
+      "authors": "Earl, G. P.",
+      "year": "2007",
+      "journal": "EVA Conferences International",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "ESRI 2012",
       "title": "The multipatch geometry type – An ESRI white paper December 2008",
@@ -2506,6 +2518,11 @@
     },
     {
       "source": "Landeschi 2019b",
+      "target": "Cardaci & Versaci 2013",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
       "target": "Conolly & Lake 2006",
       "value": 1
     },
@@ -2537,6 +2554,21 @@
     {
       "source": "Landeschi 2019b",
       "target": "Demetrescu 2015",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Earl 2007",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "ESRI 2012",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Eve 2012",
       "value": 1
     }
   ]

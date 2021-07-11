@@ -219,6 +219,35 @@
       "url": "https://doi.org/",
       "group": 0
     },
+
+
+
+    {"id": "Cardaci & Versaci 2013",
+      "title": "Image-Based 3d Modeling Vs Laser Scanning for the Analysis of Medieval Architecture: The Case of St. Croce Church in Bergamo.",
+      "authors": "Cardaci, A., and A. Versaci.",
+      "year": "2013",
+      "journal": "International Archives Of The Photogrammetry, Remote Sensing And Spatial Information Sciences",
+      "volume": "40",
+      "number": "",
+      "pages": "155–160",
+      "publisher": "",
+      "url": "https://doi.org/10.5194/isprsarchives-XL-5-W2-155-2013",
+
+      "group": 0},
+
+      {"id": "Conolly & Lake 2006",
+        "title": "Geographical Information Systems in Archaeology",
+        "authors": "Conolly, J., and M. Lake.",
+        "year": "2006",
+        "journal": "",
+        "volume": "",
+        "number": "",
+        "pages": "",
+        "publisher": "New York, NY: Cambridge University Press.",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
     {
       "id": "Contributors, P. D. A. L. 2018",
       "title": "PDAL point data abstraction library",
@@ -2386,6 +2415,16 @@
     {
       "source": "Landeschi 2019b",
       "target": "Campana 2014",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Campanaro et al. 2016",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Conolly & Lake 2006",
       "value": 1
     }
   ]

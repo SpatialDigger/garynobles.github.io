@@ -1,133 +1,64 @@
-Adams, M., 1992. Stratigraphy after Harris: some questions. In: Steane, K. (Ed.), Interpretation of Stratigraphy: a Review of the Art. Proceedings of the 1st Stratigraphy Conference, Lincoln. City of Lincoln Archaeology Unit, Lincoln, pp. 13e16.
 
-Apel, M., 2004. A 3d geoscience information system framework. Freiberg University, Doctoral thesis. <http://www.gocad.org/www/people/files/thesis_marcus_apel.pdf>.
 
-Arroyo-Bishop, D., Lantada Zarzosa, M.T., 1995. To be or not to be: will an object-space-time GIS/AIS become a scientific reality or end up an archaeological entity? In: Lock, G.R., Stancic, Z. (Eds.), Archaeology and Geographic Information Systems: A European Perspective. Taylor & Francis, London, pp. 43e53.
 
-Bailey, G.N., 1983. Concepts of time in quaternary prehistory. Annual Review
-of Anthropology 12, 165e192.
 
-Barcelo´, J.A., De Castro, O., Traver, D., Vicente, O., 2003. A 3D model of an archaeological excavation. In: Doerr, M., Sarris, A. (Eds.), The Digital Heritage of Archaeology. Computer Applications and Quantitative Methods in Archaeology, Proceedings of the 30th Conference, Heraklion, Crete, April 2002. Hellenic Ministry of Culture, Greece, pp. 85e87.
+Hadzilakos, T., Stoumbou, P.M., 1996. Conceptual data modelling for prehistoric excavation documentation. In: Kamermans, H., Fennema, K. (Eds.), Interfacing the Past: Computer Applications and Quantitative Methods in Archaeology 1995. University of Leiden, Leiden, pp. 21e30.
 
-Barcelo´, J.A., Vicente, O., 2004. Some problems in archaeological excavation 3D modelling. In: Ausserer, K.F., Borner, W., Goriany, M., KarlhuberVockl, L. (Eds.), Enter the Past: The E-way into the Four Dimensions of Cultural Heritage. CAA2003, BAR International Series 1227. Archaeopress, Oxford, pp. 400-404.
+Herzog, I., 2004. Group and conquer: a method for displaying large stratigraphic data sets. In: Ausserer, K.F., Borner, W., Goriany, M., KarlhuberVockl, L. (Eds.), Enter the Past: The E-way into the Four Dimensions of Cultural Heritage. CAA 2003. BAR International Series 1227. Archeopress, pp. 423e426.
 
-Bezzi, A., Bezzi, L., Francisci, D., Gietl, R., 2006. L’utilizzo di voxel in
-campo archeologico, Geomatic workbooks 6. <http://www.arc-team.com/
-Upload/Geom_Workbooks6_voxel_archeologia_it.pdf>.
-Castleford, J., 1992. Archaeology, GIS and the time dimension: an overview.
-In: Lock, G., Moffett, J. (Eds.), Computer Applications and Quantitative
-Methods in Archaeology 1991. BAR International Series S577. Tempus
-Reparatum, Oxford, pp. 95e106.
-Cattani, M., Fiorini, A., Rondelli, B., 2004. Computer applications for a reconstruction of archaeological stratigraphy as a predictive model in urban and
-territorial contexts. In: Ausserer, K.F., Borner, W., Goriany, M., KarlhuberVockl, L. (Eds.), Enter the Past: The E-way into the Four Dimensions of
-Cultural Heritage. CAA2003, BAR International Series 1227. Archaeopress, Oxford, pp. 299e303.
-Chadwick, A., 1998. Archaeology at the Edge of Chaos: Further Towards
-Reflexive Excavation Methodologies, Assemblage 3. <http://www.shef.ac.
-uk/wassem/3/3chad.htm>.
-Clark, P., 2000. Post-excavation analysis: moving from the context to the
-phase. In: Roskams, S. (Ed.), Interpreting Stratigraphy. Site Evaluation Recording Procedures and Stratigraphic Analysis. BAR International Series
-910, Oxford, pp. 157e159.
-Clarke, A., Fulford, M., Rains, M., 2003. Nothing to hide e online database
-publication and the Silchester Town Life Project. CAA 2002. In:
-Doerr, M., Sarris, A. (Eds.), The Digital Heritage of Archaeology. Computer Applications and Quantitative Methods in Archaeology, Proceedings
-of the 30th Conference, Heraklion, Crete, April 2002. Hellenic Ministry of
-Culture, Greece, pp. 401e404.
-Conolly, J., Lake, M., 2006. Geographical Information Systems in Archaeology.
-Cambridge Manuals in Archaeology. Cambridge University Press, Cambridge.
-Constantinidis, D., in press. Time to look for a temporal GIS, in: The World
-is in Your Eyes: Computer Applications and Quantitative Methods in
-Archaeology 2005, Tomar, 21e24 March 2005.
-Cripps, P., Greenhalgh, A., Fellows, D., May, K., Robinson, D., 2004. Ontological Modelling of the work of the Centre for Archaeology. <http://
-cidoc.ics.forth.gr/docs/Ontological_Modelling_Project_Report_%20Sep
-2004.pdf>.
-Crofts, N., Doerr, M., Gill, T., Stead, S., Stiff, M., 2005. Definition of the CIDOC Conceptual Reference Model, Version 4.2, ICOM/CIDOC CRM
-Special Interest Group. <http://cidoc.ics.forth.gr/docs/cidoc_crm_version_
-4.2.pdf>.
-D’Andrea, A., 2003. Analisi spaziali intra-site. Soluzioni GIS per lo scavo
-archeologico. Archeologia e Calcolatori 14, 329e335.
-Day, W., Cosmas, J., Ryan, N., Vereenooghe, T., 2004. Integrated 3D and Harris matrix data entry, query and visualisation tools, in: 5th International
-Symposium on Virtual Reality, Archaeology and Intelligent Cultural Heritage - VAST2004, December 2004, Brussels.
-Dennis, A., Haley Wixom, B., Tegarden, D., 2001. Systems Analysis and
-Design: an Object-Oriented Approach with UML. John Wiley & Sons,
-Inc, New York.
-666 M. Katsianis et al. / Journal of Archaeological Science 35 (2008) 655e667
-Doerr, M., 2003. The CIDOC CRM e An ontological approach to semantic
-interoperability of metadata. AI Magazine 24 (3). <http://www.ics.forth.
-gr/isl/publications/paperlink/Doerr_V2.pdf>.
-Dykes, J., MacEachren, A.M., Kraak, M.-J. (Eds.), 2005. Exploring Geovisualization. Elsevier, Amsterdam.
-ESRI, 1998. ESRI Shapefile Technical Description. White Paper. Environmental Systems Research Institute, Inc., Redlands, CA. <http://www.esri.com/
-library/whitepapers/pdfs/shapefile.pdf>, pp. 1e34.
-Gosden, C., 1994. Social Being and Time. Blackwell, Cambridge.
-Hadzilakos, T., Stoumbou, P.M., 1996. Conceptual data modelling for prehistoric excavation documentation. In: Kamermans, H., Fennema, K. (Eds.),
-Interfacing the Past: Computer Applications and Quantitative Methods in
-Archaeology 1995. University of Leiden, Leiden, pp. 21e30.
-Herzog, I., 2004. Group and conquer: a method for displaying large stratigraphic data sets. In: Ausserer, K.F., Borner, W., Goriany, M., KarlhuberVockl, L. (Eds.), Enter the Past: The E-way into the Four Dimensions of
-Cultural Heritage. CAA 2003. BAR International Series 1227. Archeopress, pp. 423e426.
-Hodder, I., 1999. The Archaeological Process: An Introduction. Blackwell,
-Oxford.
-Jarroush, J., Even-Tzur, G., 2004. Constructive Solid Geometry as the Basis of
-3D Future Cadastre, FIG Working Week 2004. Greece, Athens. <http://
-www.fig.net/pub/athens/papers/ts25/TS25_3_Jarroush_EvenTzur.pdf>.
-May 2004.
-Jones, A., 2002. Archaeological Theory and Scientific Practice. Cambridge
-University Press, Cambridge.
-Katsianis, M., Tsipidis, S., Kotsakis, K., Koussoulakou, A., Manolopoulos, Y.,
-2006. Integrating excavation recording, data management and object representation through GIS. In: International Congress ‘‘Cultural Heritage
-and New Technologies’’ Workshop 10 e Archa¨ologie Und Computer,
-7e10/11/2005, Vienna.
+Hodder, I., 1999. The Archaeological Process: An Introduction. Blackwell, Oxford.
+
+Jarroush, J., Even-Tzur, G., 2004. Constructive Solid Geometry as the Basis of 3D Future Cadastre, FIG Working Week 2004. Greece, Athens. <http://www.fig.net/pub/athens/papers/ts25/TS25_3_Jarroush_EvenTzur.pdf>.
+
+Jones, A., 2002. Archaeological Theory and Scientific Practice. Cambridge University Press, Cambridge.
+
+Katsianis, M., Tsipidis, S., Kotsakis, K., Koussoulakou, A., Manolopoulos, Y., 2006. Integrating excavation recording, data management and object representation through GIS. In: International Congress ‘‘Cultural Heritage and New Technologies’’ Workshop 10 e Archa¨ologie Und Computer,7e10/11/2005, Vienna.
+
 Kotsakis, K., 1989. RUNSECT: a computer program for the analysis of excavation data. Journal of Field Archaeology 16, 369e375.
-Kotsakis, K., Katsianis, M., Tsipidis, S., in press. Digital Recording of Archaeological Data Using GIS in Paliambela, Kolindros. Archaeological Work in
-Macedonia and Thrace Annual Conference 19, Thessaloniki, Greece 2006
-(in Greek).
-Koussoulakou, A., Stylianidis, E., 1999. The use of GIS for the visual exploration of archaeological spatiotemporal data. Cartography and GIS 26 (2),
-152e160.
-Kvamme, K.L., 1999. Recent directions and developments in geographical
-information systems. Journal of Archaeological Research 7 (2), 164e
-167.
-Lock, G., 1995. Archaeological computing, archaeological theory and moves
-towards contextualism. In: Huggett, J., Ryan, N. (Eds.), Computer Applications and Quantitative Methods in Archaeology. BAR International
-Series 600. Tempus Reparatum, Oxford, pp. 13e18.
-Lock, G., 2003. Using Computers in Archaeology: Towards Virtual Pasts.
-Routledge, London and New York.
-Losier, L.-M., Pouliot, J., Fortin, M., 2007. 3D geometrical modeling of excavation units at the archaeological site of Tell ‘Acharneh (Syria). Journal of
-Archaeological Science 34, 272e288.
+
+Kotsakis, K., Katsianis, M., Tsipidis, S., in press. Digital Recording of Archaeological Data Using GIS in Paliambela, Kolindros. Archaeological Work in Macedonia and Thrace Annual Conference 19, Thessaloniki, Greece 2006(in Greek).
+
+Koussoulakou, A., Stylianidis, E., 1999. The use of GIS for the visual exploration of archaeological spatiotemporal data. Cartography and GIS 26 (2), 152e160.
+
+Kvamme, K.L., 1999. Recent directions and developments in geographical information systems. Journal of Archaeological Research 7 (2), 164-167.
+
+Lock, G., 1995. Archaeological computing, archaeological theory and moves towards contextualism. In: Huggett, J., Ryan, N. (Eds.), Computer Applications and Quantitative Methods in Archaeology. BAR International Series 600. Tempus Reparatum, Oxford, pp. 13e18.
+
+Lock, G., 2003. Using Computers in Archaeology: Towards Virtual Pasts. Routledge, London and New York.
+
+Losier, L.-M., Pouliot, J., Fortin, M., 2007. 3D geometrical modeling of excavation units at the archaeological site of Tell ‘Acharneh (Syria). Journal of Archaeological Science 34, 272e288.
+
 Lucas, G., 2005. The Archaeology of Time. Routledge, Abingdon.
-Madsen, T., 2003. ArchaeoInfo: An Object Oriented Information System for
-Archaeological Excavations, Paper presented at the CAA 2003: Enter
-the Past: The E-way into the Four Dimensions of Cultural Heritage. Austria, April 2003, Vienna.
-Nigro, J.D., Ungar, P.S., De Ruiter, D.J., Berger, L.R., 2003. Developing a Geographic Information System (GIS) for mapping and analysing fossil
-deposits at Swartkrans, Gauteng Province, South Africa. Journal of
-Archaeological Science 30, 317e324.
-Olivier, L., 2004. The past of the present. Archaeological memory and time.
-Archaeological Dialogues 10 (2), 204e213.
-Patias, P., Stylianidis, E., Tsioukas, V., Gemenetzis, D., 2005. Rapid Photogrammetric Survey and GIS Documentation of Pre-historic Excavation
-Sites. CIPA-WG 5.
-Perez, C.A.G., 2002. Sistemas De Informacio´n para Arqueologı´a: Teorı´a, Metodoloxı´a y Technoloxı´as. BAR International Series 1015. Archaeopress,
-Oxford.
-Powlesland, D., Clemence, H., Lyall, J., 1998. West Heslerton: WEB-CD. The
-application of HTML and WEB tools for creating a distributed excavation
-archive in the form of a WEB-CD. Internet Archaeology 5 (Autumn/Winter).
+
+Madsen, T., 2003. ArchaeoInfo: An Object Oriented Information System for Archaeological Excavations, Paper presented at the CAA 2003: Enter the Past: The E-way into the Four Dimensions of Cultural Heritage. Austria, April 2003, Vienna.
+
+Nigro, J.D., Ungar, P.S., De Ruiter, D.J., Berger, L.R., 2003. Developing a Geographic Information System (GIS) for mapping and analysing fossil deposits at Swartkrans, Gauteng Province, South Africa. Journal of Archaeological Science 30, 317e324.
+
+Olivier, L., 2004. The past of the present. Archaeological memory and time. Archaeological Dialogues 10 (2), 204e213.
+
+Patias, P., Stylianidis, E., Tsioukas, V., Gemenetzis, D., 2005. Rapid Photogrammetric Survey and GIS Documentation of Pre-historic Excavation Sites. CIPA-WG 5.
+
+Perez, C.A.G., 2002. Sistemas De Informacio´n para Arqueologı´a: Teorı´a, Metodoloxı´a y Technoloxı´as. BAR International Series 1015. Archaeopress, Oxford.
+
+Powlesland, D., Clemence, H., Lyall, J., 1998. West Heslerton: WEB-CD. The application of HTML and WEB tools for creating a distributed excavation archive in the form of a WEB-CD. Internet Archaeology 5 (Autumn/Winter).
+
 Roskams, S.P., 2001. Excavation (Cambridge Manuals in Archaeology). Cambridge University Press, Cambridge.
-Sellis, T., Koubarakis, M., Frank, A., Grumbach, S., Gueting, R.H., Jensen, C.,
-Lorentzos, N., Manolopoulos, Y., Nardelli, E., Pernici, B., Schek, H.J.,
-Scholl, M., Theodoulidis, B., Tryfona, N. (Eds.), 2003. Spatiotemporal Databases: the Chorochronos Approach. Lecture Notes in Computer Science,
-Vol. 2520. Springer Verlag.
+
+Sellis, T., Koubarakis, M., Frank, A., Grumbach, S., Gueting, R.H., Jensen, C., Lorentzos, N., Manolopoulos, Y., Nardelli, E., Pernici, B., Schek, H.J., Scholl, M., Theodoulidis, B., Tryfona, N. (Eds.), 2003. Spatiotemporal Databases: the Chorochronos Approach. Lecture Notes in Computer Science, Vol. 2520. Springer Verlag.
+
 Shanks, M., Tilley, C., 1987. Social Theory and Archaeology. Polity Press,
 Cambridge.
+
 Stoter, J.E., Zlatanova, S., 2003a. 3D GIS, where are we standing? in: Proceedings of the ISPRS WG II/6, IV/1 and IV/2 Joint Workshop on ’Spatial, Temporal and Multi-dimensional Data Modelling and Analysis’. ISPRS, London.
+
 Stoter, J.E., Zlatanova, S., 2003b. Visualising and editing of 3D objects organised in a DBMS. In: Proceedings of the EuroSDR Commission 5 Workshop on Visualisation and Rendering. EuroSDR, Cambridge.
-Tiede, D., Blaschke, T., 2005. A two-way workflow for integrating CAD, 3D
-visualization and spatial analysis in a GIS environment. In: Buhmann, E.,
-Paar, P., Bishop, I., Lange, E. (Eds.), Trends in Real-Time Landscape Visualization and Participation. Proceedings at Anhalt University of Applied
-Sciences 2005. Wichmann Verlag, Heidelberg, pp. 77e87. <http://
-www.masterla.de/conf/pdf/conf2005/23tiede_c.pdf>.
-Tsipidis, S., Koussoulakou, A., Kotsakis, K., 2005. 3D GIS Visualization of
-Archaeological Excavation Data, Poster presentation at the International
-Cartographic Conference (ICC 2005) 9e16/7/2005, La Coru~na. <http://
-www.cartesia.org/geodoc/icc2005/pdf/poster/TEMA26/SPYROS%20TSIP
-IDIS.pdf>.
+
+Tiede, D., Blaschke, T., 2005. A two-way workflow for integrating CAD, 3D visualization and spatial analysis in a GIS environment. In: Buhmann, E., Paar, P., Bishop, I., Lange, E. (Eds.), Trends in Real-Time Landscape Visualization and Participation. Proceedings at Anhalt University of Applied Sciences 2005. Wichmann Verlag, Heidelberg, pp. 77e87. <http://www.masterla.de/conf/pdf/conf2005/23tiede_c.pdf>.
+
+Tsipidis, S., Koussoulakou, A., Kotsakis, K., 2005. 3D GIS Visualization of Archaeological Excavation Data, Poster presentation at the International Cartographic Conference (ICC 2005) 9e16/7/2005, La Coru~na. <http://www.cartesia.org/geodoc/icc2005/pdf/poster/TEMA26/SPYROS%20TSIPIDIS.pdf>.
+
 Wheatley, D., Gillings, M., 2002. Spatial Technology and Archaeology. The Archaeological Applications of GIS. Taylor & Francis, London and New York.
+
 Zlatanova, S., Rahman, A.A., Pilouk, M., 2002. Trends in 3D GIS development. Journal of Geospatial Engineering 4 (2), 1e10.
-Zhukovsky, M., 2002. Handling digital 3-D record of archaeological excavation data. In: Burenhult, G. (Ed.), Archaeological Informatics: Pushing
-the Envelope. CAA2001, BAR International Series 1016. Archaeopress,
-Oxford, pp. 431e438.
+
+Zhukovsky, M., 2002. Handling digital 3-D record of archaeological excavation data. In: Burenhult, G. (Ed.), Archaeological Informatics: Pushing the Envelope. CAA2001, BAR International Series 1016. Archaeopress, Oxford, pp. 431e438.

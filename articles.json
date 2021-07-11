@@ -1081,6 +1081,18 @@
       "url": "https://doi.org/153–201. doi:10.1007/BF02446276",
       "group": 0
     },
+    {"id": "Lake et al. 1998",
+      "title": "Tailoring GIS Software for Archaeological Applications: An Example Concerning Viewshed Analysis",
+      "authors": "Lake, M. W., P. E. Woodman, and S. J. Mithen",
+      "year": "1998",
+      "journal": "Journal of Archaeological Science",
+      "volume": "25",
+      "number": "1",
+      "pages": "27–38",
+      "publisher": "",
+      "url": "https://doi.org/10.1006/jasc.1997.0197",
+
+      "group": 0},
     {
       "id": "Latour & Woolgar 1979",
       "title": "Laboratory life. The social construction of scientific facts",
@@ -1179,6 +1191,17 @@
       "url": "https://doi.org/10.1080/00438243.2018.1463171",
       "group": 1
     },
+    {"id": "Landeschi et al. forthcoming",
+      "title": "An Exploratory Use of 3D for Investigating a Prehistoric Stratigraphic Sequence",
+      "authors": "Landeschi, G., J. Apel, S. Lindgren, and N. Dell’Unto",
+      "year": "",
+      "editors": "",
+      "book section": "Proceedings of the 44th Computer Applications and Quantitative Methods in Archaeology Conference, CAA 2016 Oslo, 29 March—2 April 2016",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Ledoux & Meijers 2011",
       "title": "Topologically consistent 3D city models obtained by extrusion",
@@ -1206,7 +1229,7 @@
       "group": 0
     },
     {
-      "id": "Lieberwirth 2008",
+      "id": "Lieberwirth 2008a",
       "title": "3D GIS voxel-based model building in archaeology",
       "authors": "Lieberwirth, U.",
       "year": "2008",
@@ -1217,6 +1240,29 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Lieberwirth 2008b",
+      "title": "Voxel-Based 3D GIS: Modelling and Analysis of Archaeological Stratigraphy",
+      "authors": "Lieberwirth, U.",
+      "year": "2008",
+      "editors": "B. Frischer and A. Dakouri-Hild",
+      "book section": "Beyond Illustration: 2D and 3D Digital Technologies as Tools for Discovery in Archaeology",
+      "pages": "85–94",
+      "publisher": "Oxford: Archaeopress",
+      "url": "https://doi.org/",
+
+      "group": 0},
+      {"id": "Llobera 1996",
+        "title": "Exploring the Topography of Mind: GIS, Social Space and Archaeology",
+        "authors": "Llobera, M.",
+        "year": "1996",
+        "journal": "Antiquity",
+        "volume": "70",
+        "number": "269",
+        "pages": "612–622",
+        "publisher": "",
+        "url": "https://doi.org/10.1017/S0003598X00083745",
+
+        "group": 0},
     {
       "id": "Llobera et al. 2007",
       "title": "Calculating the inherent visual structure of a landscape (‘total viewshed’) using high-throughput computing",
@@ -1226,6 +1272,45 @@
       "book section": "Beyond the Artifact. Digital Interpretation of the Past. Proceedings of CAA2004 Prato13–17 April 2004. Budapest",
       "pages": "146–151",
       "publisher": "Archaeolingua",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {"id": "Llobera 2012",
+      "title": "Life on a Pixel: Challenges in the Development of Digital Methods within an “Interpretive” Landscape Archaeology Framework",
+      "authors": "Llobera, M.",
+      "year": "2012",
+      "journal": "Journal of Archaeological Method and Theory",
+      "volume": "19",
+      "number": "4",
+      "pages": "495–509",
+      "publisher": "",
+      "url": "https://doi.org/10.1007/s10816-012-9139-2",
+
+      "group": 0},
+
+      {"id": "Lock 2001",
+        "title": "Theorising the Practice or Practicing the Theory: Archaeology and GIS",
+        "authors": "Lock, G.",
+        "year": "2001",
+        "journal": "Archaeologia Polona",
+        "volume": "39",
+        "number": "",
+        "pages": "153–164",
+        "publisher": "",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
+    {
+      "id": "Lock 2009",
+      "title": "Archaeological computing then and now: Theory and practice, intentions and tensions",
+      "authors": "Lock, G.",
+      "year": "2009",
+      "journal": "Archeologia e Calcolatori",
+      "volume": "20",
+      "number": "",
+      "pages": "75–84",
+      "publisher": "",
       "url": "https://doi.org/",
       "group": 0
     },
@@ -1240,19 +1325,6 @@
       "pages": "129–135",
       "publisher": "",
       "url": "https://doi.org/10.1016/j.jas.2017.06.002",
-      "group": 0
-    },
-    {
-      "id": "Lock 2009",
-      "title": "Archaeological computing then and now: Theory and practice, intentions and tensions",
-      "authors": "Lock, G.",
-      "year": "2009",
-      "journal": "Archeologia e Calcolatori",
-      "volume": "20",
-      "number": "",
-      "pages": "75–84",
-      "publisher": "",
-      "url": "https://doi.org/",
       "group": 0
     },
     {
@@ -2234,7 +2306,7 @@
     },
     {
       "source": "Nobles & Roosevelt 2021",
-      "target": "Lieberwirth 2008",
+      "target": "Lieberwirth 2008a",
       "value": 1
     },
     {
@@ -2604,7 +2676,7 @@
     },
     {
       "source": "van Leusen & Nobles 2018",
-      "target": "Lieberwirth 2008",
+      "target": "Lieberwirth 2008a",
       "value": 1
     },
     {
@@ -2885,6 +2957,56 @@
     {
       "source": "Landeschi 2019b",
       "target": "Kvamme 1999",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Lake et al. 1998",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Landeschi et al. 2016b",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Landeschi et al. forthcoming",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Landeschi 2019a",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Landeschi et al. 2015",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Landeschi et al. 2016a",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Lieberwirth 2008b",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Llobera 1996",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Llobera 2012",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Lock 2001",
       "value": 1
     }
   ]

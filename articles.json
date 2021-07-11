@@ -1303,6 +1303,14 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Lock 2003",
+      "title": "Using Computers in Archaeology: Towards Virtual Pasts",
+      "authors": "Lock, G.",
+      "year": "2003",
+      "publisher": "London: Routledge",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Lock 2009",
       "title": "Archaeological computing then and now: Theory and practice, intentions and tensions",
@@ -1316,6 +1324,28 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Lock et al. 2014",
+      "title": "Visibility and Movement: Towards a GIS-based Integrated Approach",
+      "authors": "S. Polla and P. Verhagen",
+      "year": "2014",
+      "editors": "Lock, G., M. Kormann, and J. Pouncett",
+      "book section": "Computational Approaches to the Study of Movement in Archaeology: Theory, Practice and Interpretation of Factors and Effects of Long Term Landscape Formation and Transformation",
+      "pages": "23–42",
+      "publisher": "Boston, MA: De Gruyter",
+      "url": "https://doi.org/",
+
+      "group": 0},
+      {"id": "Lock & Harris 1997",
+        "title": "Analysing Change through Time within a Cultural Landscape: Conceptual and Functional Limitations of a GIS Approach",
+        "authors": "Lock, G., and T. Harris",
+        "year": "1997",
+        "editors": "",
+        "book section": "Urban Origins in Eastern Africa. World Archaeological Congress, One World series",
+        "pages": "",
+        "publisher": "London: Routledge",
+        "url": "https://doi.org/",
+
+        "group": 0},
     {
       "id": "Lock & Pouncett 2017",
       "title": "Spatial thinking in archaeology: Is GIS the answer?",
@@ -1329,8 +1359,28 @@
       "url": "https://doi.org/10.1016/j.jas.2017.06.002",
       "group": 0
     },
+    {"id": "Lock & Stancic 1995",
+      "title": "Archaeology and Geographic Information Systems: A European Perspective",
+      "authors": "Lock, G. R., and G. Stancic",
+      "year": "1995",
+      "publisher": "Oxford: CRC Press",
+      "url": "https://doi.org/",
+
+      "group": 0},
+      {"id": "Loots 1997",
+        "title": "The Use of Projective and Reflective Viewsheds in the Analysis of the Hellenistic City Defence System at Sagalassos, Turkey",
+        "authors": "Loots, L",
+        "year": "1997",
+        "journal": "Archaeological Computing Newsletter",
+        "volume": "49",
+        "number": "",
+        "pages": "12–16",
+        "publisher": "",
+        "url": "https://doi.org/",
+
+        "group": 0},
     {
-      "id": "Losier 2007",
+      "id": "Losier et al. 2007",
       "title": "3D geometrical modeling of excavation units at the archaeological site of Tell ‘Acharneh (Syria)",
       "authors": "Losier, L.-M., Pouliot, J., & Fortin, M.",
       "year": "2007",
@@ -1393,6 +1443,17 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Merlo 2004",
+      "title": "The “Contemporary Mind”. 3D GIS as a Challenge in Excavation Practice",
+      "authors": "Merlo, S.",
+      "year": "2004",
+      "editors": "K. F. Ausserer, W. Börner, M. Goriany, and L. Karlhuber-Vöckl",
+      "book section": "Enter the Past. The E-Way into the Four Dimensions of Cultural Heritage, Computer Applications and Quantitative Methods in Archaeology (CAA 2003)",
+      "pages": "276–280",
+      "publisher": "Oxford: L. Archaeopress",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Merlo 2010",
       "title": "Contextualising intra-site spatial analysis: the role of three-dimensional GIS modelling in understanding excavation data. PhD Thesis",
@@ -2323,7 +2384,7 @@
     },
     {
       "source": "Nobles & Roosevelt 2021",
-      "target": "Losier 2007",
+      "target": "Losier et al. 2007",
       "value": 1
     },
     {
@@ -2688,7 +2749,7 @@
     },
     {
       "source": "van Leusen & Nobles 2018",
-      "target": "Losier 2007",
+      "target": "Losier et al. 2007",
       "value": 1
     },
     {
@@ -3009,6 +3070,41 @@
     {
       "source": "Landeschi 2019b",
       "target": "Lock 2001",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Lock 2003",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Lock et al. 2014",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Lock & Harris 1997",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Lock & Stancic 1995",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Loots 1997",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Losier et al. 2007",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Merlo 2004",
       "value": 1
     }
   ]

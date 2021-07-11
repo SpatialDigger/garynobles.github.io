@@ -53,6 +53,15 @@ d3.json("articles.json", function(error, graph) {
   node.append("title")
       .text(function(d) { return d.id; });
 
+  node.append("text")
+      .attr("x", 8)
+      .attr("y", "0.31em")
+      .text(d => d.id)
+    .clone(true).lower()
+      .attr("fill", "none")
+      .attr("stroke", "white")
+      .attr("stroke-width", 3);
+
   simulation
       .nodes(graph.nodes)
       .on("tick", ticked);

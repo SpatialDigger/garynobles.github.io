@@ -761,7 +761,8 @@
       "url": "https://doi.org/10.1007/s10816-012-9137-4",
       "group": 0
     },
-    {"id": "Gillings 2015",
+    {
+      "id": "Gillings 2015",
       "title": "Mapping Invisibility: GIS Approaches to the Analysis of Hiding and Seclusion",
       "authors": "Gillings, M.",
       "year": "2015",
@@ -771,35 +772,34 @@
       "pages": "1–14",
       "publisher": "",
       "url": "https://doi.org/10.1016/j.jas.2015.06.015",
-
-      "group": 0},
-
-      {"id": "Gillings 2017",
-        "title": "Mapping Liminality: Critical Frameworks for the GIS-based Modelling of Visibility",
-        "authors": "Gillings, M.",
-        "year": "2017",
-        "journal": "Journal of Archaeological Science",
-        "volume": "84",
-        "number": "",
-        "pages": "121–128",
-        "publisher": "",
-        "url": "https://doi.org/10.1016/j.jas.2017.05.004",
-
-        "group": 0},
-
-        {"id": "Gillings & Goodrick 1996",
-          "title": "Sensuous and Reflexive GIS: Exploring Visualisation and VRML",
-          "authors": "Gillings, M., and G. T. Goodrick.",
-          "year": "1996",
-          "journal": "Internet Archaeology",
-          "volume": "1",
-          "number": "1",
-          "pages": "",
-          "publisher": "",
-          "url": "https://doi.org/",
-
-          "group": 0},
-
+      "group": 0
+    },
+    {
+      "id": "Gillings 2017",
+      "title": "Mapping Liminality: Critical Frameworks for the GIS-based Modelling of Visibility",
+      "authors": "Gillings, M.",
+      "year": "2017",
+      "journal": "Journal of Archaeological Science",
+      "volume": "84",
+      "number": "",
+      "pages": "121–128",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jas.2017.05.004",
+      "group": 0
+    },
+    {
+      "id": "Gillings & Goodrick 1996",
+      "title": "Sensuous and Reflexive GIS: Exploring Visualisation and VRML",
+      "authors": "Gillings, M., and G. T. Goodrick.",
+      "year": "1996",
+      "journal": "Internet Archaeology",
+      "volume": "1",
+      "number": "1",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Goodchild & Janelle 2010",
       "title": "Toward critical spatial thinking in the social sciences and humanities",
@@ -813,8 +813,8 @@
       "url": "https://doi.org/10.1007/s10708-010-9340-3",
       "group": 0
     },
-
-    {"id": "Gowlett 1997",
+    {
+      "id": "Gowlett 1997",
       "title": "High Definition Archaeology: Ideas and Evaluation",
       "authors": "Gowlett, J. A. J.",
       "year": "1997",
@@ -824,8 +824,8 @@
       "pages": "152–171",
       "publisher": "",
       "url": "https://doi.org/10.1080/00438243.1997.9980371",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "GRASS Development Team 2008–2012",
       "title": "3D Raster data(voxel) in GRASS GIS. [version 6.4]",
@@ -852,8 +852,8 @@
       "url": "https://grass.osgeo.org/screenshots/3D/",
       "group": 0
     },
-
-    {"id": "Green 1990",
+    {
+      "id": "Green 1990",
       "title": "Approaching Archaeological Space: An Introduction to the Volume.” In Interpreting Space: GIS and Archaeology",
       "authors": "Green, S. W.",
       "year": "1990",
@@ -862,35 +862,34 @@
       "pages": "3–8",
       "publisher": "Abingdon: Taylor & Francis",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-
-      {"id": "Hacιgüzeller 2012",
-        "title": "GIS, Critique, Representation and Beyond",
-        "authors": "Hacιgüzeller, P.",
-        "year": "2012",
-        "journal": "Journal of Social Archaeology",
-        "volume": "12",
-        "number": "2",
-        "pages": "245–263",
-        "publisher": "",
-        "url": "https://doi.org/10.1177/1469605312439139",
-
-        "group": 0},
-        {"id": "Harding et al. 2002",
-          "title": "A Multi-Sensory System for the Investigation of Geoscientific Data",
-          "authors": "Harding, C., I. A. Kakadiaris, J. F. Casey, and R. Bowen Loftin",
-          "year": "2002",
-          "journal": "Computers & Graphics",
-          "volume": "26",
-          "number": "2",
-          "pages": "259–269",
-          "publisher": "",
-          "url": "https://doi.org/10.1016/S0097-8493(02)00057-2",
-
-          "group": 0},
-
+      "group": 0
+    },
+    {
+      "id": "Hacιgüzeller 2012",
+      "title": "GIS, Critique, Representation and Beyond",
+      "authors": "Hacιgüzeller, P.",
+      "year": "2012",
+      "journal": "Journal of Social Archaeology",
+      "volume": "12",
+      "number": "2",
+      "pages": "245–263",
+      "publisher": "",
+      "url": "https://doi.org/10.1177/1469605312439139",
+      "group": 0
+    },
+    {
+      "id": "Harding et al. 2002",
+      "title": "A Multi-Sensory System for the Investigation of Geoscientific Data",
+      "authors": "Harding, C., I. A. Kakadiaris, J. F. Casey, and R. Bowen Loftin",
+      "year": "2002",
+      "journal": "Computers & Graphics",
+      "volume": "26",
+      "number": "2",
+      "pages": "259–269",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/S0097-8493(02)00057-2",
+      "group": 0
+    },
     {
       "id": "Harris 1979",
       "title": "Principles of Archaeological Stratigraphy",
@@ -900,8 +899,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-
-    {"id": "Harris & Lock 1995",
+    {
+      "id": "Harris & Lock 1995",
       "title": "Toward an Evaluation of GIS in European Archaeology: The Past, Present and Future of Theory and Applications",
       "authors": "Harris, T. M., and G. Lock",
       "year": "1995",
@@ -910,9 +909,8 @@
       "pages": "349–365",
       "publisher": "London: Taylor and Francis",
       "url": "https://doi.org/",
-
-      "group": 0},
-
+      "group": 0
+    },
     {
       "id": "HERE Europe 2018",
       "title": "The point processing toolkit (pptk)",
@@ -1004,7 +1002,8 @@
       "url": "https://doi.org/10.1080/00934690.2018.1510299",
       "group": 0
     },
-    {"id": "Kaiser 2003",
+    {
+      "id": "Kaiser 2003",
       "title": "The Application of GIS Viewshed Analysis to Roman Urban Studies: The Case-Study of Empúries, Spain",
       "authors": "Kaiser, A. E.",
       "year": "2003",
@@ -1014,22 +1013,21 @@
       "pages": "106–121",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-      {"id": "Katsianis 2008",
-        "title": "A 3D Digital Workflow for Archaeological Intra-Site Research Using GIS",
-        "authors": "Katsianis, M., S. Tsipidis, K. Kotsakis, and A. Kousoulakou",
-        "year": "2008",
-        "journal": "Journal of Archaeological Science",
-        "volume": "35",
-        "number": "3",
-        "pages": "655–667",
-        "publisher": "",
-        "url": "https://doi.org/10.1016/j.jas.2007.06.002",
-
-        "group": 0},
-
+      "group": 0
+    },
+    {
+      "id": "Katsianis 2008",
+      "title": "A 3D Digital Workflow for Archaeological Intra-Site Research Using GIS",
+      "authors": "Katsianis, M., S. Tsipidis, K. Kotsakis, and A. Kousoulakou",
+      "year": "2008",
+      "journal": "Journal of Archaeological Science",
+      "volume": "35",
+      "number": "3",
+      "pages": "655–667",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jas.2007.06.002",
+      "group": 0
+    },
     {
       "id": "Kazhdan 2005",
       "title": "Reconstruction of solid models from oriented point sets",
@@ -1081,7 +1079,8 @@
       "url": "https://doi.org/153–201. doi:10.1007/BF02446276",
       "group": 0
     },
-    {"id": "Lake et al. 1998",
+    {
+      "id": "Lake et al. 1998",
       "title": "Tailoring GIS Software for Archaeological Applications: An Example Concerning Viewshed Analysis",
       "authors": "Lake, M. W., P. E. Woodman, and S. J. Mithen",
       "year": "1998",
@@ -1091,8 +1090,8 @@
       "pages": "27–38",
       "publisher": "",
       "url": "https://doi.org/10.1006/jasc.1997.0197",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Latour & Woolgar 1979",
       "title": "Laboratory life. The social construction of scientific facts",
@@ -1191,7 +1190,8 @@
       "url": "https://doi.org/10.1080/00438243.2018.1463171",
       "group": 1
     },
-    {"id": "Landeschi et al. forthcoming",
+    {
+      "id": "Landeschi et al. forthcoming",
       "title": "An Exploratory Use of 3D for Investigating a Prehistoric Stratigraphic Sequence",
       "authors": "Landeschi, G., J. Apel, S. Lindgren, and N. Dell’Unto",
       "year": "",
@@ -1200,8 +1200,8 @@
       "pages": "",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Ledoux & Meijers 2011",
       "title": "Topologically consistent 3D city models obtained by extrusion",
@@ -1240,7 +1240,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Lieberwirth 2008b",
+    {
+      "id": "Lieberwirth 2008b",
       "title": "Voxel-Based 3D GIS: Modelling and Analysis of Archaeological Stratigraphy",
       "authors": "Lieberwirth, U.",
       "year": "2008",
@@ -1249,20 +1250,21 @@
       "pages": "85–94",
       "publisher": "Oxford: Archaeopress",
       "url": "https://doi.org/",
-
-      "group": 0},
-      {"id": "Llobera 1996",
-        "title": "Exploring the Topography of Mind: GIS, Social Space and Archaeology",
-        "authors": "Llobera, M.",
-        "year": "1996",
-        "journal": "Antiquity",
-        "volume": "70",
-        "number": "269",
-        "pages": "612–622",
-        "publisher": "",
-        "url": "https://doi.org/10.1017/S0003598X00083745",
-
-        "group": 0},
+      "group": 0
+    },
+    {
+      "id": "Llobera 1996",
+      "title": "Exploring the Topography of Mind: GIS, Social Space and Archaeology",
+      "authors": "Llobera, M.",
+      "year": "1996",
+      "journal": "Antiquity",
+      "volume": "70",
+      "number": "269",
+      "pages": "612–622",
+      "publisher": "",
+      "url": "https://doi.org/10.1017/S0003598X00083745",
+      "group": 0
+    },
     {
       "id": "Llobera et al. 2007",
       "title": "Calculating the inherent visual structure of a landscape (‘total viewshed’) using high-throughput computing",
@@ -1275,7 +1277,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Llobera 2012",
+    {
+      "id": "Llobera 2012",
       "title": "Life on a Pixel: Challenges in the Development of Digital Methods within an “Interpretive” Landscape Archaeology Framework",
       "authors": "Llobera, M.",
       "year": "2012",
@@ -1285,22 +1288,21 @@
       "pages": "495–509",
       "publisher": "",
       "url": "https://doi.org/10.1007/s10816-012-9139-2",
-
-      "group": 0},
-
-      {"id": "Lock 2001",
-        "title": "Theorising the Practice or Practicing the Theory: Archaeology and GIS",
-        "authors": "Lock, G.",
-        "year": "2001",
-        "journal": "Archaeologia Polona",
-        "volume": "39",
-        "number": "",
-        "pages": "153–164",
-        "publisher": "",
-        "url": "https://doi.org/",
-
-        "group": 0},
-
+      "group": 0
+    },
+    {
+      "id": "Lock 2001",
+      "title": "Theorising the Practice or Practicing the Theory: Archaeology and GIS",
+      "authors": "Lock, G.",
+      "year": "2001",
+      "journal": "Archaeologia Polona",
+      "volume": "39",
+      "number": "",
+      "pages": "153–164",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Lock 2009",
       "title": "Archaeological computing then and now: Theory and practice, intentions and tensions",

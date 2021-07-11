@@ -1923,6 +1923,18 @@
 
       "group": 0},
 
+      {"id": "Richards-Rissetto et al. 2012",
+        "title": "Kinect and 3D GIS in Archaeology. In Virtual Systems and Multimedia (VSMM)",
+        "authors": "Richards-Rissetto, H., F. Remondino, G. Agugiaro, J. Von Schwerin, J. Robertsson, and G. Girardi",
+        "year": "2012",
+        "editors": "",
+        "book section": "2012 18th International Conference on IEEE",
+        "pages": "331–337",
+        "publisher": "",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
 
     {
       "id": "Rolland 2014",
@@ -2078,6 +2090,26 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Smith & Friedman 2004",
+      "title": "A Technology Whose Time Has Come",
+      "authors": "Smith, G., and J. Friedman",
+      "year": "2004",
+      "journal": "Littleton, CO: Earth Observation Magazine",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
+      {"id": "Tilley 1994",
+        "title": "A Phenomenology of Landscape: Places, Paths, and Monuments",
+        "authors": "Tilley, C.",
+        "year": "1994",
+        "publisher": "Oxford: Berg",
+        "url": "https://doi.org/",
+
+        "group": 0},
     {
       "id": "Tse & Gold 2004",
       "title": "TIN meets CAD: Extending the TIN concept in GIS",
@@ -2091,6 +2123,18 @@
       "url": "https://doi.org/10.1016/j.future.2003.11.007",
       "group": 0
     },
+    {"id": "van Leusen 1999",
+      "title": "Viewshed and Cost Surface Analysis Using GIS (Cartographic Modelling in a Cell-Based GIS II)",
+      "authors": "Van Leusen, M.",
+      "year": "1999",
+      "journal": "BAR International Series 757",
+      "volume": "",
+      "number": "",
+      "pages": "215–224",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "van Leusen & van Gessel 2016",
       "title": "Towards 3D GIS:notes from the 2012 CAA-NL/DE chapter session ‛From 2.5 to 3 spatial dimensions’",
@@ -2184,6 +2228,17 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Watson 2001",
+      "title": "The Sounds of Transformation: Acoustics, Monuments and Ritual in the British Neolithic",
+      "authors": "Watson, A.",
+      "year": "2001",
+      "editors": "N. Price",
+      "book section": "The Archaeology of Shamanism",
+      "pages": "178–192",
+      "publisher": "London: Routledge",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Wilkinson 2016",
       "title": "The FAIR Guiding Principles for scientific data management and stewardship, Scientific Data",
@@ -2222,6 +2277,17 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Wheatley 2014",
+      "title": "Connecting Landscapes with Built Environments: Visibility Analysis, Scale and the Senses",
+      "authors": "Wheatley, D.",
+      "year": "2014",
+      "editors": "E. Paliou, U. Lieberwirth, and S. Polla",
+      "book section": "Spatial Analysis and Social Spaces: Interdisciplinary Approaches to the Interpretation of Prehistoric and Historic Built Environments",
+      "pages": "",
+      "publisher": "Berlin: Topoi Berlin Studies of the Ancient World",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Wheatley and Gillings 2000",
       "title": "Vision, perceptionand GIS: developing enriched approaches to the study of archaeological visibility",
@@ -2234,6 +2300,26 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Wheatley and Gillings 2003",
+      "title": "Spatial Technology and Archaeology: The Archaeological Applications of GIS",
+      "authors": "Wheatley, D., and M. Gillings.",
+      "year": "2003",
+      "publisher": "New York, NY: CRC Press",
+      "url": "https://doi.org/",
+
+      "group": 0},
+      {"id": "Withagen et al. 2012",
+        "title": "Affordances Can Invite Behavior: Reconsidering the Relationship between Affordances and Agency",
+        "authors": "Withagen, R., H. J. de Poel, D. Araújo, and G. J. Pepping",
+        "year": "2012",
+        "journal": "New Ideas in Psychology",
+        "volume": "30",
+        "number": "2",
+        "pages": "250–258",
+        "publisher": "",
+        "url": "https://doi.org/10.1016/j.newideapsych.2011.12.003",
+
+        "group": 0},
     {
       "id": "Zaitceva 2016",
       "title": "Photogrammetry: From field recording to museum presentation (Timiryazevo Burial Site, Western Siberia)",
@@ -3309,6 +3395,56 @@
     {
       "source": "Landeschi 2019b",
       "target": "Richards-Rissetto 2017",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Richards-Rissetto et al. 2012",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Smith & Friedman 2004",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Tilley 1994",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "van Leusen 1999",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Watson 2001",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Wheatley 2014",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Wheatley 1995",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Wheatley and Gillings 2000",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Wheatley and Gillings 2003",
+      "value": 1
+    },
+    {
+      "source": "Landeschi 2019b",
+      "target": "Withagen et al. 2012",
       "value": 1
     }
   ]

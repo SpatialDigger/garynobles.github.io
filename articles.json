@@ -24,6 +24,34 @@
       "url": "https://doi.org/",
       "group": 0
     },
+
+    {"id": "Agugiaro 2014",
+      "title": "3D GIS for Cultural Heritage Sites: The QueryArch3D Prototype",
+      "authors": "Agugiaro, G.",
+      "year": "2014",
+      "editors": "S. Campana and F. Remondino",
+      "book section": "3D Recording and Modelling in Archaeology and Cultural Heritage. Theory and Best Practices",
+      "pages": "145–150",
+      "publisher": "Oxford: BAR International Series",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+      {"id": "Agugiaro 2011",
+        "title": "QueryArch3D: Querying and Visualising Three-Dimensional Archaeological Models in a Web-Based Interface",
+        "authors": "Agugiaro, G., F. Remondino, G. Girardi, J. von Schwerin, H. Richards-Risetto, and R. De Amicis",
+        "year": "2011",
+        "journal": "Geoinformatics, Faculty of Civil Engineering, Czech Technical University",
+        "volume": "6",
+        "number": "",
+        "pages": "",
+        "publisher": "",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
+
+
     {
       "id": "Allen 2011",
       "title": "Getting to Know ArcGIS ModelBuilder",
@@ -37,6 +65,34 @@
       "url": "https://doi.org/",
       "group": 0
     },
+
+    {"id": "Alvey 1989",
+      "title": "Hindsite",
+      "authors": "Alvey, B. A. P.",
+      "year": "1989",
+      "journal": "Archaeological Computing Newsletter",
+      "volume": "19",
+      "number": "",
+      "pages": "4-5",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+
+      {"id": "Alvey 1993",
+        "title": "Interpreting Archaeology with Hindsight: The Use of Three Dimensions in Graphic Recording and Site Analysis.",
+        "authors": "Alvey, B. A. P.",
+        "year": "1993",
+        "editors": "E. C. Harris, M. R. Brown III, and G. J. Brown",
+        "book section": "In Practices of Archaeological Stratigraphy",
+        "pages": "218–228",
+        "publisher": "London: Academic Press",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
+
     {"id": "Apel 2004",
       "title": "A 3d geoscience information system framework",
       "authors": "Apel, M.",
@@ -1273,7 +1329,7 @@
       "pages": "S31–S44",
       "publisher": "",
       "url": "https://doi.org/10.1080/00934690.2018.1510299",
-      "group": 0
+      "group": 7
     },
     {"id": "Jones 2002",
       "title": "Archaeological Theory and Scientific Practice",
@@ -4254,6 +4310,26 @@
     {
       "source": "Katsianis 2008",
       "target": "Zhukovsky 2002",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Agugiaro 2014",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Agugiaro 2011",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Alvey 1989",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Alvey 1993",
       "value": 1
     }
   ]

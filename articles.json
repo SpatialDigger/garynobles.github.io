@@ -109,12 +109,33 @@
       "url": "http://www.gocad.org/www/people/files/thesis_marcus_apel.pdf",
       "group": 0
     },
+    {"id": "Apollonio et al. 2012",
+      "title": "3D Reality-Based Artefact Models for the Management of Archaeological Sites Using 3D GIS: A Framework Starting from the Case Study of the Pompeii Archaeological Area.",
+      "authors": "Apollonio, F. I., M. Gaiani, and B. Benedetti.",
+      "year": "2012",
+      "journal": "Journal of Archaeological Science",
+      "volume": "39",
+      "number": "5",
+      "pages": "1271–1287",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jas.2011.12.034",
+
+      "group": 0},
     {
       "id": "Appadurai 1996",
       "title": "Modernity at large cultural dimensions of globalization",
       "publisher": "Minneapolis: University of Minnesota Press",
       "group": 0
     },
+    {"id": "Archaeology Data Service 2015",
+      "title": "Digital Antiquity Guides to Good Practice.",
+      "authors": "Archaeology Data Service",
+      "year": "2015",
+      "publisher": "",
+      "url": "http://guides.archaeologydataservice.ac.uk/g2gp/LaserScan_3-1",
+
+      "group": 0},
+
     {
       "id": "Arroyo-Bishop & Lantada Zarzosa 1995",
       "title": "To be or not to be: will an object-space-time GIS/AIS become a scientific reality or end up an archaeological entity?",
@@ -127,6 +148,32 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Auer 2012",
+      "title": "Real-Time Web GIS Analysis Using WebGL",
+      "authors": "Auer, M.",
+      "year": "2012",
+      "journal": "International Journal of 3-D Information Modeling (IJ3DIM)",
+      "volume": "1",
+      "number": "3",
+      "pages": "1-13",
+      "publisher": "",
+      "url": "https://doi.org/10.4018/ij3dim.2012070105",
+
+      "group": 0},
+
+      {"id": "Auer et al. 2014",
+        "title": "Web-Based Visualization and Query of Semantically Segmented Multiresolution 3D Models in the Field of Cultural Heritage.",
+        "authors": "Auer, M., G. Agugiaro, N. Billen, L. Loos, and A. Zipf",
+        "year": "2014",
+        "journal": "ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "volume": "II-5",
+        "number": "",
+        "pages": "33–39",
+        "publisher": "",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
     {
       "id": "Avern & Franssens 2012",
       "title": "A digital drawing tool for recording excavations: The Nikon iSpace System.",
@@ -188,6 +235,57 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Bateman 2006",
+      "title": "Pictures, Ideas, and Things: The Production and Currency of Archaeological Images",
+      "authors": "Bateman, J.",
+      "year": "2006",
+      "editors": "M. Edgeworth,",
+      "book section": "Ethnographies of Archaeological Proace: Cultural Encounters, Material Transformations",
+      "pages": "68–80",
+      "publisher": "Lanham: AltaMira Press",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+
+      {"id": "Bateman 2008",
+        "title": "Wearing Juninho’s Shirt: Record and Negotiation in Excavation Photographs",
+        "authors": "Bateman, J.",
+        "year": "2008",
+        "editors": "S. Smiles and S. Moser",
+        "book section": "Envisioning the Past: Archaeology and the Image",
+        "pages": "192–203",
+        "publisher": "Malden, MA: Blackwell",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
+
+        {"id": "Benko et al. 2003",
+          "title": "Collaborative Visualization of an Archaeological Excavation",
+          "authors": "Benko, H., E. Ishak, and S. Feiner.",
+          "year": "2003",
+          "editors": "",
+          "book section": "NSF Lake Tahoe Workshop on Collaborative Virtual Reality and Visualization (CVEV 2003), October",
+          "pages": "132–140",
+          "publisher": "",
+          "url": "https://doi.org/",
+
+          "group": 0},
+
+          {"id": "Benko et al. 2004",
+            "title": "Collaborative Mixed Reality Visualization of an Archaeological Excavation",
+            "authors": "Benko, H., E. Ishak, and S. Feiner",
+            "year": "2004",
+            "editors": "",
+            "book section": "Proceedings of the International Symposium on Mixed and Augmented Reality (ISMAR ‘04), November",
+            "pages": "132-140",
+            "publisher": "",
+            "url": "https://doi.org/",
+
+            "group": 0},
+
+
     {
       "id": "Berggren et al. 2015",
       "title": "Revisiting reflexive archaeology at Çatalhöyük: Integrating digital and 3D technologies at the trowel’s edge",
@@ -4365,6 +4463,41 @@
     {
       "source": "Jensen 2018",
       "target": "Alvey 1993",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Apollonio et al. 2012",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Archaeology Data Service 2015",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Auer 2012",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Auer et al. 2014",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Bateman 2008",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Benko et al. 2003",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Berggren et al. 2015",
       "value": 1
     }
   ]

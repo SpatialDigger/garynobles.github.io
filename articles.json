@@ -1531,6 +1531,45 @@
       "group": 0},
 
 
+      {"id": "Holst 2013",
+        "title": "Recording and Data",
+        "authors": "Holst, M. K.",
+        "year": "2013",
+        "editors": "M. K. Holst and M. Rasmussen",
+        "book section": "Skelhøj and the Bronze Age Barrows of Southern Scandinavia: The Bronze Age Barrow Tradition and the Excavation of Skelhøj",
+        "pages": "197–210",
+        "publisher": "Højbjerg: Jysk Arkæologisk Selskab",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
+        {"id": "Holst 2018",
+          "title": "Direct Evidence of a Large Northern European Roman Period Martial Event and Postbattle Corpse Manipulation",
+          "authors": "Holst, M. K., J. Heinemeier, E. Hertz, P. Jensen, S. M. Kristiansen, L. Mollerup, and N. E. Søe.",
+          "year": "2018",
+          "journal": "Proceedings of the National Academy of Sciences",
+          "volume": "115",
+          "number": "23",
+          "pages": "5920–5925",
+          "publisher": "",
+          "url": "https://doi.org/10.1073/pnas.1721372115",
+
+          "group": 0},
+
+
+          {"id": "Holst & Rasmussen 2013",
+            "title": "Skelhøj and the Bronze Age Barrows of Southern Scandinavia: The Bronze Age Barrow Tradition and the Excavation of Skelhøj",
+            "authors": "Holst, M. K., and M. Rasmussen",
+            "year": "",
+            "editors": "",
+            "book section": "",
+            "pages": "",
+            "publisher": "Højbjerg: Jysk Arkæologisk Selskab",
+            "url": "https://doi.org/",
+
+            "group": 0},
+
+
     {
       "id": "Huggett 2004",
       "title": "Archaeology and the new technological fetishism",
@@ -1583,6 +1622,46 @@
       "url": "https://doi.org/10.1515/opar-2015-0002",
       "group": 0
     },
+
+
+    {"id": "Huggett & Guo-Yuan 2000",
+      "title": "D Interpretative Modelling of Archaeological Sites. A Computer Reconstruction of a Medieval Timber and Earthwork Castle",
+      "authors": "Huggett, J., and C. Guo-Yuan",
+      "year": "2000",
+      "journal": "Internet Archaeology",
+      "volume": "8",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+
+      {"id": "Hunter & Gerber 2010",
+        "title": "Harvesting Community Annotations on 3D Models of Museum Artefacts to Enhance Knowledge, Discovery and Re-Use",
+        "authors": "Hunter, J., and A. Gerber.",
+        "year": "2010",
+        "journal": "Journal of Cultural Heritage",
+        "volume": "11",
+        "number": "1",
+        "pages": "81–90",
+        "publisher": "",
+        "url": "https://doi.org/10.1016/j.culher.2009.04.004",
+
+        "group": 0},
+
+        {"id": "Ilkjær 2002",
+          "title": "Illerup Ådal: Archaeology as a Magic Mirror",
+          "authors": "Ilkjær, J.",
+          "year": "2002",
+          "publisher": "Højbjerg: Jysk Arkæologisk Selskab",
+          "url": "https://doi.org/",
+
+          "group": 0},
+
+
+
     {
       "id": "ISAAK 2020",
       "title": "Initiative for statistical analysis in archaeology Kiel",
@@ -1609,19 +1688,69 @@
       "url": "http://www.fig.net/pub/athens/papers/ts25/TS25_3_Jarroush_EvenTzur.pdf",
       "group": 0
     },
-    {
-      "id": "Jensen 2018",
-      "title": "Semantically enhanced 3D: A web-based platform for spatial integration of excavation documentation at Alken Enge, Denmark",
+    {"id": "Jensen 2012",
+      "title": "Event-Based Archaeological Registration Principles",
       "authors": "Jensen, P.",
-      "year": "2018",
-      "journal": "Journal of Field Archaeology",
-      "volume": "43(sup1)",
-      "number": "",
-      "pages": "S31–S44",
-      "publisher": "",
-      "url": "https://doi.org/10.1080/00934690.2018.1510299",
-      "group": 7
-    },
+      "year": "2012",
+      "editors": "M. Zhou, I. Romanowska, Z. Wu, P. Xu, and P. Verhagen",
+      "book section": "Revive the Past. Computer Applications and Quantitative Methods in Archaeology (CAA). Proceedings of the 39th International Conference, Beijing, April 12-16 2011",
+      "pages": "209–216",
+      "publisher": "Amsterdam: Pallas Publications",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+      {"id": "Jensen 2017a",
+        "title": "Archaeo",
+        "authors": "Jensen, P.",
+        "year": "",
+        "publisher": "",
+        "url": "www.archaeo.dk",
+
+        "group": 0},
+
+        {"id": "Jensen 2017b",
+          "title": "Where Are We? Reviewing the Integration of Complex Spatial Data in Current Field Archaeology",
+          "authors": "Jensen, P.",
+          "year": "2017",
+          "journal": "Internet Archaeology",
+          "volume": "44",
+          "number": "44",
+          "pages": "",
+          "publisher": "",
+          "url": "https://doi.org/10.11141/ia.44.8",
+
+          "group": 0},
+
+
+          {
+            "id": "Jensen 2018a",
+            "title": "Semantically enhanced 3D: A web-based platform for spatial integration of excavation documentation at Alken Enge, Denmark",
+            "authors": "Jensen, P.",
+            "year": "2018",
+            "journal": "Journal of Field Archaeology",
+            "volume": "43(sup1)",
+            "number": "",
+            "pages": "S31–S44",
+            "publisher": "",
+            "url": "https://doi.org/10.1080/00934690.2018.1510299",
+            "group": 7
+          },
+
+          {"id": "Jensen 2018b",
+            "title": "Evaluating Authenticity: Authenticity of 3D Models in Archaeological Field Documentation",
+            "authors": "Jensen, P.",
+            "year": "2018",
+            "editors": "P. Di Giuseppantonio Di Franco, F. Galeazzi, and V. Vassallo",
+            "book section": "Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions",
+            "pages": "",
+            "publisher": "",
+            "url": "https://doi.org/",
+
+            "group": 0},
+
+
+
     {
       "id": "Jones 2002",
       "title": "Archaeological Theory and Scientific Practice",
@@ -3452,7 +3581,7 @@
     },
     {
       "source": "Nobles & Roosevelt 2021",
-      "target": "Jensen 2018",
+      "target": "Jensen 2018a",
       "value": 1
     },
     {
@@ -4616,168 +4745,213 @@
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Agugiaro 2014",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Agugiaro 2011",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Alvey 1989",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Alvey 1993",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Apollonio et al. 2012",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Archaeology Data Service 2015",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Auer 2012",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Auer et al. 2014",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Andersen 1956",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Bateman 2006",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Bateman 2008",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Benko et al. 2003",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Benko et al. 2004",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Berggren et al. 2015",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Binding et al. 2008",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Bobowski 1991",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Carver 2015",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Conolly & Lake 2006",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "De Reu et al. 2013b",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "De Reu et al. 2014",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Dell’Unto 2014",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Dell’Unto 2016",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Dellepiane et al. 2013",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Ducke et al. 2011",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Eve 2012",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Forte 2014",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Forte et al. 2015",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Galeazzi, F. 2014",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Galeazzi et al. 2016",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Hansen 1992",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Harris 1989",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Herzig 2013",
       "value": 1
     },
     {
-      "source": "Jensen 2018",
+      "source": "Jensen 2018a",
       "target": "Hodder 2000",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Holst 2013",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Holst 2018",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Holst & Rasmussen 2013",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Huggett & Guo-Yuan 2000",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Hunter & Gerber 2010",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Ilkjær 2002",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Jensen 2012",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Jensen 2017b",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Jensen 2018b",
       "value": 1
     }
   ]

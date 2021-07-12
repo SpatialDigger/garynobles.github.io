@@ -363,6 +363,29 @@
       "url": "https://doi.org/10.1016/j.jas.2014.05.014",
       "group": 0
     },
+    {"id": "Binding et al. 2008",
+      "title": "Semantic Interoperability in Archaeological Datasets: Data Mapping and Extraction via the CIDOC CRM.",
+      "authors": "Binding, C., K. May, and D. Tudhope.",
+      "year": "2008",
+      "editors": "B. Christensen-Dalsgaard, D. Catelli, B. Ammitzbøll Jurik, and J. Lippincott",
+      "book section": "In Research and Advanced Technology for Digital Libraries. ECDL 2008, Lecture Notes in Computer Science, vol. 5173",
+      "pages": "280–290",
+      "publisher": "Berlin: Springer",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+      {"id": "Bobowski 1991",
+        "title": "Hybrid 3D Visualisations of Archaeological Sites: Dynamic 3D Visualisations of Harris Matrix Data for Rescue Town Excavations, Gdańsk / Szafarnia Site, Poland.",
+        "authors": "Bobowski, B., K. Walczak, and M. Stawniak",
+        "year": "1991",
+        "editors": "A. Posluschny, K. Lambers, and I. Herzog",
+        "book section": "Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA)",
+        "pages": "1–5",
+        "publisher": "Bonn: Kolloquien zur Vor und Frühgeschichte 10",
+        "url": "https://doi.org/",
+
+        "group": 0},
     {
       "id": "Breunig et al. 1995",
       "title": "‘Implementation of elementary geometric database operations for a 3D-GIS’",
@@ -450,6 +473,24 @@
       "url": "https://doi.org/10.5194/isprsarchives-XL-5-W2-155-2013",
       "group": 0
     },
+    {"id": "Carver 2009",
+      "title": "Archaeological Investigation",
+      "authors": "Carver, M.",
+      "year": "2009",
+      "publisher": "Boca Raton: Taylor & Francis",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+      {"id": "Carver 2015",
+        "title": "Field Archaeology From Around the World. Ideas and Approaches",
+        "authors": "Carver, M., B. Gaydarska, and S. Monton-Subias. ",
+        "year": "2015",
+        "publisher": "Switzerland: Springer International Publishing",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
     {
       "id": "Castleford 1992",
       "title": "Archaeology, GIS and the time dimension: an overview",
@@ -754,6 +795,19 @@
       "url": "https://doi.org/",
       "group": 0
     },
+
+    {"id": "Dell’Unto 2016",
+      "title": "Using 3D GIS Platforms to Analyse and Interpret the Past.",
+      "authors": "Dell’Unto, N.",
+      "year": "2016",
+      "editors": "M. Forte and S. Campana",
+      "book section": "Digital Methods and Remote Sensing in Archaeology",
+      "pages": "305–322",
+      "publisher": "Switzerland: Springer International Publishing",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
     {
       "id": "Dell’Unto et al. 2015",
       "title": "Experiencing Ancient Buildings from A 3D GIS Perspective: A Case Drawn from the Swedish Pompeii Project",
@@ -893,6 +947,22 @@
       "url": "https://doi.org/10.7183/2326-3768.3.2.136",
       "group": 0
     },
+
+
+    {"id": "Ducke et al. 2011",
+      "title": "Multiview 3D Reconstruction of the Archaeological Site at Weymouth from Image Series",
+      "authors": "Ducke, B., D. Score, and J. Reeves.",
+      "year": "2011",
+      "journal": "Computers and Graphics",
+      "volume": "35",
+      "number": "2",
+      "pages": "375–382",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.cag.2011.01.006",
+
+      "group": 0},
+
+
     {
       "id": "Dykes et al. 2005",
       "title": "Exploring Geovisualization",
@@ -1083,6 +1153,19 @@
       "url": "https://doi.org/10.1260/2047-4970.1.3.351",
       "group": 0
     },
+
+    {"id": "Forte et al. 2015",
+      "title": "Interpretation Process at Çatalhöyük Using 3D",
+      "authors": "Forte, M., N. Dell’Unto, K. Jonsson, and N. Lercari",
+      "year": "2015",
+      "editors": "I. Hodder and A. Marciniak",
+      "book section": "Assembling Çatalhöyük",
+      "pages": "43–57",
+      "publisher": "London: Taylor & Francis",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
     {
       "id": "Forte & Siliotti 1997",
       "title": "Virtual Archaeology: Re-Creating Ancient Worlds",
@@ -1122,6 +1205,31 @@
       "url": "http://www.jstor.org/stable/40026479",
       "group": 0
     },
+
+
+    {"id": "Galeazzi, F. 2014",
+      "title": "ADS 3D Viewer. A 3D Real-Time System for the Management and Analysis of Archaeological Data",
+      "authors": "Galeazzi, F.",
+      "year": "2014",
+      "publisher": "",
+      "url": "http://archaeologydataservice.ac.uk/research/3D_Viewer",
+
+      "group": 0},
+
+      {"id": "Galeazzi et al. 2016",
+        "title": "Web-Based Visualization for 3D Data in Archaeology: The ADS 3D Viewer",
+        "authors": "Galeazzi, F., M. Callieri, M. Dellepiane, M. Charno, J. Richards, and R. Scopigno.",
+        "year": "2-16",
+        "journal": "Journal of Archaeological Science: Reports",
+        "volume": "9",
+        "number": "",
+        "pages": "1-11",
+        "publisher": "",
+        "url": "https://doi.org/10.1016/j.jasrep.2016.06.045",
+
+        "group": 0},
+
+
     {
       "id": "Gavryushkina 2018",
       "title": "Layer by (3D) Layer 3D GIS stratigraphic analysis of chlorakas-palloures, cyprus [MA thesis]",
@@ -1293,6 +1401,17 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Hansen 1992",
+      "title": "Content, Use and Perspectives of DKC, the Danish National Record of Sites and Monuments",
+      "authors": "Hansen, H. J.",
+      "year": "1992",
+      "editors": "C. U. Larsen",
+      "book section": "Sites and Monuments. National Archaeological Records",
+      "pages": "23–42",
+      "publisher": "Copenhagen: Nationalmuseet",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Harding et al. 2002",
       "title": "A Multi-Sensory System for the Investigation of Geoscientific Data",
@@ -1315,6 +1434,18 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Harris 1989",
+      "title": "Principles of Archaeological Stratigraphy",
+      "authors": "Harris, E.",
+      "year": "",
+      "journal": "Bermuda Maritime Museum",
+      "volume": "142",
+      "number": "",
+      "pages": "",
+      "publisher": "London: Academic Press Limited",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Harris & Lock 1995",
       "title": "Toward an Evaluation of GIS in European Archaeology: The Past, Present and Future of Theory and Applications",
@@ -1340,6 +1471,29 @@
       "url": "https://github.com/heremaps/pptk",
       "group": 0
     },
+    {"id": "Hertz & Holst 2015",
+      "title": "Alken Enge—The Mass Grave at Lake Mossø",
+      "authors": "Hertz, E., and M. Holst",
+      "year": "2015",
+      "publisher": "",
+      "url": "http://www.museumskanderborg.dk/Alken_Enge-English_version-1070.aspx",
+
+      "group": 0},
+
+      {"id": "Herzig 2013",
+        "title": "X3D-EarthBrowser: Visualize Our Earth in Your Web Browser",
+        "authors": "Herzig, P., M. Englert, S. Wagner, Y. Jung, and U. Bockholt.",
+        "year": "2013",
+        "journal": "Proceedings of the 18th International Conference on 3D Web Technology",
+        "volume": "",
+        "number": "",
+        "pages": "139–142",
+        "publisher": "New York: ACM Publications",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
+
     {
       "id": "Herzog 2004",
       "title": "Group and conquer: a method for displaying large stratigraphic data sets",
@@ -1361,6 +1515,22 @@
       "url": "https://doi.org/",
       "group": 0
     },
+
+
+    {"id": "Hodder 2000",
+      "title": "Towards Reflexive Method in Archaeology: the Example of Çatalhöyük",
+      "authors": "Hodder, I.",
+      "year": "2000",
+      "journal": "Monograph No 28. McDonald Institute Monographs and British Institute of Archaeology at Ankara",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+
     {
       "id": "Huggett 2004",
       "title": "Archaeology and the new technological fetishism",
@@ -4513,6 +4683,101 @@
     {
       "source": "Jensen 2018",
       "target": "Berggren et al. 2015",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Binding et al. 2008",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Bobowski 1991",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Carver 2015",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Conolly & Lake 2006",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "De Reu et al. 2013b",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "De Reu et al. 2014",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Dell’Unto 2014",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Dell’Unto 2016",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Dellepiane et al. 2013",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Ducke et al. 2011",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Eve 2012",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Forte 2014",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Forte et al. 2015",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Galeazzi, F. 2014",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Galeazzi et al. 2016",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Hansen 1992",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Harris 1989",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Herzig 2013",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018",
+      "target": "Hodder 2000",
       "value": 1
     }
   ]

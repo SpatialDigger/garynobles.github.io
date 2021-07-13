@@ -1751,6 +1751,17 @@
 
 
 
+            {"id": "Johansen 2003",
+              "title": "Opretning Af Arkæologiske Udgravningsfotos med AirPhoto 1-13",
+              "authors": "Johansen, K. L.",
+              "year": "2003",
+              "publisher": "Copenhagen: Nationalmuseet ",
+              "url": "https://doi.org/",
+
+              "group": 0},
+
+
+
     {
       "id": "Jones 2002",
       "title": "Archaeological Theory and Scientific Practice",
@@ -1861,6 +1872,14 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Kimball 2014",
+      "title": "3D Delineation: A Modernisation of Drawing Methodology for Field Archaeology",
+      "authors": "Kimball, J. L.",
+      "year": "2004",
+      "publisher": "Oxford: Archaeopress Publishing",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Kjellman 2012",
       "title": "From 2D to 3D A photogrammetric revolution in archaeology? [MA thesis]",
@@ -2226,6 +2245,14 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Lucas 2011",
+      "title": "Critical Approaches to Fieldwork. Contemporary and Historical Archaeological Practice",
+      "authors": "Lucas, G.",
+      "year": "2011",
+      "publisher": "London: Routledge",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Luke et al. 2015",
       "title": "Composing communities: Chalcolithic through Iron Age survey ceramics in the Marmara lake basin, western Turkey",
@@ -2253,7 +2280,7 @@
       "group": 0
     },
     {
-      "id": "Madsen 2003",
+      "id": "Madsen 2003a",
       "title": "ArchaeoInfo: An Object Oriented Information System for Archaeological Excavations",
       "authors": "Madsen, T.",
       "year": "2003",
@@ -2264,6 +2291,44 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Madsen 2003b",
+      "title": "At Gøre Arkæologi. Refleksioner over Udgravningen som Videnskabelig Praksis.",
+      "authors": "Madsen, T.",
+      "year": "2003",
+      "journal": "Arkæologisk Forum",
+      "volume": "8",
+      "number": "",
+      "pages": "12-29",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+      {"id": "May et al. 2008",
+        "title": "A STAR Is Born: Some Emerging Semantic Technologies for Archaeological Resources",
+        "authors": "May, K., C. Binding, and D. Tudhope.",
+        "year": "2008",
+        "editors": "E. Jerem, F. Redő, and V. Szeverényi",
+        "book section": "On the Road to Reconstructing the Past. Computer Applications and Quantitative Methods in Archaeology (CAA). Proceedings of the 36th International Conference. Budapest, April 2–6, 2008",
+        "pages": "111–116",
+        "publisher": "Budapest: Archeaeolingua",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
+
+        {"id": "May et al. 2012",
+          "title": "Semantic Technologies Enhancing Links and Linked Data for Archaeological Resources.",
+          "authors": "May, K., C. Binding, D. Tudhope, and S. Jeffrey.",
+          "year": "2012",
+          "editors": "M. Zhou, I. Romanowska, Z. Wu, P. Xu, and P. Verhagen",
+          "book section": "Revive the Past: Proceedings of Computer Applications and Quantitative Techniques in Archaeology Conference 2011, Beijing",
+          "pages": "261–272",
+          "publisher": "Amsterdam: Pallas Publications",
+          "url": "https://doi.org/",
+
+          "group": 0},
+
     {
       "id": "McPherron 2009",
       "title": "Structured light scanning for high-resolution documentation of in situ archaeological finds",
@@ -2277,6 +2342,18 @@
       "url": "https://doi.org/10.1016/j.jas.2008.06.028",
       "group": 0
     },
+    {"id": "Means 2015",
+      "title": "Promoting a More Interactive Public Archaeology",
+      "authors": "Means, B. K. 2015",
+      "year": "2015",
+      "journal": "Advances in Archaeological Practice",
+      "volume": "3",
+      "number": "3",
+      "pages": "235–248",
+      "publisher": "",
+      "url": "https://doi.org/10.7183/2326-3768.3.3.235",
+
+      "group": 0},
     {
       "id": "Merlo & Shell 2005",
       "title": "Developing a multidimensional GIS framework for archaeological excavations",
@@ -2326,6 +2403,18 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Michaux et al. 2015",
+      "title": "3D Fossil Reconstruction Related to the Publication: Body Shape and Life Style of the Extinct Rodent Canariomys Bravoi from Tenerife, Canary Islands",
+      "authors": "Michaux, J., L. Hautier, R. Lebrun, F. Guy, and F. Garcia-Talavera",
+      "year": "2015",
+      "journal": "MorphoMuseuM",
+      "volume": "1",
+      "number": "1",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/10.18563/m3.1.1.e3 ",
+
+      "group": 0},
     {
       "id": "Mickel 2021",
       "title": "Why those who shovel are silent: A history of local archaeological knowledge and labor",
@@ -2339,6 +2428,17 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Mills & Baker 2009",
+      "title": "The VERA Information Environment",
+      "authors": "Mills, H., and M. Baker",
+      "year": "2009",
+      "editors": "B. Frischer, J. W. Crawford, and D. Koller",
+      "book section": "Making History Interactive. Computer Application and Quantitative Methods in Archaeology (CAA): Proceedings of the 37th International Conference, Williamsburg, Virginia, USA, March 22-26, 2009",
+      "pages": "1-10",
+      "publisher": "Oxford: Archaeopress",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Mlekuz 2004",
       "title": "Listening to landscapes: modelling past soundscapes in GIS",
@@ -4661,7 +4761,7 @@
     },
     {
       "source": "Katsianis 2008",
-      "target": "Madsen 2003",
+      "target": "Madsen 2003a",
       "value": 1
     },
     {
@@ -4967,6 +5067,76 @@
     {
       "source": "Jensen 2018a",
       "target": "Jensen 2017a",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Johansen 2003",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Katsianis 2008",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Kimball 2014",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Landeschi et al. 2016a",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Lieberwirth 2008b",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Losier et al. 2007",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Lucas 2011",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Madsen 2003b",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "May et al. 2008",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "May et al. 2012",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Means 2015",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Merlo 2016",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Michaux et al. 2015",
+      "value": 1
+    },
+    {
+      "source": "Jensen 2018a",
+      "target": "Mills & Baker 2009",
       "value": 1
     }
   ]

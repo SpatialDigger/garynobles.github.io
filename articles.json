@@ -63,6 +63,31 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "ALLEN et al. 2004",
+      "title": "Seeing into the past: creating a 3D modeling pipeline for archaeological visualization",
+      "authors": "ALLEN, P., FEINER, S., TROCCOLI, A., BENKO, H., ISHAK, E., AND SMITH, B.",
+      "year": "2004",
+      "editors": "",
+      "book section": "Proceedings of the 3D data Processing, Visualization, and Transmission, 2nd International Symposium on 3D Data Processing, Visualization, and Transmission (3DPVT’04). Thessalonika: IEEE Computer Society",
+      "pages": "751-758",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+      {"id": "ALLISON 1997",
+        "title": "Artefact distribution and spatial function in Pompeian houses",
+        "authors": "ALLISON, P.M.",
+        "year": "1997",
+        "editors": "B. Rawson and P. Weaver",
+        "book section": "The Roman family in Italy: Status, sentiment and space",
+        "pages": "321-354",
+        "publisher": "Oxford: Clarendon Press",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
+
     {
       "id": "Alvey 1989",
       "title": "Hindsite",
@@ -337,19 +362,18 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {
-      "id": "Bezzi et al. 2006",
-      "title": "L’utilizzo Di Voxel in Campo Archeologico.",
-      "authors": "Bezzi, A., L. Bezzi, D. Francisci, and R. Gietl.",
+    {"id": "BEVAN & CONOLLY 2006",
+      "title": "Multi-scalar approaches to settlement pattern analysis",
+      "authors": "BEVAN, A. AND CONOLLY, J.",
       "year": "2006",
-      "journal": "Geomatic Workbooks",
-      "volume": "6",
-      "number": "",
-      "pages": "",
-      "publisher": "",
+      "editors": "G. Lock, and B. Molyneaux,",
+      "book section": "Confronting Scale in Archaeology: Issues of Theory and Practice",
+      "pages": "217-234",
+      "publisher": "New York: Springer",
       "url": "https://doi.org/",
-      "group": 0
-    },
+
+      "group": 0},
+
     {
       "id": "Bevan et al. 2014",
       "title": "Computer vision, archaeological classification and China’s terracotta warriors",
@@ -361,6 +385,19 @@
       "pages": "249–254",
       "publisher": "",
       "url": "https://doi.org/10.1016/j.jas.2014.05.014",
+      "group": 0
+    },
+    {
+      "id": "Bezzi et al. 2006",
+      "title": "L’utilizzo Di Voxel in Campo Archeologico.",
+      "authors": "Bezzi, A., L. Bezzi, D. Francisci, and R. Gietl.",
+      "year": "2006",
+      "journal": "Geomatic Workbooks",
+      "volume": "6",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
       "group": 0
     },
     {"id": "Binding et al. 2008",
@@ -398,6 +435,18 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "BRÜCK 2005",
+      "title": "Experiencing the past? The development of a phenomenological archaeology in British prehistory",
+      "authors": "BRÜCK, J.",
+      "year": "2005",
+      "journal": "Archaeological Dialogues",
+      "volume": "12",
+      "number": "1",
+      "pages": "45–72",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Callieri et al. 2011",
       "title": "Documentation and Interpretation of an Archeological Excavation: An Experience with Dense Stereo Reconstruction Tools.",
@@ -528,6 +577,14 @@
       "url": "http://www.shef.ac.uk/wassem/3/3chad.htm",
       "group": 0
     },
+    {"id": "CHAPMAN 2006",
+      "title": "Landscape Archaeology and GIS",
+      "authors": "CHAPMAN, H.",
+      "year": "2006",
+      "publisher": "Stroud: Tempus",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Clark 2000",
       "title": "Post-excavation analysis: moving from the context to the phase",
@@ -909,7 +966,7 @@
       "group": 0
     },
     {
-      "id": "Doneus et al. 2011",
+      "id": "Doneus et al. 2011a",
       "title": "From deposit to point cloud – a study of lowcost computer vision approaches for the straightforward documentation of archaeological excavations",
       "authors": "Doneus, M., Verhoeven, G., Fera, M., Briese, C., Kucera, M., & Neubauer, W.",
       "year": "2011",
@@ -921,6 +978,17 @@
       "url": "https://doi.org/10.14311/gi.6.11",
       "group": 0
     },
+    {"id": "Doneus et al. 2011b",
+      "title": "From deposit to point cloud: a study of low-cost computer vision approaches for the straightforward documentation of archaeological excavations",
+      "authors": "DONEUS, M., G.J.J. VERHOEVEN, M. FERA, C. BRIESE, M. KUCERA & W. NEUBAUER",
+      "year": "2011",
+      "editors": "",
+      "book section": "Geoinformatics 6 XXIIIrd International CIPA Symposium, Prague: Faculty of Civil Engineering, Czech Technical University",
+      "pages": "81–88",
+      "publisher": "",
+      "url": "http://geoinformatics.fsv.cvut.cz/pdf/geoinformaticsfce-ctu-2011-06.pdf",
+
+      "group": 0},
     {
       "id": "Doneus et al. 2020",
       "title": "Archaeological ground point filtering of airborne laser scan derived point clouds in a difficult mediterranean environment",
@@ -1011,8 +1079,23 @@
       "url": "http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf",
       "group": 0
     },
+    {"id": "ESRI 2010",
+      "title": "What’s new in ArcGIS 3D Analyst 10",
+      "authors": "ESRI",
+      "year": "2010",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "http://help.arcgis.com/en/arcgisdesktop/10. 0/help/index.html#//00qp0000000z000000.htm",
+
+      "group": 0},
+
+
+
     {
-      "id": "ESRI 2012",
+      "id": "ESRI 2012a",
       "title": "The multipatch geometry type – An ESRI white paper December 2008",
       "authors": "ESRI",
       "year": "2012",
@@ -1024,6 +1107,18 @@
       "url": "http://www.esri.com/library/whitepapers/pdfs/multipatch-geometry-type.pdf",
       "group": 0
     },
+    {"id": "ESRI 2012b",
+      "title": "Introduction to editing in 3D",
+      "authors": "",
+      "year": "",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//00q80000003n000000",
+
+      "group": 0},
     {
       "id": "ESRI City Engine 2013",
       "title": "Esri CityEngine 2013 brings powerful modeling to your favorite 3D applications",
@@ -1037,6 +1132,30 @@
       "url": "http://www.esri.com/esri-news/releases/13-4qtr/esri-cityengine-2013-brings-powerful-modeling-to-your-favorite-3d-applications",
       "group": 0
     },
+    {"id": "ESRI 2013",
+      "title": "Working with ArcGlobe and ArcScene",
+      "authors": "ESRI",
+      "year": "2013",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "http://resources.arcgis.com/en/help/main/10.1/index.html#//00q8000000sv000000",
+
+      "group": 0},
+      {"id": "ESRI 2004",
+        "title": "Intervisibility (3D Analyst)",
+        "authors": "ESRI",
+        "year": "2004",
+        "journal": "",
+        "volume": "",
+        "number": "",
+        "pages": "",
+        "publisher": "",
+        "url": "http://resources.arcgis.com/en/help/main/10.2/index.html#//00q9000000nn000000",
+
+        "group": 0},
     {
       "id": "Eve 2012",
       "title": "Augmenting phenomenology: using augmented reality to aid archaeological phenomenology in the landscape",
@@ -1089,6 +1208,14 @@
       "url": "https://doi.org/10.1068/b220257",
       "group": 0
     },
+    {"id": "FEEMSTER JASHEMSKI & MEYER 2002",
+      "title": "The natural history of Pompeii",
+      "authors": "FEEMSTER JASHEMSKI, W. AND MEYER, F.G.",
+      "year": "2002",
+      "publisher": "Cambridge University Press",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Fisher-Gewirtzman et al. 2013",
       "title": "Voxel Based Volumetric Visibility Analysis of Urban Environments",
@@ -1940,18 +2067,7 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {
-      "id": "Landeschi et al. 2015b",
-      "title": "Enhanced 3D-GIS: documenting InsulaV 1 in Pompeii",
-      "authors": "Landeschi, G., Dell’Unto, N., Ferdani, D., and Lindgren,S.",
-      "year": "2015",
-      "editors": "Gilligny, F., Djindjian, F., Costa,L., Monscati, P., and Robert, S.",
-      "book section": "CAA2014. 21stCentury Archaeology. Concepts, Methods and Tools. Proceedings of the 42nd Annual Conference on Computer Applications and Quantitative Methods in Archaeology",
-      "pages": "349–360",
-      "publisher": "Oxford: Archaeopress",
-      "url": "https://doi.org/10.1016/j.jasrep.2016.11.012",
-      "group": 0
-    },
+
     {
       "id": "Landeschi et al. 2016a",
       "title": "3D-GIS as a platform for visual analysis: Investigating a Pompeian house",
@@ -3733,7 +3849,7 @@
     },
     {
       "source": "Nobles & Roosevelt 2021",
-      "target": "Doneus et al. 2011",
+      "target": "Doneus et al. 2011a",
       "value": 1
     },
     {
@@ -3748,7 +3864,7 @@
     },
     {
       "source": "Nobles & Roosevelt 2021",
-      "target": "ESRI 2012",
+      "target": "ESRI 2012a",
       "value": 1
     },
     {
@@ -4203,7 +4319,7 @@
     },
     {
       "source": "van Leusen & Nobles 2018",
-      "target": "Landeschi et al. 2015b",
+      "target": "Landeschi et al. 2015",
       "value": 1
     },
     {
@@ -4398,7 +4514,7 @@
     },
     {
       "source": "Landeschi 2019b",
-      "target": "ESRI 2012",
+      "target": "ESRI 2012a",
       "value": 1
     },
     {
@@ -5354,6 +5470,94 @@
     {
       "source": "Jensen 2018a",
       "target": "Yu et al. 2011",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "ALLISON 1997",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Barceló et al. 2003",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "BEVAN & CONOLLY 2006",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "BRÜCK 2005",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Callieri et al. 2011",
+      "value": 1
+    }
+    ,
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "CHAPMAN 2006",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Conolly & Lake 2006",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Dellepiane et al. 2013",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Dell’Unto 2014",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Dell’Unto et al. 2015",
+      "value": 1
+    }
+    ,
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Dell’Unto et al. 2013",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Doneus et al. 2011b",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "ESRI 2012a",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "ESRI 2012b",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "ESRI 2013",
+      "value": 1
+    }
+    ,
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "FEEMSTER JASHEMSKI & MEYER 2002",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Forte et al. 2012",
       "value": 1
     }
   ]

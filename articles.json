@@ -1334,6 +1334,41 @@
     },
 
 
+
+    {"id": "FOSS 1997",
+      "title": "Watchful Lares: Roman Household Organization and the Rituals of Cooking and Dining",
+      "authors": "FOSS, P.",
+      "year": "1997",
+      "editors": "R. Laurence and A. Wallace-Hadrill",
+      "book section": "Domestic Space in the Roman World: Pompeii and Beyond.",
+      "pages": "196-218",
+      "publisher": "Journal of Roman Archaeology Supplementary Series",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+
+      {"id": "FOSS & DOBBINS 2007",
+        "title": "The World of Pompeii",
+        "authors": "FOSS, P.W. AND DOBBINS, J.J.",
+        "year": "2007",
+        "publisher": "London: Routledge",
+        "url": "https://doi.org/",
+
+        "group": 0},
+
+        {"id": "FRISCHER 2008",
+          "title": "From Digital Illustration to Digital Heuristics",
+          "authors": "FRISCHER, B.",
+          "year": "2008",
+          "editors": "Frischerand A. Dakouri-Hild",
+          "book section": "Beyond Illustration. 2D and 3D Digital Technologies as Tools for Discovery in Archaeology",
+          "pages": "5-24",
+          "publisher": "Oxford: Archaeopress",
+          "url": "https://doi.org/",
+
+          "group": 0},
+
     {"id": "Galeazzi, F. 2014",
       "title": "ADS 3D Viewer. A 3D Real-Time System for the Management and Analysis of Archaeological Data",
       "authors": "Galeazzi, F.",
@@ -1366,6 +1401,21 @@
       "url": "https://doi.org/",
       "group": 0
     },
+
+
+    {"id": "GEORGE 1999",
+      "title": "Repopulating the Roman House",
+      "authors": "GEORGE, M.",
+      "year": "1999",
+      "editors": "B. Rawson and P. Weaver",
+      "book section": "The Roman Family in Italy: Status, Sentiment, Space",
+      "pages": "299-319",
+      "publisher": "Oxford University Press",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+
     {
       "id": "Gibson 1977",
       "title": "Perceiving, Acting, and Knowing: Toward an Ecological Psychology",
@@ -1430,6 +1480,17 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "GOODCHILD 1995",
+      "title": "Geographic Information Systems and geographic research",
+      "authors": "GOODCHILD, M.F.",
+      "year": "1995",
+      "editors": "J. Pickels",
+      "book section": "Ground truth",
+      "pages": "31-50",
+      "publisher": "The Guilford Press: New York",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Goodchild & Janelle 2010",
       "title": "Toward critical spatial thinking in the social sciences and humanities",
@@ -1465,6 +1526,17 @@
       "url": "https://doi.org/10.1080/00438243.1997.9980371",
       "group": 0
     },
+    {"id": "GRAHAME 1997",
+      "title": "Public and private in the Roman house: the spatial order of the Casa del Fauno",
+      "authors": "GRAHAME, M.",
+      "year": "1997",
+      "editors": "R. Laurence and A. Wallace-Hadrill",
+      "book section": "Domestic Space in the Roman World and Beyond. Journal of Roman Archaeology, Supplementary Series",
+      "pages": "137-164",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "GRASS Development Team 2008–2012",
       "title": "3D Raster data(voxel) in GRASS GIS. [version 6.4]",
@@ -1936,6 +2008,24 @@
       "url": "https://doi.org/10.1016/j.jas.2007.06.002",
       "group": 6
     },
+
+
+    {"id": "KOEHL & LOTT 2008",
+      "title": "De la maquette 3D au SIG 3D pour la gestion du patrimoine archéologique",
+      "authors": "KOEHL, M. AND LOTT, C.",
+      "year": "2008",
+      "journal": "SIG 2008",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "http://www.esrifrance.fr/sig2008/insa_strasbourg.htm",
+
+      "group": 0},
+
+
+
+
     {
       "id": "Kotsakis 1989",
       "title": "RUNSECT: a computer program for the analysis of excavation data",
@@ -2055,6 +2145,33 @@
       "url": "https://doi.org/",
       "group": 0
     },
+
+    {"id": "LANDESCHI & CARROZZINO 2011",
+      "title": "Communicating Archaeological Risk with Web-Based Virtual Reality: A Case Study",
+      "authors": "LANDESCHI, G., AND CARROZZINO, M.",
+      "year": "2011",
+      "journal": "Internet Archaeology ",
+      "volume": "31",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "http://intarch.ac.uk/journal/issue31/landeschi-carrozzino_index.html",
+
+      "group": 0},
+
+    {"id": "LANDESCHI & CARROZZINO 2013",
+      "title": "Proceedings of the 38th Annual Conference on Computer Applications and Quantitative Methods in Archaeology – Granada",
+      "authors": "LANDESCHI, G. AND CARROZZINO, M.",
+      "year": "2013",
+      "editors": "F. Contreras, M. Farjas, F.J. Melero",
+      "book section": "A 3D model for detecting and communicating the archaeological risk",
+      "pages": "295-297",
+      "publisher": "Oxford: Archeopress",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+
     {
       "id": "Landeschi et al. 2015",
       "title": "Enhanced 3D-GIS: Documenting Insula V 1 in Pompeii",
@@ -2145,6 +2262,22 @@
       "url": "https://doi.org/",
       "group": 0
     },
+
+
+    {"id": "LEANDER TOUATI 2010",
+      "title": "Water, well-being and social complexity in Insula V 1. A Pompeian city block revisited",
+      "authors": "LEANDER TOUATI, A.M.",
+      "year": "2010",
+      "journal": "Opuscula",
+      "volume": "3",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+
     {
       "id": "Ledoux & Meijers 2011",
       "title": "Topologically consistent 3D city models obtained by extrusion",
@@ -2208,6 +2341,18 @@
       "url": "https://doi.org/10.1017/S0003598X00083745",
       "group": 0
     },
+    {"id": "LLOBERA 2003",
+      "title": "Extending GIS-based visual analysis: the concept of visualscapes",
+      "authors": "LLOBERA, M.",
+      "year": "2003",
+      "journal": "International Journal of Geographical Information Science",
+      "volume": "17",
+      "number": "1",
+      "pages": "25-48",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Llobera et al. 2007",
       "title": "Calculating the inherent visual structure of a landscape (‘total viewshed’) using high-throughput computing",
@@ -2732,6 +2877,22 @@
       "url": "https://opendatacharter.net/",
       "group": 0
     },
+
+
+    {"id": "OPITZ & NOWLIN 2012",
+      "title": "Photogrammetric modeling + GIS. Better methods for working with mesh data",
+      "authors": "OPITZ, R., AND NOWLIN, J.",
+      "year": "",
+      "journal": "ArcUser",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "http://www.esri.com/news/arcuser/0312/files/archaeologyinventory.pdf",
+
+      "group": 0},
+
+
     {
       "id": "Opitz 2015",
       "title": "Three dimensional field recording in archaeology: An example from Gabii",
@@ -3074,6 +3235,18 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "RENFREW 1993",
+      "title": "Cognitive archaeology: some thoughts on the archaeology of thought.",
+      "authors": "RENFREW, C.",
+      "year": "1993",
+      "journal": "Cambridge Archaeological Journal",
+      "volume": "3",
+      "number": "2",
+      "pages": "248-250",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Richards-Rissetto et al. 2012",
       "title": "Kinect and 3D GIS in archaeology",
@@ -3258,6 +3431,18 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "STAUB 2009",
+      "title": "Decorative effects and room functions. Evidence of thresholds studied in the residential quarters of Insula V 1, Pompeii",
+      "authors": "STAUB, T.",
+      "year": "2009",
+      "journal": "Opuscula",
+      "volume": "2",
+      "number": "",
+      "pages": "205-218",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Stoter & Zlatanova 2003a",
       "title": "3D GIS, where are we standing?",
@@ -3321,19 +3506,7 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {
-      "id": "Tosteberg 2017",
-      "title": "Semantic segmentation of point clouds using deep learning [MA thesis]",
-      "authors": "Tosteberg, P.",
-      "year": "2017",
-      "journal": "",
-      "volume": "",
-      "number": "",
-      "pages": "",
-      "publisher": "Linköping University, Sweden",
-      "url": "https://doi.org/",
-      "group": 0
-    },
+
     {
       "id": "Smith & Friedman 2004",
       "title": "A Technology Whose Time Has Come",
@@ -3344,6 +3517,19 @@
       "number": "",
       "pages": "",
       "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Tosteberg 2017",
+      "title": "Semantic segmentation of point clouds using deep learning [MA thesis]",
+      "authors": "Tosteberg, P.",
+      "year": "2017",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "Linköping University, Sweden",
       "url": "https://doi.org/",
       "group": 0
     },
@@ -5558,6 +5744,110 @@
     {
       "source": "Landeschi et al. 2015",
       "target": "Forte et al. 2012",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "FOSS 1997",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "FRISCHER 2008",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "GEORGE 1999",
+      "value": 1
+    }
+    ,
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Gillings & Goodrick 1996",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "GOODCHILD 1995",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "GRAHAME 1997",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "KOEHL & LOTT 2008",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Lake et al. 1998",
+      "value": 1
+    }
+    ,
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "LANDESCHI & CARROZZINO 2013",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "LANDESCHI & CARROZZINO 2011",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "LEANDER TOUATI 2010",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "LLOBERA 2003",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Losier et al. 2007",
+      "value": 1
+    }
+    ,
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Merlo 2004",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "OPITZ & NOWLIN 2012",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Paliou & Knight 2013",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Paliou 2013",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "RENFREW 1993",
+      "value": 1
+    }
+    ,
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "STAUB 2009",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "Tilley 1994",
       "value": 1
     }
   ]

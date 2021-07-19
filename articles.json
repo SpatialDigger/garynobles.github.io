@@ -5660,6 +5660,11 @@
     },
     {
       "source": "Landeschi et al. 2015",
+      "target": "ALLEN et al. 2004",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
       "target": "ALLISON 1997",
       "value": 1
     },
@@ -5734,8 +5739,22 @@
       "source": "Landeschi et al. 2015",
       "target": "ESRI 2013",
       "value": 1
-    }
-    ,
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "ESRI 2004",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "ESRI 2010",
+      "value": 1
+    },
+    {
+      "source": "Landeschi et al. 2015",
+      "target": "FOSS & DOBBINS 2007",
+      "value": 1
+    },
     {
       "source": "Landeschi et al. 2015",
       "target": "FEEMSTER JASHEMSKI & MEYER 2002",

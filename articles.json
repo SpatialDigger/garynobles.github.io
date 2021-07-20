@@ -63,7 +63,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "ALLEN et al. 2004",
+    {
+      "id": "ALLEN et al. 2004",
       "title": "Seeing into the past: creating a 3D modeling pipeline for archaeological visualization",
       "authors": "ALLEN, P., FEINER, S., TROCCOLI, A., BENKO, H., ISHAK, E., AND SMITH, B.",
       "year": "2004",
@@ -72,22 +73,20 @@
       "pages": "751-758",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-      {"id": "ALLISON 1997",
-        "title": "Artefact distribution and spatial function in Pompeian houses",
-        "authors": "ALLISON, P.M.",
-        "year": "1997",
-        "editors": "B. Rawson and P. Weaver",
-        "book section": "The Roman family in Italy: Status, sentiment and space",
-        "pages": "321-354",
-        "publisher": "Oxford: Clarendon Press",
-        "url": "https://doi.org/",
-
-        "group": 0},
-
-
+      "group": 0
+    },
+    {
+      "id": "ALLISON 1997",
+      "title": "Artefact distribution and spatial function in Pompeian houses",
+      "authors": "ALLISON, P.M.",
+      "year": "1997",
+      "editors": "B. Rawson and P. Weaver",
+      "book section": "The Roman family in Italy: Status, sentiment and space",
+      "pages": "321-354",
+      "publisher": "Oxford: Clarendon Press",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Alvey 1989",
       "title": "Hindsite",
@@ -113,7 +112,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Andersen 1956",
+    {
+      "id": "Andersen 1956",
       "title": "Afsked Med Ådalen",
       "authors": "Andersen, H.",
       "year": "1956",
@@ -123,8 +123,8 @@
       "pages": "7-22",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Apel 2004",
       "title": "A 3d geoscience information system framework",
@@ -134,7 +134,8 @@
       "url": "http://www.gocad.org/www/people/files/thesis_marcus_apel.pdf",
       "group": 0
     },
-    {"id": "Apollonio et al. 2012",
+    {
+      "id": "Apollonio et al. 2012",
       "title": "3D Reality-Based Artefact Models for the Management of Archaeological Sites Using 3D GIS: A Framework Starting from the Case Study of the Pompeii Archaeological Area.",
       "authors": "Apollonio, F. I., M. Gaiani, and B. Benedetti.",
       "year": "2012",
@@ -144,23 +145,23 @@
       "pages": "1271–1287",
       "publisher": "",
       "url": "https://doi.org/10.1016/j.jas.2011.12.034",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Appadurai 1996",
       "title": "Modernity at large cultural dimensions of globalization",
       "publisher": "Minneapolis: University of Minnesota Press",
       "group": 0
     },
-    {"id": "Archaeology Data Service 2015",
+    {
+      "id": "Archaeology Data Service 2015",
       "title": "Digital Antiquity Guides to Good Practice.",
       "authors": "Archaeology Data Service",
       "year": "2015",
       "publisher": "",
       "url": "http://guides.archaeologydataservice.ac.uk/g2gp/LaserScan_3-1",
-
-      "group": 0},
-
+      "group": 0
+    },
     {
       "id": "Arroyo-Bishop & Lantada Zarzosa 1995",
       "title": "To be or not to be: will an object-space-time GIS/AIS become a scientific reality or end up an archaeological entity?",
@@ -173,7 +174,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Auer 2012",
+    {
+      "id": "Auer 2012",
       "title": "Real-Time Web GIS Analysis Using WebGL",
       "authors": "Auer, M.",
       "year": "2012",
@@ -183,22 +185,21 @@
       "pages": "1-13",
       "publisher": "",
       "url": "https://doi.org/10.4018/ij3dim.2012070105",
-
-      "group": 0},
-
-      {"id": "Auer et al. 2014",
-        "title": "Web-Based Visualization and Query of Semantically Segmented Multiresolution 3D Models in the Field of Cultural Heritage.",
-        "authors": "Auer, M., G. Agugiaro, N. Billen, L. Loos, and A. Zipf",
-        "year": "2014",
-        "journal": "ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences",
-        "volume": "II-5",
-        "number": "",
-        "pages": "33–39",
-        "publisher": "",
-        "url": "https://doi.org/",
-
-        "group": 0},
-
+      "group": 0
+    },
+    {
+      "id": "Auer et al. 2014",
+      "title": "Web-Based Visualization and Query of Semantically Segmented Multiresolution 3D Models in the Field of Cultural Heritage.",
+      "authors": "Auer, M., G. Agugiaro, N. Billen, L. Loos, and A. Zipf",
+      "year": "2014",
+      "journal": "ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences",
+      "volume": "II-5",
+      "number": "",
+      "pages": "33–39",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Avern & Franssens 2012",
       "title": "A digital drawing tool for recording excavations: The Nikon iSpace System.",
@@ -260,7 +261,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Bateman 2006",
+    {
+      "id": "Bateman 2006",
       "title": "Pictures, Ideas, and Things: The Production and Currency of Archaeological Images",
       "authors": "Bateman, J.",
       "year": "2006",
@@ -269,48 +271,44 @@
       "pages": "68–80",
       "publisher": "Lanham: AltaMira Press",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-
-      {"id": "Bateman 2008",
-        "title": "Wearing Juninho’s Shirt: Record and Negotiation in Excavation Photographs",
-        "authors": "Bateman, J.",
-        "year": "2008",
-        "editors": "S. Smiles and S. Moser",
-        "book section": "Envisioning the Past: Archaeology and the Image",
-        "pages": "192–203",
-        "publisher": "Malden, MA: Blackwell",
-        "url": "https://doi.org/",
-
-        "group": 0},
-
-
-        {"id": "Benko et al. 2003",
-          "title": "Collaborative Visualization of an Archaeological Excavation",
-          "authors": "Benko, H., E. Ishak, and S. Feiner.",
-          "year": "2003",
-          "editors": "",
-          "book section": "NSF Lake Tahoe Workshop on Collaborative Virtual Reality and Visualization (CVEV 2003), October",
-          "pages": "132–140",
-          "publisher": "",
-          "url": "https://doi.org/",
-
-          "group": 0},
-
-          {"id": "Benko et al. 2004",
-            "title": "Collaborative Mixed Reality Visualization of an Archaeological Excavation",
-            "authors": "Benko, H., E. Ishak, and S. Feiner",
-            "year": "2004",
-            "editors": "",
-            "book section": "Proceedings of the International Symposium on Mixed and Augmented Reality (ISMAR ‘04), November",
-            "pages": "132-140",
-            "publisher": "",
-            "url": "https://doi.org/",
-
-            "group": 0},
-
-
+      "group": 0
+    },
+    {
+      "id": "Bateman 2008",
+      "title": "Wearing Juninho’s Shirt: Record and Negotiation in Excavation Photographs",
+      "authors": "Bateman, J.",
+      "year": "2008",
+      "editors": "S. Smiles and S. Moser",
+      "book section": "Envisioning the Past: Archaeology and the Image",
+      "pages": "192–203",
+      "publisher": "Malden, MA: Blackwell",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Benko et al. 2003",
+      "title": "Collaborative Visualization of an Archaeological Excavation",
+      "authors": "Benko, H., E. Ishak, and S. Feiner.",
+      "year": "2003",
+      "editors": "",
+      "book section": "NSF Lake Tahoe Workshop on Collaborative Virtual Reality and Visualization (CVEV 2003), October",
+      "pages": "132–140",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Benko et al. 2004",
+      "title": "Collaborative Mixed Reality Visualization of an Archaeological Excavation",
+      "authors": "Benko, H., E. Ishak, and S. Feiner",
+      "year": "2004",
+      "editors": "",
+      "book section": "Proceedings of the International Symposium on Mixed and Augmented Reality (ISMAR ‘04), November",
+      "pages": "132-140",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Berggren et al. 2015",
       "title": "Revisiting reflexive archaeology at Çatalhöyük: Integrating digital and 3D technologies at the trowel’s edge",
@@ -362,7 +360,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "BEVAN & CONOLLY 2006",
+    {
+      "id": "BEVAN & CONOLLY 2006",
       "title": "Multi-scalar approaches to settlement pattern analysis",
       "authors": "BEVAN, A. AND CONOLLY, J.",
       "year": "2006",
@@ -371,9 +370,8 @@
       "pages": "217-234",
       "publisher": "New York: Springer",
       "url": "https://doi.org/",
-
-      "group": 0},
-
+      "group": 0
+    },
     {
       "id": "Bevan et al. 2014",
       "title": "Computer vision, archaeological classification and China’s terracotta warriors",
@@ -400,7 +398,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Binding et al. 2008",
+    {
+      "id": "Binding et al. 2008",
       "title": "Semantic Interoperability in Archaeological Datasets: Data Mapping and Extraction via the CIDOC CRM.",
       "authors": "Binding, C., K. May, and D. Tudhope.",
       "year": "2008",
@@ -409,20 +408,20 @@
       "pages": "280–290",
       "publisher": "Berlin: Springer",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-      {"id": "Bobowski 1991",
-        "title": "Hybrid 3D Visualisations of Archaeological Sites: Dynamic 3D Visualisations of Harris Matrix Data for Rescue Town Excavations, Gdańsk / Szafarnia Site, Poland.",
-        "authors": "Bobowski, B., K. Walczak, and M. Stawniak",
-        "year": "1991",
-        "editors": "A. Posluschny, K. Lambers, and I. Herzog",
-        "book section": "Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA)",
-        "pages": "1–5",
-        "publisher": "Bonn: Kolloquien zur Vor und Frühgeschichte 10",
-        "url": "https://doi.org/",
-
-        "group": 0},
+      "group": 0
+    },
+    {
+      "id": "Bobowski 1991",
+      "title": "Hybrid 3D Visualisations of Archaeological Sites: Dynamic 3D Visualisations of Harris Matrix Data for Rescue Town Excavations, Gdańsk / Szafarnia Site, Poland.",
+      "authors": "Bobowski, B., K. Walczak, and M. Stawniak",
+      "year": "1991",
+      "editors": "A. Posluschny, K. Lambers, and I. Herzog",
+      "book section": "Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA)",
+      "pages": "1–5",
+      "publisher": "Bonn: Kolloquien zur Vor und Frühgeschichte 10",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Breunig et al. 1995",
       "title": "‘Implementation of elementary geometric database operations for a 3D-GIS’",
@@ -435,7 +434,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "BRÜCK 2005",
+    {
+      "id": "BRÜCK 2005",
       "title": "Experiencing the past? The development of a phenomenological archaeology in British prehistory",
       "authors": "BRÜCK, J.",
       "year": "2005",
@@ -445,8 +445,8 @@
       "pages": "45–72",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Callieri et al. 2011",
       "title": "Documentation and Interpretation of an Archeological Excavation: An Experience with Dense Stereo Reconstruction Tools.",
@@ -522,24 +522,24 @@
       "url": "https://doi.org/10.5194/isprsarchives-XL-5-W2-155-2013",
       "group": 0
     },
-    {"id": "Carver 2009",
+    {
+      "id": "Carver 2009",
       "title": "Archaeological Investigation",
       "authors": "Carver, M.",
       "year": "2009",
       "publisher": "Boca Raton: Taylor & Francis",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-      {"id": "Carver 2015",
-        "title": "Field Archaeology From Around the World. Ideas and Approaches",
-        "authors": "Carver, M., B. Gaydarska, and S. Monton-Subias. ",
-        "year": "2015",
-        "publisher": "Switzerland: Springer International Publishing",
-        "url": "https://doi.org/",
-
-        "group": 0},
-
+      "group": 0
+    },
+    {
+      "id": "Carver 2015",
+      "title": "Field Archaeology From Around the World. Ideas and Approaches",
+      "authors": "Carver, M., B. Gaydarska, and S. Monton-Subias. ",
+      "year": "2015",
+      "publisher": "Switzerland: Springer International Publishing",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Castleford 1992",
       "title": "Archaeology, GIS and the time dimension: an overview",
@@ -577,14 +577,15 @@
       "url": "http://www.shef.ac.uk/wassem/3/3chad.htm",
       "group": 0
     },
-    {"id": "CHAPMAN 2006",
+    {
+      "id": "CHAPMAN 2006",
       "title": "Landscape Archaeology and GIS",
       "authors": "CHAPMAN, H.",
       "year": "2006",
       "publisher": "Stroud: Tempus",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Clark 2000",
       "title": "Post-excavation analysis: moving from the context to the phase",
@@ -852,8 +853,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-
-    {"id": "Dell’Unto 2016",
+    {
+      "id": "Dell’Unto 2016",
       "title": "Using 3D GIS Platforms to Analyse and Interpret the Past.",
       "authors": "Dell’Unto, N.",
       "year": "2016",
@@ -862,9 +863,8 @@
       "pages": "305–322",
       "publisher": "Switzerland: Springer International Publishing",
       "url": "https://doi.org/",
-
-      "group": 0},
-
+      "group": 0
+    },
     {
       "id": "Dell’Unto et al. 2015",
       "title": "Experiencing Ancient Buildings from A 3D GIS Perspective: A Case Drawn from the Swedish Pompeii Project",
@@ -978,7 +978,8 @@
       "url": "https://doi.org/10.14311/gi.6.11",
       "group": 0
     },
-    {"id": "Doneus et al. 2011b",
+    {
+      "id": "Doneus et al. 2011b",
       "title": "From deposit to point cloud: a study of low-cost computer vision approaches for the straightforward documentation of archaeological excavations",
       "authors": "DONEUS, M., G.J.J. VERHOEVEN, M. FERA, C. BRIESE, M. KUCERA & W. NEUBAUER",
       "year": "2011",
@@ -987,8 +988,8 @@
       "pages": "81–88",
       "publisher": "",
       "url": "http://geoinformatics.fsv.cvut.cz/pdf/geoinformaticsfce-ctu-2011-06.pdf",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Doneus et al. 2020",
       "title": "Archaeological ground point filtering of airborne laser scan derived point clouds in a difficult mediterranean environment",
@@ -1015,9 +1016,8 @@
       "url": "https://doi.org/10.7183/2326-3768.3.2.136",
       "group": 0
     },
-
-
-    {"id": "Ducke et al. 2011",
+    {
+      "id": "Ducke et al. 2011",
       "title": "Multiview 3D Reconstruction of the Archaeological Site at Weymouth from Image Series",
       "authors": "Ducke, B., D. Score, and J. Reeves.",
       "year": "2011",
@@ -1027,10 +1027,8 @@
       "pages": "375–382",
       "publisher": "",
       "url": "https://doi.org/10.1016/j.cag.2011.01.006",
-
-      "group": 0},
-
-
+      "group": 0
+    },
     {
       "id": "Dykes et al. 2005",
       "title": "Exploring Geovisualization",
@@ -1079,7 +1077,8 @@
       "url": "http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf",
       "group": 0
     },
-    {"id": "ESRI 2010",
+    {
+      "id": "ESRI 2010",
       "title": "What’s new in ArcGIS 3D Analyst 10",
       "authors": "ESRI",
       "year": "2010",
@@ -1089,11 +1088,8 @@
       "pages": "",
       "publisher": "",
       "url": "http://help.arcgis.com/en/arcgisdesktop/10. 0/help/index.html#//00qp0000000z000000.htm",
-
-      "group": 0},
-
-
-
+      "group": 0
+    },
     {
       "id": "ESRI 2012a",
       "title": "The multipatch geometry type – An ESRI white paper December 2008",
@@ -1107,7 +1103,8 @@
       "url": "http://www.esri.com/library/whitepapers/pdfs/multipatch-geometry-type.pdf",
       "group": 0
     },
-    {"id": "ESRI 2012b",
+    {
+      "id": "ESRI 2012b",
       "title": "Introduction to editing in 3D",
       "authors": "",
       "year": "",
@@ -1117,8 +1114,8 @@
       "pages": "",
       "publisher": "",
       "url": "http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//00q80000003n000000",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "ESRI City Engine 2013",
       "title": "Esri CityEngine 2013 brings powerful modeling to your favorite 3D applications",
@@ -1132,7 +1129,8 @@
       "url": "http://www.esri.com/esri-news/releases/13-4qtr/esri-cityengine-2013-brings-powerful-modeling-to-your-favorite-3d-applications",
       "group": 0
     },
-    {"id": "ESRI 2013",
+    {
+      "id": "ESRI 2013",
       "title": "Working with ArcGlobe and ArcScene",
       "authors": "ESRI",
       "year": "2013",
@@ -1142,20 +1140,21 @@
       "pages": "",
       "publisher": "",
       "url": "http://resources.arcgis.com/en/help/main/10.1/index.html#//00q8000000sv000000",
-
-      "group": 0},
-      {"id": "ESRI 2004",
-        "title": "Intervisibility (3D Analyst)",
-        "authors": "ESRI",
-        "year": "2004",
-        "journal": "",
-        "volume": "",
-        "number": "",
-        "pages": "",
-        "publisher": "",
-        "url": "http://resources.arcgis.com/en/help/main/10.2/index.html#//00q9000000nn000000",
-
-        "group": 0},
+      "group": 0
+    },
+    {
+      "id": "ESRI 2004",
+      "title": "Intervisibility (3D Analyst)",
+      "authors": "ESRI",
+      "year": "2004",
+      "journal": "",
+      "volume": "",
+      "number": "",
+      "pages": "",
+      "publisher": "",
+      "url": "http://resources.arcgis.com/en/help/main/10.2/index.html#//00q9000000nn000000",
+      "group": 0
+    },
     {
       "id": "Eve 2012",
       "title": "Augmenting phenomenology: using augmented reality to aid archaeological phenomenology in the landscape",
@@ -1208,14 +1207,15 @@
       "url": "https://doi.org/10.1068/b220257",
       "group": 0
     },
-    {"id": "FEEMSTER JASHEMSKI & MEYER 2002",
+    {
+      "id": "FEEMSTER JASHEMSKI & MEYER 2002",
       "title": "The natural history of Pompeii",
       "authors": "FEEMSTER JASHEMSKI, W. AND MEYER, F.G.",
       "year": "2002",
       "publisher": "Cambridge University Press",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Fisher-Gewirtzman et al. 2013",
       "title": "Voxel Based Volumetric Visibility Analysis of Urban Environments",
@@ -1254,19 +1254,15 @@
       "url": "https://doi.org/",
       "group": 0
     },
-
-
-    {"id": "Forte 2010",
+    {
+      "id": "Forte 2010",
       "title": "Cyberarchaeology",
       "authors": "M. Forte",
       "year": "2010",
       "publisher": "BAR International Series 2177",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-
-
+      "group": 0
+    },
     {
       "id": "Forte 2014",
       "title": "3D archaeology: New perspectives and challenges – The example of Çatalhöyük",
@@ -1293,8 +1289,8 @@
       "url": "https://doi.org/10.1260/2047-4970.1.3.351",
       "group": 0
     },
-
-    {"id": "Forte et al. 2015",
+    {
+      "id": "Forte et al. 2015",
       "title": "Interpretation Process at Çatalhöyük Using 3D",
       "authors": "Forte, M., N. Dell’Unto, K. Jonsson, and N. Lercari",
       "year": "2015",
@@ -1303,9 +1299,8 @@
       "pages": "43–57",
       "publisher": "London: Taylor & Francis",
       "url": "https://doi.org/",
-
-      "group": 0},
-
+      "group": 0
+    },
     {
       "id": "Forte & Siliotti 1997",
       "title": "Virtual Archaeology: Re-Creating Ancient Worlds",
@@ -1345,10 +1340,8 @@
       "url": "http://www.jstor.org/stable/40026479",
       "group": 0
     },
-
-
-
-    {"id": "FOSS 1997",
+    {
+      "id": "FOSS 1997",
       "title": "Watchful Lares: Roman Household Organization and the Rituals of Cooking and Dining",
       "authors": "FOSS, P.",
       "year": "1997",
@@ -1357,54 +1350,51 @@
       "pages": "196-218",
       "publisher": "Journal of Roman Archaeology Supplementary Series",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-
-      {"id": "FOSS & DOBBINS 2007",
-        "title": "The World of Pompeii",
-        "authors": "FOSS, P.W. AND DOBBINS, J.J.",
-        "year": "2007",
-        "publisher": "London: Routledge",
-        "url": "https://doi.org/",
-
-        "group": 0},
-
-        {"id": "FRISCHER 2008",
-          "title": "From Digital Illustration to Digital Heuristics",
-          "authors": "FRISCHER, B.",
-          "year": "2008",
-          "editors": "Frischerand A. Dakouri-Hild",
-          "book section": "Beyond Illustration. 2D and 3D Digital Technologies as Tools for Discovery in Archaeology",
-          "pages": "5-24",
-          "publisher": "Oxford: Archaeopress",
-          "url": "https://doi.org/",
-
-          "group": 0},
-
-    {"id": "Galeazzi, F. 2014",
+      "group": 0
+    },
+    {
+      "id": "FOSS & DOBBINS 2007",
+      "title": "The World of Pompeii",
+      "authors": "FOSS, P.W. AND DOBBINS, J.J.",
+      "year": "2007",
+      "publisher": "London: Routledge",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "FRISCHER 2008",
+      "title": "From Digital Illustration to Digital Heuristics",
+      "authors": "FRISCHER, B.",
+      "year": "2008",
+      "editors": "Frischerand A. Dakouri-Hild",
+      "book section": "Beyond Illustration. 2D and 3D Digital Technologies as Tools for Discovery in Archaeology",
+      "pages": "5-24",
+      "publisher": "Oxford: Archaeopress",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Galeazzi, F. 2014",
       "title": "ADS 3D Viewer. A 3D Real-Time System for the Management and Analysis of Archaeological Data",
       "authors": "Galeazzi, F.",
       "year": "2014",
       "publisher": "",
       "url": "http://archaeologydataservice.ac.uk/research/3D_Viewer",
-
-      "group": 0},
-
-      {"id": "Galeazzi et al. 2016",
-        "title": "Web-Based Visualization for 3D Data in Archaeology: The ADS 3D Viewer",
-        "authors": "Galeazzi, F., M. Callieri, M. Dellepiane, M. Charno, J. Richards, and R. Scopigno.",
-        "year": "2-16",
-        "journal": "Journal of Archaeological Science: Reports",
-        "volume": "9",
-        "number": "",
-        "pages": "1-11",
-        "publisher": "",
-        "url": "https://doi.org/10.1016/j.jasrep.2016.06.045",
-
-        "group": 0},
-
-
+      "group": 0
+    },
+    {
+      "id": "Galeazzi et al. 2016",
+      "title": "Web-Based Visualization for 3D Data in Archaeology: The ADS 3D Viewer",
+      "authors": "Galeazzi, F., M. Callieri, M. Dellepiane, M. Charno, J. Richards, and R. Scopigno.",
+      "year": "2-16",
+      "journal": "Journal of Archaeological Science: Reports",
+      "volume": "9",
+      "number": "",
+      "pages": "1-11",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.jasrep.2016.06.045",
+      "group": 0
+    },
     {
       "id": "Gavryushkina 2018",
       "title": "Layer by (3D) Layer 3D GIS stratigraphic analysis of chlorakas-palloures, cyprus [MA thesis]",
@@ -1414,9 +1404,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-
-
-    {"id": "GEORGE 1999",
+    {
+      "id": "GEORGE 1999",
       "title": "Repopulating the Roman House",
       "authors": "GEORGE, M.",
       "year": "1999",
@@ -1425,10 +1414,8 @@
       "pages": "299-319",
       "publisher": "Oxford University Press",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-
+      "group": 0
+    },
     {
       "id": "Gibson 1977",
       "title": "Perceiving, Acting, and Knowing: Toward an Ecological Psychology",
@@ -1493,7 +1480,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "GOODCHILD 1995",
+    {
+      "id": "GOODCHILD 1995",
       "title": "Geographic Information Systems and geographic research",
       "authors": "GOODCHILD, M.F.",
       "year": "1995",
@@ -1502,8 +1490,8 @@
       "pages": "31-50",
       "publisher": "The Guilford Press: New York",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Goodchild & Janelle 2010",
       "title": "Toward critical spatial thinking in the social sciences and humanities",
@@ -1539,7 +1527,8 @@
       "url": "https://doi.org/10.1080/00438243.1997.9980371",
       "group": 0
     },
-    {"id": "GRAHAME 1997",
+    {
+      "id": "GRAHAME 1997",
       "title": "Public and private in the Roman house: the spatial order of the Casa del Fauno",
       "authors": "GRAHAME, M.",
       "year": "1997",
@@ -1548,8 +1537,8 @@
       "pages": "137-164",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "GRASS Development Team 2008–2012",
       "title": "3D Raster data(voxel) in GRASS GIS. [version 6.4]",
@@ -1613,7 +1602,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Hansen 1992",
+    {
+      "id": "Hansen 1992",
       "title": "Content, Use and Perspectives of DKC, the Danish National Record of Sites and Monuments",
       "authors": "Hansen, H. J.",
       "year": "1992",
@@ -1622,8 +1612,8 @@
       "pages": "23–42",
       "publisher": "Copenhagen: Nationalmuseet",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Harding et al. 2002",
       "title": "A Multi-Sensory System for the Investigation of Geoscientific Data",
@@ -1646,7 +1636,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Harris 1989",
+    {
+      "id": "Harris 1989",
       "title": "Principles of Archaeological Stratigraphy",
       "authors": "Harris, E.",
       "year": "",
@@ -1656,8 +1647,8 @@
       "pages": "",
       "publisher": "London: Academic Press Limited",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Harris & Lock 1995",
       "title": "Toward an Evaluation of GIS in European Archaeology: The Past, Present and Future of Theory and Applications",
@@ -1683,29 +1674,28 @@
       "url": "https://github.com/heremaps/pptk",
       "group": 0
     },
-    {"id": "Hertz & Holst 2015",
+    {
+      "id": "Hertz & Holst 2015",
       "title": "Alken Enge—The Mass Grave at Lake Mossø",
       "authors": "Hertz, E., and M. Holst",
       "year": "2015",
       "publisher": "",
       "url": "http://www.museumskanderborg.dk/Alken_Enge-English_version-1070.aspx",
-
-      "group": 0},
-
-      {"id": "Herzig 2013",
-        "title": "X3D-EarthBrowser: Visualize Our Earth in Your Web Browser",
-        "authors": "Herzig, P., M. Englert, S. Wagner, Y. Jung, and U. Bockholt.",
-        "year": "2013",
-        "journal": "Proceedings of the 18th International Conference on 3D Web Technology",
-        "volume": "",
-        "number": "",
-        "pages": "139–142",
-        "publisher": "New York: ACM Publications",
-        "url": "https://doi.org/",
-
-        "group": 0},
-
-
+      "group": 0
+    },
+    {
+      "id": "Herzig 2013",
+      "title": "X3D-EarthBrowser: Visualize Our Earth in Your Web Browser",
+      "authors": "Herzig, P., M. Englert, S. Wagner, Y. Jung, and U. Bockholt.",
+      "year": "2013",
+      "journal": "Proceedings of the 18th International Conference on 3D Web Technology",
+      "volume": "",
+      "number": "",
+      "pages": "139–142",
+      "publisher": "New York: ACM Publications",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Herzog 2004",
       "title": "Group and conquer: a method for displaying large stratigraphic data sets",
@@ -1727,9 +1717,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-
-
-    {"id": "Hodder 2000",
+    {
+      "id": "Hodder 2000",
       "title": "Towards Reflexive Method in Archaeology: the Example of Çatalhöyük",
       "authors": "Hodder, I.",
       "year": "2000",
@@ -1739,49 +1728,45 @@
       "pages": "",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-
-      {"id": "Holst 2013",
-        "title": "Recording and Data",
-        "authors": "Holst, M. K.",
-        "year": "2013",
-        "editors": "M. K. Holst and M. Rasmussen",
-        "book section": "Skelhøj and the Bronze Age Barrows of Southern Scandinavia: The Bronze Age Barrow Tradition and the Excavation of Skelhøj",
-        "pages": "197–210",
-        "publisher": "Højbjerg: Jysk Arkæologisk Selskab",
-        "url": "https://doi.org/",
-
-        "group": 0},
-
-        {"id": "Holst 2018",
-          "title": "Direct Evidence of a Large Northern European Roman Period Martial Event and Postbattle Corpse Manipulation",
-          "authors": "Holst, M. K., J. Heinemeier, E. Hertz, P. Jensen, S. M. Kristiansen, L. Mollerup, and N. E. Søe.",
-          "year": "2018",
-          "journal": "Proceedings of the National Academy of Sciences",
-          "volume": "115",
-          "number": "23",
-          "pages": "5920–5925",
-          "publisher": "",
-          "url": "https://doi.org/10.1073/pnas.1721372115",
-
-          "group": 0},
-
-
-          {"id": "Holst & Rasmussen 2013",
-            "title": "Skelhøj and the Bronze Age Barrows of Southern Scandinavia: The Bronze Age Barrow Tradition and the Excavation of Skelhøj",
-            "authors": "Holst, M. K., and M. Rasmussen",
-            "year": "",
-            "editors": "",
-            "book section": "",
-            "pages": "",
-            "publisher": "Højbjerg: Jysk Arkæologisk Selskab",
-            "url": "https://doi.org/",
-
-            "group": 0},
-
-
+      "group": 0
+    },
+    {
+      "id": "Holst 2013",
+      "title": "Recording and Data",
+      "authors": "Holst, M. K.",
+      "year": "2013",
+      "editors": "M. K. Holst and M. Rasmussen",
+      "book section": "Skelhøj and the Bronze Age Barrows of Southern Scandinavia: The Bronze Age Barrow Tradition and the Excavation of Skelhøj",
+      "pages": "197–210",
+      "publisher": "Højbjerg: Jysk Arkæologisk Selskab",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Holst 2018",
+      "title": "Direct Evidence of a Large Northern European Roman Period Martial Event and Postbattle Corpse Manipulation",
+      "authors": "Holst, M. K., J. Heinemeier, E. Hertz, P. Jensen, S. M. Kristiansen, L. Mollerup, and N. E. Søe.",
+      "year": "2018",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "115",
+      "number": "23",
+      "pages": "5920–5925",
+      "publisher": "",
+      "url": "https://doi.org/10.1073/pnas.1721372115",
+      "group": 0
+    },
+    {
+      "id": "Holst & Rasmussen 2013",
+      "title": "Skelhøj and the Bronze Age Barrows of Southern Scandinavia: The Bronze Age Barrow Tradition and the Excavation of Skelhøj",
+      "authors": "Holst, M. K., and M. Rasmussen",
+      "year": "",
+      "editors": "",
+      "book section": "",
+      "pages": "",
+      "publisher": "Højbjerg: Jysk Arkæologisk Selskab",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Huggett 2004",
       "title": "Archaeology and the new technological fetishism",
@@ -1834,9 +1819,8 @@
       "url": "https://doi.org/10.1515/opar-2015-0002",
       "group": 0
     },
-
-
-    {"id": "Huggett & Guo-Yuan 2000",
+    {
+      "id": "Huggett & Guo-Yuan 2000",
       "title": "D Interpretative Modelling of Archaeological Sites. A Computer Reconstruction of a Medieval Timber and Earthwork Castle",
       "authors": "Huggett, J., and C. Guo-Yuan",
       "year": "2000",
@@ -1846,34 +1830,30 @@
       "pages": "",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-
-      {"id": "Hunter & Gerber 2010",
-        "title": "Harvesting Community Annotations on 3D Models of Museum Artefacts to Enhance Knowledge, Discovery and Re-Use",
-        "authors": "Hunter, J., and A. Gerber.",
-        "year": "2010",
-        "journal": "Journal of Cultural Heritage",
-        "volume": "11",
-        "number": "1",
-        "pages": "81–90",
-        "publisher": "",
-        "url": "https://doi.org/10.1016/j.culher.2009.04.004",
-
-        "group": 0},
-
-        {"id": "Ilkjær 2002",
-          "title": "Illerup Ådal: Archaeology as a Magic Mirror",
-          "authors": "Ilkjær, J.",
-          "year": "2002",
-          "publisher": "Højbjerg: Jysk Arkæologisk Selskab",
-          "url": "https://doi.org/",
-
-          "group": 0},
-
-
-
+      "group": 0
+    },
+    {
+      "id": "Hunter & Gerber 2010",
+      "title": "Harvesting Community Annotations on 3D Models of Museum Artefacts to Enhance Knowledge, Discovery and Re-Use",
+      "authors": "Hunter, J., and A. Gerber.",
+      "year": "2010",
+      "journal": "Journal of Cultural Heritage",
+      "volume": "11",
+      "number": "1",
+      "pages": "81–90",
+      "publisher": "",
+      "url": "https://doi.org/10.1016/j.culher.2009.04.004",
+      "group": 0
+    },
+    {
+      "id": "Ilkjær 2002",
+      "title": "Illerup Ådal: Archaeology as a Magic Mirror",
+      "authors": "Ilkjær, J.",
+      "year": "2002",
+      "publisher": "Højbjerg: Jysk Arkæologisk Selskab",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "ISAAK 2020",
       "title": "Initiative for statistical analysis in archaeology Kiel",
@@ -1900,7 +1880,8 @@
       "url": "http://www.fig.net/pub/athens/papers/ts25/TS25_3_Jarroush_EvenTzur.pdf",
       "group": 0
     },
-    {"id": "Jensen 2012",
+    {
+      "id": "Jensen 2012",
       "title": "Event-Based Archaeological Registration Principles",
       "authors": "Jensen, P.",
       "year": "2012",
@@ -1909,71 +1890,64 @@
       "pages": "209–216",
       "publisher": "Amsterdam: Pallas Publications",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-      {"id": "Jensen 2017a",
-        "title": "Archaeo",
-        "authors": "Jensen, P.",
-        "year": "",
-        "publisher": "",
-        "url": "www.archaeo.dk",
-
-        "group": 0},
-
-        {"id": "Jensen 2017b",
-          "title": "Where Are We? Reviewing the Integration of Complex Spatial Data in Current Field Archaeology",
-          "authors": "Jensen, P.",
-          "year": "2017",
-          "journal": "Internet Archaeology",
-          "volume": "44",
-          "number": "44",
-          "pages": "",
-          "publisher": "",
-          "url": "https://doi.org/10.11141/ia.44.8",
-
-          "group": 0},
-
-
-          {
-            "id": "Jensen 2018a",
-            "title": "Semantically enhanced 3D: A web-based platform for spatial integration of excavation documentation at Alken Enge, Denmark",
-            "authors": "Jensen, P.",
-            "year": "2018",
-            "journal": "Journal of Field Archaeology",
-            "volume": "43(sup1)",
-            "number": "",
-            "pages": "S31–S44",
-            "publisher": "",
-            "url": "https://doi.org/10.1080/00934690.2018.1510299",
-            "group": 7
-          },
-
-          {"id": "Jensen 2018b",
-            "title": "Evaluating Authenticity: Authenticity of 3D Models in Archaeological Field Documentation",
-            "authors": "Jensen, P.",
-            "year": "2018",
-            "editors": "P. Di Giuseppantonio Di Franco, F. Galeazzi, and V. Vassallo",
-            "book section": "Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions",
-            "pages": "",
-            "publisher": "",
-            "url": "https://doi.org/",
-
-            "group": 0},
-
-
-
-            {"id": "Johansen 2003",
-              "title": "Opretning Af Arkæologiske Udgravningsfotos med AirPhoto 1-13",
-              "authors": "Johansen, K. L.",
-              "year": "2003",
-              "publisher": "Copenhagen: Nationalmuseet ",
-              "url": "https://doi.org/",
-
-              "group": 0},
-
-
-
+      "group": 0
+    },
+    {
+      "id": "Jensen 2017a",
+      "title": "Archaeo",
+      "authors": "Jensen, P.",
+      "year": "",
+      "publisher": "",
+      "url": "www.archaeo.dk",
+      "group": 0
+    },
+    {
+      "id": "Jensen 2017b",
+      "title": "Where Are We? Reviewing the Integration of Complex Spatial Data in Current Field Archaeology",
+      "authors": "Jensen, P.",
+      "year": "2017",
+      "journal": "Internet Archaeology",
+      "volume": "44",
+      "number": "44",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/10.11141/ia.44.8",
+      "group": 0
+    },
+    {
+      "id": "Jensen 2018a",
+      "title": "Semantically enhanced 3D: A web-based platform for spatial integration of excavation documentation at Alken Enge, Denmark",
+      "authors": "Jensen, P.",
+      "year": "2018",
+      "journal": "Journal of Field Archaeology",
+      "volume": "43(sup1)",
+      "number": "",
+      "pages": "S31–S44",
+      "publisher": "",
+      "url": "https://doi.org/10.1080/00934690.2018.1510299",
+      "group": 7
+    },
+    {
+      "id": "Jensen 2018b",
+      "title": "Evaluating Authenticity: Authenticity of 3D Models in Archaeological Field Documentation",
+      "authors": "Jensen, P.",
+      "year": "2018",
+      "editors": "P. Di Giuseppantonio Di Franco, F. Galeazzi, and V. Vassallo",
+      "book section": "Authenticity and Cultural Heritage in the Age of 3D Digital Reproductions",
+      "pages": "",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Johansen 2003",
+      "title": "Opretning Af Arkæologiske Udgravningsfotos med AirPhoto 1-13",
+      "authors": "Johansen, K. L.",
+      "year": "2003",
+      "publisher": "Copenhagen: Nationalmuseet ",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Jones 2002",
       "title": "Archaeological Theory and Scientific Practice",
@@ -2021,9 +1995,8 @@
       "url": "https://doi.org/10.1016/j.jas.2007.06.002",
       "group": 6
     },
-
-
-    {"id": "KOEHL & LOTT 2008",
+    {
+      "id": "KOEHL & LOTT 2008",
       "title": "De la maquette 3D au SIG 3D pour la gestion du patrimoine archéologique",
       "authors": "KOEHL, M. AND LOTT, C.",
       "year": "2008",
@@ -2033,12 +2006,8 @@
       "pages": "",
       "publisher": "",
       "url": "http://www.esrifrance.fr/sig2008/insa_strasbourg.htm",
-
-      "group": 0},
-
-
-
-
+      "group": 0
+    },
     {
       "id": "Kotsakis 1989",
       "title": "RUNSECT: a computer program for the analysis of excavation data",
@@ -2102,14 +2071,15 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Kimball 2014",
+    {
+      "id": "Kimball 2014",
       "title": "3D Delineation: A Modernisation of Drawing Methodology for Field Archaeology",
       "authors": "Kimball, J. L.",
       "year": "2004",
       "publisher": "Oxford: Archaeopress Publishing",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Kjellman 2012",
       "title": "From 2D to 3D A photogrammetric revolution in archaeology? [MA thesis]",
@@ -2123,7 +2093,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Kreylos 2008",
+    {
+      "id": "Kreylos 2008",
       "title": "Environment-independent VR development",
       "authors": "Kreylos, O.",
       "year": "",
@@ -2133,8 +2104,8 @@
       "pages": "901–912",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Kvamme 1999",
       "title": "Recent directions and developments in geographical information systems",
@@ -2170,8 +2141,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-
-    {"id": "LANDESCHI & CARROZZINO 2011",
+    {
+      "id": "LANDESCHI & CARROZZINO 2011",
       "title": "Communicating Archaeological Risk with Web-Based Virtual Reality: A Case Study",
       "authors": "LANDESCHI, G., AND CARROZZINO, M.",
       "year": "2011",
@@ -2181,10 +2152,10 @@
       "pages": "",
       "publisher": "",
       "url": "http://intarch.ac.uk/journal/issue31/landeschi-carrozzino_index.html",
-
-      "group": 0},
-
-    {"id": "LANDESCHI & CARROZZINO 2013",
+      "group": 0
+    },
+    {
+      "id": "LANDESCHI & CARROZZINO 2013",
       "title": "Proceedings of the 38th Annual Conference on Computer Applications and Quantitative Methods in Archaeology – Granada",
       "authors": "LANDESCHI, G. AND CARROZZINO, M.",
       "year": "2013",
@@ -2193,10 +2164,8 @@
       "pages": "295-297",
       "publisher": "Oxford: Archeopress",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-
+      "group": 0
+    },
     {
       "id": "Landeschi et al. 2015",
       "title": "Enhanced 3D-GIS: Documenting Insula V 1 in Pompeii",
@@ -2209,7 +2178,6 @@
       "url": "https://doi.org/",
       "group": 7
     },
-
     {
       "id": "Landeschi et al. 2016a",
       "title": "3D-GIS as a platform for visual analysis: Investigating a Pompeian house",
@@ -2287,9 +2255,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-
-
-    {"id": "LEANDER TOUATI 2010",
+    {
+      "id": "LEANDER TOUATI 2010",
       "title": "Water, well-being and social complexity in Insula V 1. A Pompeian city block revisited",
       "authors": "LEANDER TOUATI, A.M.",
       "year": "2010",
@@ -2299,10 +2266,8 @@
       "pages": "",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-
+      "group": 0
+    },
     {
       "id": "Ledoux & Meijers 2011",
       "title": "Topologically consistent 3D city models obtained by extrusion",
@@ -2366,7 +2331,8 @@
       "url": "https://doi.org/10.1017/S0003598X00083745",
       "group": 0
     },
-    {"id": "LLOBERA 2003",
+    {
+      "id": "LLOBERA 2003",
       "title": "Extending GIS-based visual analysis: the concept of visualscapes",
       "authors": "LLOBERA, M.",
       "year": "2003",
@@ -2376,8 +2342,8 @@
       "pages": "25-48",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Llobera et al. 2007",
       "title": "Calculating the inherent visual structure of a landscape (‘total viewshed’) using high-throughput computing",
@@ -2531,14 +2497,15 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Lucas 2011",
+    {
+      "id": "Lucas 2011",
       "title": "Critical Approaches to Fieldwork. Contemporary and Historical Archaeological Practice",
       "authors": "Lucas, G.",
       "year": "2011",
       "publisher": "London: Routledge",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Luke et al. 2015",
       "title": "Composing communities: Chalcolithic through Iron Age survey ceramics in the Marmara lake basin, western Turkey",
@@ -2577,7 +2544,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Madsen 2003b",
+    {
+      "id": "Madsen 2003b",
       "title": "At Gøre Arkæologi. Refleksioner over Udgravningen som Videnskabelig Praksis.",
       "authors": "Madsen, T.",
       "year": "2003",
@@ -2587,34 +2555,32 @@
       "pages": "12-29",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-      {"id": "May et al. 2008",
-        "title": "A STAR Is Born: Some Emerging Semantic Technologies for Archaeological Resources",
-        "authors": "May, K., C. Binding, and D. Tudhope.",
-        "year": "2008",
-        "editors": "E. Jerem, F. Redő, and V. Szeverényi",
-        "book section": "On the Road to Reconstructing the Past. Computer Applications and Quantitative Methods in Archaeology (CAA). Proceedings of the 36th International Conference. Budapest, April 2–6, 2008",
-        "pages": "111–116",
-        "publisher": "Budapest: Archeaeolingua",
-        "url": "https://doi.org/",
-
-        "group": 0},
-
-
-        {"id": "May et al. 2012",
-          "title": "Semantic Technologies Enhancing Links and Linked Data for Archaeological Resources.",
-          "authors": "May, K., C. Binding, D. Tudhope, and S. Jeffrey.",
-          "year": "2012",
-          "editors": "M. Zhou, I. Romanowska, Z. Wu, P. Xu, and P. Verhagen",
-          "book section": "Revive the Past: Proceedings of Computer Applications and Quantitative Techniques in Archaeology Conference 2011, Beijing",
-          "pages": "261–272",
-          "publisher": "Amsterdam: Pallas Publications",
-          "url": "https://doi.org/",
-
-          "group": 0},
-
+      "group": 0
+    },
+    {
+      "id": "May et al. 2008",
+      "title": "A STAR Is Born: Some Emerging Semantic Technologies for Archaeological Resources",
+      "authors": "May, K., C. Binding, and D. Tudhope.",
+      "year": "2008",
+      "editors": "E. Jerem, F. Redő, and V. Szeverényi",
+      "book section": "On the Road to Reconstructing the Past. Computer Applications and Quantitative Methods in Archaeology (CAA). Proceedings of the 36th International Conference. Budapest, April 2–6, 2008",
+      "pages": "111–116",
+      "publisher": "Budapest: Archeaeolingua",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "May et al. 2012",
+      "title": "Semantic Technologies Enhancing Links and Linked Data for Archaeological Resources.",
+      "authors": "May, K., C. Binding, D. Tudhope, and S. Jeffrey.",
+      "year": "2012",
+      "editors": "M. Zhou, I. Romanowska, Z. Wu, P. Xu, and P. Verhagen",
+      "book section": "Revive the Past: Proceedings of Computer Applications and Quantitative Techniques in Archaeology Conference 2011, Beijing",
+      "pages": "261–272",
+      "publisher": "Amsterdam: Pallas Publications",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "McPherron 2009",
       "title": "Structured light scanning for high-resolution documentation of in situ archaeological finds",
@@ -2628,7 +2594,8 @@
       "url": "https://doi.org/10.1016/j.jas.2008.06.028",
       "group": 0
     },
-    {"id": "Means 2015",
+    {
+      "id": "Means 2015",
       "title": "Promoting a More Interactive Public Archaeology",
       "authors": "Means, B. K. 2015",
       "year": "2015",
@@ -2638,8 +2605,8 @@
       "pages": "235–248",
       "publisher": "",
       "url": "https://doi.org/10.7183/2326-3768.3.3.235",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Merlo & Shell 2005",
       "title": "Developing a multidimensional GIS framework for archaeological excavations",
@@ -2689,7 +2656,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Michaux et al. 2015",
+    {
+      "id": "Michaux et al. 2015",
       "title": "3D Fossil Reconstruction Related to the Publication: Body Shape and Life Style of the Extinct Rodent Canariomys Bravoi from Tenerife, Canary Islands",
       "authors": "Michaux, J., L. Hautier, R. Lebrun, F. Guy, and F. Garcia-Talavera",
       "year": "2015",
@@ -2699,8 +2667,8 @@
       "pages": "",
       "publisher": "",
       "url": "https://doi.org/10.18563/m3.1.1.e3 ",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Mickel 2021",
       "title": "Why those who shovel are silent: A history of local archaeological knowledge and labor",
@@ -2714,7 +2682,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Mills & Baker 2009",
+    {
+      "id": "Mills & Baker 2009",
       "title": "The VERA Information Environment",
       "authors": "Mills, H., and M. Baker",
       "year": "2009",
@@ -2723,20 +2692,17 @@
       "pages": "1-10",
       "publisher": "Oxford: Archaeopress",
       "url": "https://doi.org/",
-
-      "group": 0},
-
-
-      {"id": "Milner et al. 2013",
-        "title": "Star Carr: Life in Britain after the Ice Age",
-        "authors": "Milner, N., B. Taylor, C. Conneller, and T. Schadla-Hall",
-        "year": "2013",
-        "publisher": "Council for British Archaeology",
-        "url": "https://doi.org/",
-
-        "group": 0},
-
-
+      "group": 0
+    },
+    {
+      "id": "Milner et al. 2013",
+      "title": "Star Carr: Life in Britain after the Ice Age",
+      "authors": "Milner, N., B. Taylor, C. Conneller, and T. Schadla-Hall",
+      "year": "2013",
+      "publisher": "Council for British Archaeology",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Mlekuz 2004",
       "title": "Listening to landscapes: modelling past soundscapes in GIS",
@@ -2763,7 +2729,8 @@
       "url": "https://github.com/mmolero/pypoisson",
       "group": 0
     },
-    {"id": "Morgan 2016",
+    {
+      "id": "Morgan 2016",
       "title": "Analog to Digital: Transitions in Theory and Practice in Archaeological Photography at Çatalhöyük",
       "authors": "Morgan, C.",
       "year": "2016",
@@ -2773,8 +2740,8 @@
       "pages": "",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Morgan & Wright 2018",
       "title": "Pencils and pixels: Drawing and digital media in archaeological field recording",
@@ -2902,9 +2869,8 @@
       "url": "https://opendatacharter.net/",
       "group": 0
     },
-
-
-    {"id": "OPITZ & NOWLIN 2012",
+    {
+      "id": "OPITZ & NOWLIN 2012",
       "title": "Photogrammetric modeling + GIS. Better methods for working with mesh data",
       "authors": "OPITZ, R., AND NOWLIN, J.",
       "year": "",
@@ -2914,10 +2880,8 @@
       "pages": "",
       "publisher": "",
       "url": "http://www.esri.com/news/arcuser/0312/files/archaeologyinventory.pdf",
-
-      "group": 0},
-
-
+      "group": 0
+    },
     {
       "id": "Opitz 2015",
       "title": "Three dimensional field recording in archaeology: An example from Gabii",
@@ -3137,7 +3101,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Pollefeys et al. 2001",
+    {
+      "id": "Pollefeys et al. 2001",
       "title": "Image-Based 3D Acquisition of Archaeological Heritage and Applications",
       "authors": "Pollefeys, M., L. Van Gool, M. Vergauwen, K. Cornelis, F. Verbiest, and J. Tops",
       "year": "2001",
@@ -3147,8 +3112,8 @@
       "pages": "255–262",
       "publisher": "New York: ACM",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Ponchio & Dellepiane 2015",
       "title": "Fast decompression for web-based view-dependent 3D rendering",
@@ -3213,7 +3178,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Powlesland 2014",
+    {
+      "id": "Powlesland 2014",
       "title": "British Archaeology",
       "authors": "Powlesland, D. J.",
       "year": "2014",
@@ -3223,8 +3189,8 @@
       "pages": "34–39",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Rahman et al. 2001",
       "title": "The 3D GIS Software Development: Global Efforts from Researchers and Vendors",
@@ -3260,7 +3226,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "RENFREW 1993",
+    {
+      "id": "RENFREW 1993",
       "title": "Cognitive archaeology: some thoughts on the archaeology of thought.",
       "authors": "RENFREW, C.",
       "year": "1993",
@@ -3270,8 +3237,8 @@
       "pages": "248-250",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Richards-Rissetto et al. 2012",
       "title": "Kinect and 3D GIS in archaeology",
@@ -3397,7 +3364,8 @@
       "url": "http://www.iaepan.vot.pl/ap2015/images/pdfy/Archaeologia%20Polona%2053%202015compressed.pdf",
       "group": 0
     },
-    {"id": "Scollar 1998",
+    {
+      "id": "Scollar 1998",
       "title": "AirPhoto–a WinNT/Win95 Program for Geometric Processing of Archaeological Air Photos",
       "authors": "Scollar, I.",
       "year": "1998",
@@ -3407,8 +3375,8 @@
       "pages": "37–38",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Scott et al. 2021",
       "title": "Born-digital logistics: Impacts of 3D recording on archaeological workflow, training, and interpretation",
@@ -3456,7 +3424,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "STAUB 2009",
+    {
+      "id": "STAUB 2009",
       "title": "Decorative effects and room functions. Evidence of thresholds studied in the residential quarters of Insula V 1, Pompeii",
       "authors": "STAUB, T.",
       "year": "2009",
@@ -3466,8 +3435,8 @@
       "pages": "205-218",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Stoter & Zlatanova 2003a",
       "title": "3D GIS, where are we standing?",
@@ -3494,7 +3463,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "Stott et al. in press",
+    {
+      "id": "Stott et al. in press",
       "title": "Supercomputing at the Trench Edge: Expediting Image Based 3D Recording",
       "authors": "Stott, D., J. Andresen, M. Pilati, and C. M. Risager",
       "year": "",
@@ -3504,8 +3474,8 @@
       "pages": "",
       "publisher": "",
       "url": "https://doi.org/",
-
-      "group": 0},
+      "group": 0
+    },
     {
       "id": "Sides & Hack 1995",
       "title": "Three-dimensional GIS:future developments",
@@ -3531,7 +3501,6 @@
       "url": "https://doi.org/",
       "group": 0
     },
-
     {
       "id": "Smith & Friedman 2004",
       "title": "A Technology Whose Time Has Come",
@@ -3711,7 +3680,8 @@
       "url": "https://doi.org/",
       "group": 0
     },
-    {"id": "von Schwerin et al. 2016",
+    {
+      "id": "von Schwerin et al. 2016",
       "title": "Airborne LiDAR Acquisition, Post-Processing and Accuracy-Checking for a 3D WebGIS of Copan, Honduras",
       "authors": "von Schwerin, J., H. Richards-Rissetto, F. Remondino, M. Grazia Spera, M. Auer, N. Billen, L. Loos, and M. Reindel",
       "year": "2016",
@@ -3721,20 +3691,21 @@
       "pages": "85–104",
       "publisher": "",
       "url": "https://doi.org/10.1016/j.jasrep.2015.11.005",
-
-      "group": 0},
-      {"id": "von Schwerin et al. 2013",
-        "title": "The MayaArch3D Project: A 3D WebGIS for Analyzing Ancient Maya Architecture and Landscapes at Copan, Honduras",
-        "authors": "von Schwerin, J., H. Richards-Rissetto, F. Remondino, and G. Agugiaro",
-        "year": "2013",
-        "journal": "Literary and Linguistic Computing",
-        "volume": "28",
-        "number": "4",
-        "pages": "736–753",
-        "publisher": "",
-        "url": "https://doi.org/10.1093/llc/fqt059",
-
-        "group": 0},
+      "group": 0
+    },
+    {
+      "id": "von Schwerin et al. 2013",
+      "title": "The MayaArch3D Project: A 3D WebGIS for Analyzing Ancient Maya Architecture and Landscapes at Copan, Honduras",
+      "authors": "von Schwerin, J., H. Richards-Rissetto, F. Remondino, and G. Agugiaro",
+      "year": "2013",
+      "journal": "Literary and Linguistic Computing",
+      "volume": "28",
+      "number": "4",
+      "pages": "736–753",
+      "publisher": "",
+      "url": "https://doi.org/10.1093/llc/fqt059",
+      "group": 0
+    },
     {
       "id": "Watson 2001",
       "title": "The Sounds of Transformation: Acoustics, Monuments and Ritual in the British Neolithic",
@@ -3840,37 +3811,40 @@
       "url": "https://doi.org/10.1016/j.newideapsych.2011.12.003",
       "group": 0
     },
-    {"id": "Wu 2016",
+    {
+      "id": "Wu 2016",
       "title": "VisualSFM : A Visual Structure from Motion System",
       "authors": "Wu, C.",
       "year": "2016",
       "publisher": "",
       "url": "http://ccwu.me/vsfm/",
-
-      "group": 0},
-      {"id": "Wulff & Koch 2012",
-        "title": "Towards a System for Semantic Image-Based 3D Documentation of Archaeological Trenches",
-        "authors": "Wulff, R., and R. Koch.",
-        "year": "2012",
-        "editors": "M. Zhou, I. Romanowska, Z. Wu, P. Xu, and P. Verhagen",
-        "book section": "Revive the Past. Computer Applications and Quantitative Methods in Archaeology (CAA). Proceedings of the 39th International Conference, Beijing, April 12–16",
-        "pages": "92–97",
-        "publisher": "Amsterdam: Pallas Publications",
-        "url": "https://doi.org/",
-
-        "group": 0},
-        {"id": "Yu et al. 2011",
-          "title": "High Speed Capture, Retrieval and Rendering of Segment-Based Annotations on 3D Museum Objects",
-          "authors": "Yu, C. H., T. Groza, and J. Hunter.",
-          "year": "2011",
-          "journal": "Lecture Notes in Computer Science",
-          "volume": "7008 LNCS",
-          "number": "",
-          "pages": "5–15",
-          "publisher": "",
-          "url": "https://doi.org/",
-
-          "group": 0},
+      "group": 0
+    },
+    {
+      "id": "Wulff & Koch 2012",
+      "title": "Towards a System for Semantic Image-Based 3D Documentation of Archaeological Trenches",
+      "authors": "Wulff, R., and R. Koch.",
+      "year": "2012",
+      "editors": "M. Zhou, I. Romanowska, Z. Wu, P. Xu, and P. Verhagen",
+      "book section": "Revive the Past. Computer Applications and Quantitative Methods in Archaeology (CAA). Proceedings of the 39th International Conference, Beijing, April 12–16",
+      "pages": "92–97",
+      "publisher": "Amsterdam: Pallas Publications",
+      "url": "https://doi.org/",
+      "group": 0
+    },
+    {
+      "id": "Yu et al. 2011",
+      "title": "High Speed Capture, Retrieval and Rendering of Segment-Based Annotations on 3D Museum Objects",
+      "authors": "Yu, C. H., T. Groza, and J. Hunter.",
+      "year": "2011",
+      "journal": "Lecture Notes in Computer Science",
+      "volume": "7008 LNCS",
+      "number": "",
+      "pages": "5–15",
+      "publisher": "",
+      "url": "https://doi.org/",
+      "group": 0
+    },
     {
       "id": "Zaitceva 2016",
       "title": "Photogrammetry: From field recording to museum presentation (Timiryazevo Burial Site, Western Siberia)",
@@ -5712,8 +5686,7 @@
       "source": "Landeschi et al. 2015",
       "target": "Callieri et al. 2011",
       "value": 1
-    }
-    ,
+    },
     {
       "source": "Landeschi et al. 2015",
       "target": "CHAPMAN 2006",
@@ -5738,8 +5711,7 @@
       "source": "Landeschi et al. 2015",
       "target": "Dell’Unto et al. 2015",
       "value": 1
-    }
-    ,
+    },
     {
       "source": "Landeschi et al. 2015",
       "target": "Dell’Unto et al. 2013",
@@ -5804,8 +5776,7 @@
       "source": "Landeschi et al. 2015",
       "target": "GEORGE 1999",
       "value": 1
-    }
-    ,
+    },
     {
       "source": "Landeschi et al. 2015",
       "target": "Gillings & Goodrick 1996",
@@ -5830,8 +5801,7 @@
       "source": "Landeschi et al. 2015",
       "target": "Lake et al. 1998",
       "value": 1
-    }
-    ,
+    },
     {
       "source": "Landeschi et al. 2015",
       "target": "LANDESCHI & CARROZZINO 2013",
@@ -5856,8 +5826,7 @@
       "source": "Landeschi et al. 2015",
       "target": "Losier et al. 2007",
       "value": 1
-    }
-    ,
+    },
     {
       "source": "Landeschi et al. 2015",
       "target": "Merlo 2004",
@@ -5882,8 +5851,7 @@
       "source": "Landeschi et al. 2015",
       "target": "RENFREW 1993",
       "value": 1
-    }
-    ,
+    },
     {
       "source": "Landeschi et al. 2015",
       "target": "STAUB 2009",

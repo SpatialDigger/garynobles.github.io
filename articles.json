@@ -50,6 +50,18 @@
       "url": "https://doi.org/",
       "group": 0
     },
+
+
+    {"id": "Ahlfeldt 2004",
+      "title": "On Reconstructing and Performing Maya Architecture: Temple 22, Copan, Honduras (AD 715)",
+      "authors": "Ahlfeldt, J.",
+      "year": "2004",
+      "publisher": "PhD Dissertation. Columbia University",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+
     {
       "id": "Allen 2011",
       "title": "Getting to Know ArcGIS ModelBuilder",
@@ -5890,6 +5902,11 @@
     {
       "source": "Richards-Rissetto et al. 2012",
       "target": "Forte & Siliotti 1997",
+      "value": 1
+    },
+    {
+      "source": "Richards-Rissetto et al. 2012",
+      "target": "Ahlfeldt 2004",
       "value": 1
     }
   ]

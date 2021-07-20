@@ -1,61 +1,59 @@
 
-Hadzilakos, T., Stoumbou, P.M., 1996. Conceptual data modelling for prehistoric excavation documentation. In: Kamermans, H., Fennema, K. (Eds.), Interfacing the Past: Computer Applications and Quantitative Methods in Archaeology 1995. University of Leiden, Leiden, pp. 21e30.
 
-Herzog, I., 2004. Group and conquer: a method for displaying large stratigraphic data sets. In: Ausserer, K.F., Borner, W., Goriany, M., KarlhuberVockl, L. (Eds.), Enter the Past: The E-way into the Four Dimensions of Cultural Heritage. CAA 2003. BAR International Series 1227. Archeopress, pp. 423e426.
+ G. Agugiaro, F. Remondino, F., G. Girardi, J. von Schwerin, H. Richards-Rissetto, R. De Amicis, “QUERYARCH3D: Querying and visualizing 3D models of a Maya archaeological site in a web-based interface,” Proc. 23th Int. CIPA Symposium, Prague, Czech Republic (on CD-Rom),  2011. 336
 
-Hodder, I., 1999. The Archaeological Process: An Introduction. Blackwell, Oxford.
 
-Jarroush, J., Even-Tzur, G., 2004. Constructive Solid Geometry as the Basis of 3D Future Cadastre, FIG Working Week 2004. Greece, Athens. <http://www.fig.net/pub/athens/papers/ts25/TS25_3_Jarroush_EvenTzur.pdf>.
+ A.M. Manferdini and F. Remondino, “A review of reality-based 3D model generation, segmentation and web-based visualization methods,” Int. Journal of Heritage in the Digital Era, Vol.1(1),  pp. 103-124, 2012.
 
-Jones, A., 2002. Archaeological Theory and Scientific Practice. Cambridge University Press, Cambridge.
+ J.S. Steuer, “Defining  virtual  reality:  Dimensions  determining telepresence,” Journal of Communication, 42(4), 73-9, 1992.
 
-Katsianis, M., Tsipidis, S., Kotsakis, K., Koussoulakou, A., Manolopoulos, Y., 2006. Integrating excavation recording, data management and object representation through GIS. In: International Congress ‘‘Cultural Heritage and New Technologies’’ Workshop 10 e Archa¨ologie Und Computer,7e10/11/2005, Vienna.
+ M. Forte and E. Bonini (2010), “Embodiment and Enaction: A Theoretical Overview for Cybercommunities”. In Heritage in the Digital era, Multi-Science Publishing: Essex, 2010,  pp. 45-56.
 
-Kotsakis, K., 1989. RUNSECT: a computer program for the analysis of excavation data. Journal of Field Archaeology 16, 369e375.
+ J.A. Barceló, M. Forte, and D.H. Sanders,  Virtual Reality in Archaeology, Oxford, BAR International Series 843, 2000.
 
-Kotsakis, K., Katsianis, M., Tsipidis, S., in press. Digital Recording of Archaeological Data Using GIS in Paliambela, Kolindros. Archaeological Work in Macedonia and Thrace Annual Conference 19, Thessaloniki, Greece 2006(in Greek).
+ B. Frischer and A. Dakouri-Hild, Beyond illustration: 2d and 3d digital technologies as tools for discovery in archaeology. Oxford: Archaeopress, 2008.
 
-Koussoulakou, A., Stylianidis, E., 1999. The use of GIS for the visual exploration of archaeological spatiotemporal data. Cartography and GIS 26 (2), 152e160.
+ A.M. Manferdini, F. Remondino, S. Baldissini, M. Gaiani, and B. Benedetti, “3D modeling and semantic classification of archaeological finds for management and visualization in 3D archaeological databases,” Proc. of 14th Int. Conference on Virtual Systems and MultiMedia (VSMM), Limassol, Cyprus, pp. 221-228,  2008.
 
-Kvamme, K.L., 1999. Recent directions and developments in geographical information systems. Journal of Archaeological Research 7 (2), 164-167.
+ F.I. Apollonio, C. Corsi, M. Gaiani, and S. Baldissini, “An integrated 3D geodatabase for Palladio’s work,” International Journal of Architectural Computing, Vol. 2(8), 2010.
 
-Lock, G., 1995. Archaeological computing, archaeological theory and moves towards contextualism. In: Huggett, J., Ryan, N. (Eds.), Computer Applications and Quantitative Methods in Archaeology. BAR International Series 600. Tempus Reparatum, Oxford, pp. 13e18.
+ L. De Luca, C. Busarayat, C. Stefani, P. Veron, M. and Florenzano, “A semantic-based platform for the digital analysis of the architectural heritage,” Computers & Graphics. Vol. 35(2), pp. 227-241, 2011.
 
-Lock, G., 2003. Using Computers in Archaeology: Towards Virtual Pasts. Routledge, London and New York.
+ E. Suma, B. Lange, A. Rizzo, D. Krum, and M. Bolas, “FAAST: The Flexible Action and Articulated Skeleton Toolkit,” Proceedings of IEEE Virtual Reality, pp. 247-248, 2011.
 
-Losier, L.-M., Pouliot, J., Fortin, M., 2007. 3D geometrical modeling of excavation units at the archaeological site of Tell ‘Acharneh (Syria). Journal of Archaeological Science 34, 272e288.
+ B. Lange, A. Rizzo, C. Chang, E. Suma, and M. Bolas. Markerless Full Body Tracking: Depth-Sensing Technology within Virtual Environments,”  Interservice/Industry Training, Simulation, and Education Conference (I/ITSEC) 2011.
 
-Lucas, G., 2005. The Archaeology of Time. Routledge, Abingdon.
+ N. Villaroman, D. Rowe, and B. Swan, “Teaching Natural User Interaction Using OpenNI and the Micros`oft Kinect Sensor.” In  Human Factors (2011).
 
-Madsen, T., 2003. ArchaeoInfo: An Object Oriented Information System for Archaeological Excavations, Paper presented at the CAA 2003: Enter the Past: The E-way into the Four Dimensions of Cultural Heritage. Austria, April 2003, Vienna.
+ “The Kinect revolution”, The New Scientist, vol. 208, no. 2789, pp. 5, 2011.
 
-Nigro, J.D., Ungar, P.S., De Ruiter, D.J., Berger, L.R., 2003. Developing a Geographic Information System (GIS) for mapping and analysing fossil deposits at Swartkrans, Gauteng Province, South Africa. Journal of Archaeological Science 30, 317e324.
+ J. Giles, “Inside the race to hack the Kinect,” The New Scientist, vol. 208. 2789, pp. 22-23, 2010.
 
-Olivier, L., 2004. The past of the present. Archaeological memory and time. Archaeological Dialogues 10 (2), 204e213.
+ Skuggteatern: Console yourself. Accessed May 17, 2012. http://skuggteatern.com/repertoar/console-your-self
 
-Patias, P., Stylianidis, E., Tsioukas, V., Gemenetzis, D., 2005. Rapid Photogrammetric Survey and GIS Documentation of Pre-historic Excavation Sites. CIPA-WG 5.
+ M. Khan, and P. de Byl, “Preserving our Past with Toys of  the Future,” Ascilite 2011, Wrest Point, Hobart Tasmania, Australia, 2011.
 
-Perez, C.A.G., 2002. Sistemas De Informacio´n para Arqueologı´a: Teorı´a, Metodoloxı´a y Technoloxı´as. BAR International Series 1015. Archaeopress, Oxford.
+ Researchers turn Kinect game into 3D scanner. University of California  Newsroom. July 27, 2011. http://www.universityofcalifornia.edu/news/article/26032
 
-Powlesland, D., Clemence, H., Lyall, J., 1998. West Heslerton: WEB-CD. The application of HTML and WEB tools for creating a distributed excavation archive in the form of a WEB-CD. Internet Archaeology 5 (Autumn/Winter).
+ UCSD Researchers Modify Kinect Gaming Device to Scan in 3D. California Institute for Telecommunications and Information Technology Newsroom. July 28, 2011. http://calit2.net/newsroom/article.php?id=1881
 
-Roskams, S.P., 2001. Excavation (Cambridge Manuals in Archaeology). Cambridge University Press, Cambridge.
+ J. Ahlfeldt, On Reconstructing and Performing Maya Architecture: Temple 22, Copan, Honduras (AD 715). PhD Dissertation. Columbia University, 2004.
 
-Sellis, T., Koubarakis, M., Frank, A., Grumbach, S., Gueting, R.H., Jensen, C., Lorentzos, N., Manolopoulos, Y., Nardelli, E., Pernici, B., Schek, H.J., Scholl, M., Theodoulidis, B., Tryfona, N. (Eds.), 2003. Spatiotemporal Databases: the Chorochronos Approach. Lecture Notes in Computer Science, Vol. 2520. Springer Verlag.
+ F. Remondino, A. Grün, J. von Schwerin, H. Eisenbeiss, A. Rizzi, M. Sauerbier, and H. Richards-Rissetto, “Multisensors 3D documentation of the Maya site of Copan,” Proceedings of 22nd CIPA Symposium, Kyoto, Japan, 2009.
 
-Shanks, M., Tilley, C., 1987. Social Theory and Archaeology. Polity Press,
-Cambridge.
+ H. Richards-Rissetto, Exploring Social Interaction at the Ancient Maya Site of Copán, Honduras: A Multi-scalar Geographic Information Systems (GIS) Analysis of Access and Visibility. Ph.D. Dissertation, University of New Mexico, 2010.
 
-Stoter, J.E., Zlatanova, S., 2003a. 3D GIS, where are we standing? in: Proceedings of the ISPRS WG II/6, IV/1 and IV/2 Joint Workshop on ’Spatial, Temporal and Multi-dimensional Data Modelling and Analysis’. ISPRS, London.
+ J. von Schwerin, H. Richards-Rissetto F. Remondino, G. Agugiaro, M. Forte, and R. Maqueda, “The MayaArch3D Project; Digital Technologies for Research in Maya Archaeology,” Final Performance Report and White Paper for NEH Digital Humanities Level II Start- Up Grant, 2011.
 
-Stoter, J.E., Zlatanova, S., 2003b. Visualising and editing of 3D objects organised in a DBMS. In: Proceedings of the EuroSDR Commission 5 Workshop on Visualisation and Rendering. EuroSDR, Cambridge.
+ F. Menna, F. Remondino, R. Battisti, and E. Nocerino, “Geometric investigation of a gaming active device,”  Proc. of Videometrics, Range Imaging and Applications XI, SPIE Optical Metrology, Vol. 80850G-1-15, 2011.
 
-Tiede, D., Blaschke, T., 2005. A two-way workflow for integrating CAD, 3D visualization and spatial analysis in a GIS environment. In: Buhmann, E., Paar, P., Bishop, I., Lange, E. (Eds.), Trends in Real-Time Landscape Visualization and Participation. Proceedings at Anhalt University of Applied Sciences 2005. Wichmann Verlag, Heidelberg, pp. 77e87. <http://www.masterla.de/conf/pdf/conf2005/23tiede_c.pdf>.
+ K. Khoshelham and S.O. Elberink, “Accuracy and Resolution of Kinect Depth Data for Indoor Mapping Applications,”  Sensors 12(2), 1437-1454, 2012.
 
-Tsipidis, S., Koussoulakou, A., Kotsakis, K., 2005. 3D GIS Visualization of Archaeological Excavation Data, Poster presentation at the International Cartographic Conference (ICC 2005) 9e16/7/2005, La Coru~na. <http://www.cartesia.org/geodoc/icc2005/pdf/poster/TEMA26/SPYROS%20TSIPIDIS.pdf>.
+ Flexible Action and Articulated Skeleton Toolkit (FAAST). Institute for Creative Technologies. University of Southern California. Accessed May 17, 2012. http://projects.ict.usc.edu/mxr/faast/
 
-Wheatley, D., Gillings, M., 2002. Spatial Technology and Archaeology. The Archaeological Applications of GIS. Taylor & Francis, London and New York.
+ OpenNI. Accessed May 17, 2012. http://www.openni.org/
 
-Zlatanova, S., Rahman, A.A., Pilouk, M., 2002. Trends in 3D GIS development. Journal of Geospatial Engineering 4 (2), 1e10.
 
-Zhukovsky, M., 2002. Handling digital 3-D record of archaeological excavation data. In: Burenhult, G. (Ed.), Archaeological Informatics: Pushing the Envelope. CAA2001, BAR International Series 1016. Archaeopress, Oxford, pp. 431e438.
+
+
+ H.J. Hsu, “The Potential of Kinect in Education,” International Journal of Information and Education Technology, Vol. 1, No. 5, December 2011.

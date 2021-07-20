@@ -1254,6 +1254,19 @@
       "url": "https://doi.org/",
       "group": 0
     },
+
+
+    {"id": "Forte 2010",
+      "title": "Cyberarchaeology",
+      "authors": "M. Forte",
+      "year": "2010",
+      "publisher": "BAR International Series 2177",
+      "url": "https://doi.org/",
+
+      "group": 0},
+
+
+
     {
       "id": "Forte 2014",
       "title": "3D archaeology: New perspectives and challenges – The example of Çatalhöyük",
@@ -2110,6 +2123,18 @@
       "url": "https://doi.org/",
       "group": 0
     },
+    {"id": "Kreylos 2008",
+      "title": "Environment-independent VR development",
+      "authors": "Kreylos, O.",
+      "year": "",
+      "journal": "Advances in Visual Computing, ISVC 2008, Part I, LNCS 5358",
+      "volume": "",
+      "number": "",
+      "pages": "901–912",
+      "publisher": "",
+      "url": "https://doi.org/",
+
+      "group": 0},
     {
       "id": "Kvamme 1999",
       "title": "Recent directions and developments in geographical information systems",
@@ -5867,6 +5892,36 @@
     {
       "source": "Landeschi et al. 2015",
       "target": "Tilley 1994",
+      "value": 1
+    },
+    {
+      "source": "Richards-Rissetto et al. 2012",
+      "target": "Agugiaro 2011",
+      "value": 1
+    },
+    {
+      "source": "Richards-Rissetto et al. 2012",
+      "target": "Forte 2010",
+      "value": 1
+    },
+    {
+      "source": "Richards-Rissetto et al. 2012",
+      "target": "Kreylos 2008",
+      "value": 1
+    },
+    {
+      "source": "Richards-Rissetto et al. 2012",
+      "target": "Conolly & Lake 2006",
+      "value": 1
+    },
+    {
+      "source": "Richards-Rissetto et al. 2012",
+      "target": "Wheatley & Gillings 2002",
+      "value": 1
+    },
+    {
+      "source": "Richards-Rissetto et al. 2012",
+      "target": "Forte & Siliotti 1997",
       "value": 1
     }
   ]
